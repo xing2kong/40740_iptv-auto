@@ -1,0 +1,48 @@
+name: Daily IPTV Scrape
+
+on:
+  schedule:
+    - cron: '10 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - run: python scraper.py --output-dir output --timeout 8 --workers 20
+      - name: Generate summary
+        run: |
+          echo "## IPTV 抓取结果" >> $GITHUB_STEP_SUMMARY
+          echo "**时间**: $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          if [ -f output/hk.json ]; then
+            python3 -c "
+          import json
+          with open('output/hk.json') as f:
+              d = json.load(f)
+          s = d['stats']
+          print(f'- 原始频道: {s.get(\"total_raw\", 0)}')
+          print(f'- 去重后: {s.get(\"total_unique\", 0)}')
+          print(f'- 可播: {s.get(\"alive\", 0)}')
+          print(f'- 不可播: {s.get(\"dead\", 0)}')
+          " >> $GITHUB_STEP_SUMMARY
+          fi
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "auto: update $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+            git push
+          fi

@@ -42,31 +42,57 @@ except ImportError:
 # ═══════════════════════════════════════════════════════════════
 
 SOURCES = [
+    # ── 1. iptv-org: 全球最大公开 IPTV 数据库 ──
     {
         "name": "iptv-org-香港",
         "url": "https://iptv-org.github.io/iptv/countries/hk.m3u",
-        "format": "m3u",
     },
     {
         "name": "iptv-org-澳门",
         "url": "https://iptv-org.github.io/iptv/countries/mo.m3u",
-        "format": "m3u",
-    },
-    {
-        "name": "imDazui-港澳台",
-        "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门202506.m3u",
-        "format": "m3u",
-    },
-    {
-        "name": "ChinaIPTV-自动更新",
-        "url": "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
-        "format": "m3u",
-        "filter_group": "港澳台",
     },
     {
         "name": "iptv-org-中文",
         "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
-        "format": "m3u",
+        "filter_keyword": True,
+    },
+    # ── 2. Joker-Cold: 已验证的香港频道合集 (640+源) ──
+    {
+        "name": "Joker-Cold-全量",
+        "url": "https://raw.githubusercontent.com/Joker-Cold/HK-IPTV/main/source/all_sources.m3u",
+        "filter_keyword": True,
+    },
+    {
+        "name": "Joker-Cold-已验证",
+        "url": "https://raw.githubusercontent.com/Joker-Cold/HK-IPTV/main/source/COLD_OK.m3u8",
+        "filter_keyword": True,
+    },
+    {
+        "name": "Joker-Cold-iptv",
+        "url": "https://raw.githubusercontent.com/Joker-Cold/HK-IPTV/main/source/source_iptv.m3u",
+        "filter_keyword": True,
+    },
+    # ── 3. sammy0101: HK IPTV 自动聚合 (已验证可播) ──
+    {
+        "name": "sammy0101-HK",
+        "url": "https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/main/hk_live.m3u",
+        "filter_keyword": True,
+    },
+    # ── 4. imDazui: 台湾香港澳门合集 ──
+    {
+        "name": "imDazui-港澳台",
+        "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门202506.m3u",
+    },
+    # ── 5. ChinaIPTV: 含港澳台, 自动更新 ──
+    {
+        "name": "ChinaIPTV-自动更新",
+        "url": "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
+        "filter_group": "港澳台",
+    },
+    # ── 6. Guovin/TV: 大型 IPTV 聚合 (1800+源) ──
+    {
+        "name": "Guovin-TV",
+        "url": "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
         "filter_keyword": True,
     },
 ]
@@ -455,8 +481,8 @@ def write_json(channels, dead, stats, filepath):
 def main():
     parser = argparse.ArgumentParser(description='GitHub 港澳台 IPTV 自动抓取')
     parser.add_argument('--no-validate', action='store_true', help='跳过直播源验证')
-    parser.add_argument('--timeout', type=int, default=10, help='验证超时秒数')
-    parser.add_argument('--workers', type=int, default=20, help='并发验证数')
+    parser.add_argument('--timeout', type=int, default=15, help='验证超时秒数')
+    parser.add_argument('--workers', type=int, default=30, help='并发验证数')
     parser.add_argument('--output-dir', type=str, default='output', help='输出目录')
     args = parser.parse_args()
 
@@ -492,8 +518,9 @@ def main():
         url = ch['url']
         if not url or url in seen_urls:
             continue
-        # 非按国家分类的源, 做关键词过滤
-        if 'iptv-org-香港' not in ch['source'] and 'iptv-org-澳门' not in ch['source']:
+        # 对非香港/澳门国家列表的源, 做关键词过滤
+        skip_filter = any(s in ch['source'] for s in ['iptv-org-香港', 'iptv-org-澳门'])
+        if not skip_filter:
             if not is_hk_channel(ch['name']):
                 continue
         seen_urls.add(url)

@@ -1,36 +1,29 @@
 {
   "meta": {
     "title": "港澳台IPTV (端到端验证)",
-    "update": "2026-07-14 06:18:41",
+    "update": "2026-07-14 11:37:42",
     "v": 4
   },
   "stats": {
     "total_raw": 1462,
     "total_unique": 768,
-    "alive": 102,
-    "dead": 610,
+    "alive": 105,
+    "dead": 607,
     "pass_rate": "13%"
   },
   "alive": [
-    {
-      "name": "[BD]tvbs亚洲",
-      "url": "https://stream1.freetv.fun/0e9dc5f67eeae3d90d5afce9b70b9a06d6b3db352230f64d93221b83afb9e9ff.m3u8",
-      "category": "港澳其他频道",
-      "reason": "sub→MPEG-TS ✓✓",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]tvbs亞洲",
-      "url": "https://stream1.freetv.fun/0854ce5d4e8860e055549f5881ef05ab76b1bd0bc5bea78057553ed66f44d800.m3u8",
-      "category": "港澳其他频道",
-      "reason": "sub→MPEG-TS ✓✓",
-      "source": "Joker-Cold-iptv"
-    },
     {
       "name": "[BD]tvb plus[geo-blocked]",
       "url": "https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.m3u8",
       "category": "港澳其他频道",
       "reason": "MPEG-TS (found)",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]tvbs亚洲",
+      "url": "https://stream1.freetv.fun/0e9dc5f67eeae3d90d5afce9b70b9a06d6b3db352230f64d93221b83afb9e9ff.m3u8",
+      "category": "港澳其他频道",
+      "reason": "sub→MPEG-TS ✓✓",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -41,23 +34,16 @@
       "source": "Joker-Cold-iptv"
     },
     {
+      "name": "[BD]tvbs亞洲",
+      "url": "https://stream1.freetv.fun/0854ce5d4e8860e055549f5881ef05ab76b1bd0bc5bea78057553ed66f44d800.m3u8",
+      "category": "港澳其他频道",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "Joker-Cold-iptv"
+    },
+    {
       "name": "[BD]TVBS亚洲 *28",
       "url": "https://stream1.freetv.fun/1f5a105e1d310976a1fd6974db9451f8099e12c0df74fe2ad84087d5b6177f9a.m3u8",
       "category": "TVBS（台湾）",
-      "reason": "sub→MPEG-TS ✓✓",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]elta生活旅遊",
-      "url": "https://stream1.freetv.fun/a11e0b3b8652399e1305bf0770da905a04d2f1083ec894986b6d392ff8eb71ec.m3u8",
-      "category": "港澳其他频道",
-      "reason": "sub→MPEG-TS ✓✓",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]momo親子",
-      "url": "https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8",
-      "category": "港澳其他频道",
       "reason": "sub→MPEG-TS ✓✓",
       "source": "Joker-Cold-iptv"
     },
@@ -69,10 +55,17 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]Viutv *ee[geo-blocked]",
-      "url": "https://stream1.freetv.fun/b5a76c27ebc1c319f7f069a1f275c700267fe7f78d2cc1d92d99f3d1c526538d.ctv",
-      "category": "ViuTV",
-      "reason": "direct MPEG-TS (found)",
+      "name": "[BD]momo親子",
+      "url": "https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8",
+      "category": "港澳其他频道",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]elta生活旅遊",
+      "url": "https://stream1.freetv.fun/a11e0b3b8652399e1305bf0770da905a04d2f1083ec894986b6d392ff8eb71ec.m3u8",
+      "category": "港澳其他频道",
+      "reason": "sub→MPEG-TS ✓✓",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -83,8 +76,8 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]ViuTvsix *b",
-      "url": "https://stream1.freetv.fun/2022de93c6175f00f9f45e21257f2a488e5631f779ee9a6780b403d77e2429b2.ctv",
+      "name": "[BD]Viutv *ee[geo-blocked]",
+      "url": "https://stream1.freetv.fun/b5a76c27ebc1c319f7f069a1f275c700267fe7f78d2cc1d92d99f3d1c526538d.ctv",
       "category": "ViuTV",
       "reason": "direct MPEG-TS (found)",
       "source": "Joker-Cold-iptv"
@@ -97,6 +90,13 @@
       "source": "Joker-Cold-iptv"
     },
     {
+      "name": "[BD]ViuTvsix *b",
+      "url": "https://stream1.freetv.fun/2022de93c6175f00f9f45e21257f2a488e5631f779ee9a6780b403d77e2429b2.ctv",
+      "category": "ViuTV",
+      "reason": "direct MPEG-TS (found)",
+      "source": "Joker-Cold-iptv"
+    },
+    {
       "name": "[BD]ViuTvsix *ee[geo-blocked]",
       "url": "https://stream1.freetv.fun/e7f0d0390abcce0a34dd1fe04d37d4cc2078fe698f620a519b7868e8fd259dcd.ctv",
       "category": "ViuTV",
@@ -104,15 +104,22 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]东森美洲2",
-      "url": "https://stream1.freetv.fun/eb4ded3c365bf7d42bebf4dbe94e8f4a601ccf18f345bdeb7968b0fb5541c803.m3u8",
+      "name": "[BD]东森电影",
+      "url": "https://stream1.freetv.fun/9ecfcb8a9664c6c431a55482b76f3938b0d9a7950977e496728c12cd174c15d4.ctv",
       "category": "东森（台湾）",
-      "reason": "sub→MPEG-TS ✓✓",
+      "reason": "direct MPEG-TS (found)",
       "source": "Joker-Cold-iptv"
     },
     {
       "name": "[BD]东森美洲新闻台",
       "url": "https://stream1.freetv.fun/d08ea3c0e788d241119fdfe7dadd2d9505a329c9313957a73adcd13de810c593.m3u8",
+      "category": "东森（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]东森美洲2",
+      "url": "https://stream1.freetv.fun/eb4ded3c365bf7d42bebf4dbe94e8f4a601ccf18f345bdeb7968b0fb5541c803.m3u8",
       "category": "东森（台湾）",
       "reason": "sub→MPEG-TS ✓✓",
       "source": "Joker-Cold-iptv"
@@ -139,13 +146,6 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]东森电影",
-      "url": "https://stream1.freetv.fun/9ecfcb8a9664c6c431a55482b76f3938b0d9a7950977e496728c12cd174c15d4.ctv",
-      "category": "东森（台湾）",
-      "reason": "direct MPEG-TS (found)",
-      "source": "Joker-Cold-iptv"
-    },
-    {
       "name": "[BD]中視新聞[geo-blocked]",
       "url": "https://stream1.freetv.fun/9d5ffec09ed08670ea7b11a469c8af857b3d6c49e3a22a74b0ebcae1731a3e55.m3u8",
       "category": "中视（台湾）",
@@ -157,13 +157,6 @@
       "url": "https://stream1.freetv.fun/dbc58b34509aafdf5a510695123dd6602e2d9a75bed630da3659464658e73f45.ctv",
       "category": "中视（台湾）",
       "reason": "direct MPEG-TS (found)",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]ช่อง 澳视澳门",
-      "url": "https://stream1.freetv.fun/14ab57c2f60a541dd8f75219ee88553faf0194f96019a9dd38b46f41e3ada1fc.m3u8",
-      "category": "澳门频道",
-      "reason": "sub→MPEG-TS ✓✓",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -184,6 +177,13 @@
       "name": "[BD]公视 *28",
       "url": "https://stream1.freetv.fun/6146a774a487b288a4bd36c4cd3bd41b9f29b62ad47545d2e24a3a83a602474c.m3u8",
       "category": "公视（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]ช่อง 澳视澳门",
+      "url": "https://stream1.freetv.fun/14ab57c2f60a541dd8f75219ee88553faf0194f96019a9dd38b46f41e3ada1fc.m3u8",
+      "category": "澳门频道",
       "reason": "sub→MPEG-TS ✓✓",
       "source": "Joker-Cold-iptv"
     },
@@ -237,15 +237,8 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]明珠",
-      "url": "https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv",
-      "category": "TVB明珠台",
-      "reason": "direct MPEG-TS (found)",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]東森戲劇 *ee[geo-blocked]",
-      "url": "https://stream1.freetv.fun/526fea39c889d7b305702968fe4c4b8422ad57a50f0b0352266fa35b803d882c.ctv",
+      "name": "[BD]東森新聞 *ee[geo-blocked]",
+      "url": "https://stream1.freetv.fun/867d63b3e3a986cfe7e413f3035ffd0efed7e7aaf13a0f4996548daae12c2392.ctv",
       "category": "东森（台湾）",
       "reason": "direct MPEG-TS (found)",
       "source": "Joker-Cold-iptv"
@@ -258,8 +251,8 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]東森新聞 *ee[geo-blocked]",
-      "url": "https://stream1.freetv.fun/867d63b3e3a986cfe7e413f3035ffd0efed7e7aaf13a0f4996548daae12c2392.ctv",
+      "name": "[BD]東森戲劇 *ee[geo-blocked]",
+      "url": "https://stream1.freetv.fun/526fea39c889d7b305702968fe4c4b8422ad57a50f0b0352266fa35b803d882c.ctv",
       "category": "东森（台湾）",
       "reason": "direct MPEG-TS (found)",
       "source": "Joker-Cold-iptv"
@@ -300,15 +293,22 @@
       "source": "Joker-Cold-全量"
     },
     {
-      "name": "[BD]龙华电影 *b",
-      "url": "https://stream1.freetv.fun/890a2f4d66593bb51749c90826814911941e2ad758c5d4528ceb2785ddf0a37f.ctv",
+      "name": "[BD]龙华偶像 *b",
+      "url": "https://stream1.freetv.fun/2476672379ed8946c1db1da75ba0b44e6be5a1d01f1d772ea621266cb62afd66.ctv",
       "category": "龙华（台湾）",
       "reason": "direct MPEG-TS (found)",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]龙华偶像 *b",
-      "url": "https://stream1.freetv.fun/2476672379ed8946c1db1da75ba0b44e6be5a1d01f1d772ea621266cb62afd66.ctv",
+      "name": "[BD]龙华日韩 *b",
+      "url": "https://stream1.freetv.fun/b6200a5327e4f6008ddf569ef538b0b026d6f3fbdd2248363735c006f8577326.ctv",
+      "category": "龙华（台湾）",
+      "reason": "direct MPEG-TS (found)",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]龙华电影 *b",
+      "url": "https://stream1.freetv.fun/890a2f4d66593bb51749c90826814911941e2ad758c5d4528ceb2785ddf0a37f.ctv",
       "category": "龙华（台湾）",
       "reason": "direct MPEG-TS (found)",
       "source": "Joker-Cold-iptv"
@@ -324,7 +324,7 @@
       "name": "[BD]凤凰卫视中文[geo-blocked]",
       "url": "https://stream1.freetv.fun/e6fd2d09a19cbeb78145f445436d44d9ec43c79a9ce2ffcdd4116a5c8bafdc6f.m3u8",
       "category": "凤凰卫视",
-      "reason": "MPEG-TS (chain)",
+      "reason": "MPEG-TS (found)",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -349,6 +349,13 @@
       "source": "Joker-Cold-iptv"
     },
     {
+      "name": "[HD]華視",
+      "url": "https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1c3d1ee25740.ctv",
+      "category": "港澳其他频道",
+      "reason": "direct MPEG-TS (found)",
+      "source": "Joker-Cold-iptv"
+    },
+    {
       "name": "[HD]台视",
       "url": "https://stream1.freetv.fun/84bb118170150c61cb88d06c11c1b2042bba796197bd44a38213511be5503d1b.ctv",
       "category": "台视（台湾）",
@@ -363,18 +370,11 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[HD]華視",
-      "url": "https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1c3d1ee25740.ctv",
-      "category": "港澳其他频道",
-      "reason": "direct MPEG-TS (found)",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]龙华日韩 *b",
-      "url": "https://stream1.freetv.fun/b6200a5327e4f6008ddf569ef538b0b026d6f3fbdd2248363735c006f8577326.ctv",
-      "category": "龙华（台湾）",
-      "reason": "direct MPEG-TS (found)",
-      "source": "Joker-Cold-iptv"
+      "name": "三立新闻",
+      "url": "https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8",
+      "category": "三立（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "Supprise0901-live"
     },
     {
       "name": "三立台湾",
@@ -384,11 +384,11 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "三立新闻",
-      "url": "https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8",
-      "category": "三立（台湾）",
+      "name": "TVB无线新闻",
+      "url": "https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8",
+      "category": "TVB翡翠台",
       "reason": "sub→MPEG-TS ✓✓",
-      "source": "Supprise0901-live"
+      "source": "Joker-Cold-已验证"
     },
     {
       "name": "东森超视",
@@ -405,34 +405,6 @@
       "source": "Joker-Cold-已验证"
     },
     {
-      "name": "TVB无线新闻",
-      "url": "https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8",
-      "category": "TVB翡翠台",
-      "reason": "sub→MPEG-TS ✓✓",
-      "source": "Joker-Cold-已验证"
-    },
-    {
-      "name": "天映经典",
-      "url": "https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8",
-      "category": "电影频道",
-      "reason": "direct MPEG-TS (found)",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "凤凰香港",
-      "url": "https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8",
-      "category": "凤凰其他频道",
-      "reason": "sub→MPEG-TS ✓✓",
-      "source": "Supprise0901-live"
-    },
-    {
-      "name": "杭州明珠",
-      "url": "https://stream1.freetv.fun/hang-zhou-ming-zhu-2.ctv",
-      "category": "TVB明珠台",
-      "reason": "direct MPEG-TS (found)",
-      "source": "Guovin-TV"
-    },
-    {
       "name": "靖天戏剧",
       "url": "https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv",
       "category": "港澳其他频道",
@@ -440,9 +412,30 @@
       "source": "Guovin-TV"
     },
     {
+      "name": "杭州明珠",
+      "url": "https://stream1.freetv.fun/hang-zhou-ming-zhu-1.ctv",
+      "category": "TVB明珠台",
+      "reason": "direct MPEG-TS (found)",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "凤凰香港",
+      "url": "https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8",
+      "category": "凤凰其他频道",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "Supprise0901-live"
+    },
+    {
       "name": "靖天资讯",
       "url": "https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv",
       "category": "港澳其他频道",
+      "reason": "direct MPEG-TS (found)",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "天映经典",
+      "url": "https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8",
+      "category": "电影频道",
       "reason": "direct MPEG-TS (found)",
       "source": "Guovin-TV"
     },
@@ -462,10 +455,17 @@
     },
     {
       "name": "香港卫视",
-      "url": "https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8",
+      "url": "https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8",
       "category": "香港卫视",
       "reason": "sub→MPEG-TS ✓✓",
       "source": "Guovin-TV"
+    },
+    {
+      "name": "[BD]明珠",
+      "url": "https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv",
+      "category": "TVB明珠台",
+      "reason": "direct MPEG-TS (found)",
+      "source": "Joker-Cold-iptv"
     },
     {
       "name": "Lotus Macau HD 720p (720p)",
@@ -508,6 +508,13 @@
       "category": "TVBS（台湾）",
       "reason": "direct MPEG-TS (found)",
       "source": "Joker-Cold-已验证"
+    },
+    {
+      "name": "TVB翡翠台",
+      "url": "http://cdn9.163189.xyz/smt1.1.php?id=jade_twn",
+      "category": "TVB翡翠台",
+      "reason": "direct MPEG-TS (found)",
+      "source": "sammy0101-HK"
     },
     {
       "name": "三立戏剧台",
@@ -664,11 +671,11 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "民视",
-      "url": "https://epg.pw/stream/446ff2630964ca5ddcb9f9cb6d4e1a5f2ca1dca875b2a4e1c462b9e5cf83b77d.m3u8",
-      "category": "民视（台湾）",
-      "reason": "sub→MPEG-TS ✓✓",
-      "source": "imDazui-港澳台202506"
+      "name": "无线新闻",
+      "url": "http://cdn9.163189.xyz/smt1.1.php?id=inews_twn",
+      "category": "TVB翡翠台",
+      "reason": "direct MPEG-TS (found)",
+      "source": "Guovin-TV"
     },
     {
       "name": "民视新闻 HD",
@@ -678,6 +685,13 @@
       "source": "MercuryZz-港澳台"
     },
     {
+      "name": "民视",
+      "url": "https://epg.pw/stream/446ff2630964ca5ddcb9f9cb6d4e1a5f2ca1dca875b2a4e1c462b9e5cf83b77d.m3u8",
+      "category": "民视（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
       "name": "福建漳州醉美沙滩翡翠湾",
       "url": "https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8",
       "category": "TVB翡翠台",
@@ -685,18 +699,18 @@
       "source": "vbskycn-iptv4"
     },
     {
-      "name": "靖天国际台",
-      "url": "https://epg.pw/stream/d3d02fa9532f7534b585d54c1d5c9d2efd49a5e08858e1f16750eec4448f083a.m3u8",
-      "category": "港澳其他频道",
-      "reason": "sub→MPEG-TS ✓✓",
-      "source": "imDazui-港澳台202506"
-    },
-    {
       "name": "靖天映画",
       "url": "http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055",
       "category": "电影频道",
       "reason": "direct MPEG-TS (found)",
       "source": "Guovin-TV"
+    },
+    {
+      "name": "靖天国际台",
+      "url": "https://epg.pw/stream/d3d02fa9532f7534b585d54c1d5c9d2efd49a5e08858e1f16750eec4448f083a.m3u8",
+      "category": "港澳其他频道",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "香港佛陀",
@@ -720,6 +734,13 @@
       "source": "imDazui-港澳台202506"
     },
     {
+      "name": "香港开电视",
+      "url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8",
+      "category": "港澳其他频道",
+      "reason": "direct MPEG-TS (found)",
+      "source": "imDazui-港澳台海外"
+    },
+    {
       "name": "龙华戏剧",
       "url": "https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8",
       "category": "龙华（台湾）",
@@ -729,20 +750,8 @@
   ],
   "dead": [
     {
-      "name": "[BD]tvbs-asia",
-      "url": "https://stream1.freetv.fun/363c2cded19435f6246775f35056ac65a2041ac53ee74d310346babe4550ab93.m3u8",
-      "reason": "master: no valid ts",
-      "source": "Joker-Cold-iptv"
-    },
-    {
       "name": "[BD]tvbs亚洲",
       "url": "https://stream1.freetv.fun/2aef95d17a02f90322721318b132da070c7e4cf542e6fcebe3d6ce02379a4742.m3u8",
-      "reason": "master: no valid ts",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]ttv",
-      "url": "https://stream1.freetv.fun/f3f1e4c6caa6dfdca0cc37270c3d7316980e5bbf45333618e5a50f12722905b4.m3u8",
       "reason": "master: no valid ts",
       "source": "Joker-Cold-iptv"
     },
@@ -753,21 +762,39 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]tvb plus超清",
-      "url": "https://stream1.freetv.fun/da034e93c10ecf7d190dc26e54b87fb80766685de00d86afdf46a833c512cb27.ctv",
-      "reason": "empty",
-      "source": "Joker-Cold-iptv"
-    },
-    {
       "name": "[BD]hoy tv",
       "url": "https://stream1.freetv.fun/46e229877cf43dbe3bb518a02d3f4dbd2b2288cf9b54b191145786eebf1a2648.ctv",
       "reason": "conn refused",
       "source": "Joker-Cold-iptv"
     },
     {
+      "name": "[BD]tvb plus超清",
+      "url": "https://stream1.freetv.fun/da034e93c10ecf7d190dc26e54b87fb80766685de00d86afdf46a833c512cb27.ctv",
+      "reason": "empty",
+      "source": "Joker-Cold-iptv"
+    },
+    {
       "name": "[BD]hoy tv[geo-blocked]",
       "url": "https://stream1.freetv.fun/fffa9b4b6a4539df195d4b8c1828935463fe5defab455f29605724faab3716f9.ctv",
       "reason": "conn refused",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]tvbs-asia",
+      "url": "https://stream1.freetv.fun/363c2cded19435f6246775f35056ac65a2041ac53ee74d310346babe4550ab93.m3u8",
+      "reason": "master: no valid ts",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]ttv",
+      "url": "https://stream1.freetv.fun/f3f1e4c6caa6dfdca0cc37270c3d7316980e5bbf45333618e5a50f12722905b4.m3u8",
+      "reason": "master: no valid ts",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]tvb plus",
+      "url": "https://stream1.freetv.fun/391d21caea3269c8477f1c3fc0f24bbfded5d4f4fcf1d63d96b5cd8574792a34.ctv",
+      "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -789,21 +816,21 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]tvb plus",
-      "url": "https://stream1.freetv.fun/391d21caea3269c8477f1c3fc0f24bbfded5d4f4fcf1d63d96b5cd8574792a34.ctv",
-      "reason": "HTTP 404",
-      "source": "Joker-Cold-iptv"
-    },
-    {
       "name": "[BD]viutv",
-      "url": "https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.m3u8",
-      "reason": "ts not MPEG-TS",
+      "url": "https://stream1.freetv.fun/566447a554a11bb540e5e37ea32162caa2959fefd3707625f70de6ac96255364.ctv",
+      "reason": "conn refused",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]tvbs亚洲",
-      "url": "https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8",
-      "reason": "ts not MPEG-TS",
+      "name": "[BD]tvb翡翠",
+      "url": "https://stream1.freetv.fun/0f0395c924dc13b6e2461a9ea78f4557372bbf3c2f7493d4ffd9181d3202f74d.ctv",
+      "reason": "conn refused",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]tvb翡翠",
+      "url": "https://stream1.freetv.fun/99bb646a71d6fb69f3287af93bc08e97e334d626c7889509579bf47e76b641f8.ctv",
+      "reason": "conn refused",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -813,8 +840,8 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]tvb无线新闻",
-      "url": "https://stream1.freetv.fun/4ded274be2f693b84f8c2622dcdd8e55080bc486e140e2ffcab27b424f85e8bb.ctv",
+      "name": "[BD]tvb星河",
+      "url": "https://stream1.freetv.fun/1014774338dd6fcc6e3c0358712f55964ae23ffb1c8ff3a246979c2583fadff1.ctv",
       "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
@@ -825,9 +852,9 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]viutv",
-      "url": "https://stream1.freetv.fun/566447a554a11bb540e5e37ea32162caa2959fefd3707625f70de6ac96255364.ctv",
-      "reason": "conn refused",
+      "name": "[BD]tvb无线新闻",
+      "url": "https://stream1.freetv.fun/4ded274be2f693b84f8c2622dcdd8e55080bc486e140e2ffcab27b424f85e8bb.ctv",
+      "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -837,14 +864,38 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]tvb星河",
-      "url": "https://stream1.freetv.fun/1014774338dd6fcc6e3c0358712f55964ae23ffb1c8ff3a246979c2583fadff1.ctv",
-      "reason": "HTTP 404",
+      "name": "[BD]viutv",
+      "url": "https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.m3u8",
+      "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
     {
       "name": "[BD]viutv[geo-blocked]",
       "url": "https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c750355a5ff31cced30ca13.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]tvbs新闻[geo-blocked]",
+      "url": "https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv",
+      "reason": "direct too small",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]viutv",
+      "url": "https://stream1.freetv.fun/acf28668e5790e2d2ac642051e52d00b0ea2372b79f0526617aa30a9af34b16b.ctv",
+      "reason": "HTML page",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]viutv",
+      "url": "https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.ctv",
+      "reason": "HTML page",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]tvbs亚洲",
+      "url": "https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
@@ -855,20 +906,8 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]tvbs新闻[geo-blocked]",
-      "url": "https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv",
-      "reason": "direct too small",
-      "source": "Joker-Cold-iptv"
-    },
-    {
       "name": "[BD]三立综合[geo-blocked]",
       "url": "https://stream1.freetv.fun/bf77f967ec1515363856c284df765847f6edc28d20e6bba80e91e15e8e90283b.ctv",
-      "reason": "HTTP 404",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]三立都会[geo-blocked]",
-      "url": "https://stream1.freetv.fun/2f427db167466a2ca5fdb507bc513c366340ff47c452c4d3350596f619f9c179.ctv",
       "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
@@ -879,20 +918,14 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]viutv",
-      "url": "https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.ctv",
-      "reason": "HTML page",
+      "name": "[BD]三立都会[geo-blocked]",
+      "url": "https://stream1.freetv.fun/2f427db167466a2ca5fdb507bc513c366340ff47c452c4d3350596f619f9c179.ctv",
+      "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]viutv",
-      "url": "https://stream1.freetv.fun/acf28668e5790e2d2ac642051e52d00b0ea2372b79f0526617aa30a9af34b16b.ctv",
-      "reason": "HTML page",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]东森新闻",
-      "url": "https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.ctv",
+      "name": "[BD]东森新闻[geo-blocked]",
+      "url": "https://stream1.freetv.fun/0b780d5b5f2fdb57d708e3ff8ed2ef52dd017f2fe48c7a5ed007859e6f936a18.ctv",
       "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
@@ -903,14 +936,14 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]东森电影",
-      "url": "https://stream1.freetv.fun/6b8a5c6e5a8e4e580cdf8d06b234dc16e55d77589ca82e15dfaf2afabaeafbbd.ctv",
+      "name": "[BD]东森新闻",
+      "url": "https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.ctv",
       "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]东森新闻[geo-blocked]",
-      "url": "https://stream1.freetv.fun/0b780d5b5f2fdb57d708e3ff8ed2ef52dd017f2fe48c7a5ed007859e6f936a18.ctv",
+      "name": "[BD]东森电影",
+      "url": "https://stream1.freetv.fun/6b8a5c6e5a8e4e580cdf8d06b234dc16e55d77589ca82e15dfaf2afabaeafbbd.ctv",
       "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
@@ -922,13 +955,19 @@
     },
     {
       "name": "[BD]东森美洲",
-      "url": "https://stream1.freetv.fun/96f5eb7d5987eb91546d781906255ac91ecfa48cc0730ef819f64b17a04a65db.m3u8",
+      "url": "https://stream1.freetv.fun/bc521063e3d2ae86beaa78cd8e73c1364c834864c0505b61161bb2066b4307b7.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
     {
       "name": "[BD]东森美洲",
-      "url": "https://stream1.freetv.fun/bc521063e3d2ae86beaa78cd8e73c1364c834864c0505b61161bb2066b4307b7.m3u8",
+      "url": "https://stream1.freetv.fun/96f5eb7d5987eb91546d781906255ac91ecfa48cc0730ef819f64b17a04a65db.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]东森电影",
+      "url": "https://stream1.freetv.fun/03a525697bd27ffa8edc59291674fd228f88ab708849df54d0faf4dd09e8bd3e.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
@@ -951,33 +990,9 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]东森电影",
-      "url": "https://stream1.freetv.fun/03a525697bd27ffa8edc59291674fd228f88ab708849df54d0faf4dd09e8bd3e.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "Joker-Cold-iptv"
-    },
-    {
       "name": "[BD]中天综合",
       "url": "https://stream1.freetv.fun/775f1b5191906d084c014827729aa231f991215c2ad1c49f3cd4be440869dcfe.ctv",
       "reason": "HTTP 404",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]viutvsix",
-      "url": "https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]三立inews[geo-blocked]",
-      "url": "https://stream1.freetv.fun/badd2c471b785d2032379719c9b0e85c841d1fbff319e8d6cd17683cd807314e.m3u8",
-      "reason": "master: no valid ts",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]中视",
-      "url": "https://stream1.freetv.fun/45ac2d27741f80af63fd8e1938e067ec7ea8c1c9ac34b46c6dc31917205cc1bd.m3u8",
-      "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -987,14 +1002,8 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]中视经典",
-      "url": "https://stream1.freetv.fun/f011a428fab735796e6c5c5f2df0c46acd2524969a4d24dbb32a6fbb38ea95b5.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]中视菁采",
-      "url": "https://stream1.freetv.fun/25f7d7adcc920307fa5302b8bf84a0706eee1bcb3544de0fc46c7822763716db.m3u8",
+      "name": "[BD]viutvsix",
+      "url": "https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
@@ -1011,26 +1020,38 @@
       "source": "Joker-Cold-iptv"
     },
     {
+      "name": "[BD]中视经典",
+      "url": "https://stream1.freetv.fun/f011a428fab735796e6c5c5f2df0c46acd2524969a4d24dbb32a6fbb38ea95b5.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]中视菁采",
+      "url": "https://stream1.freetv.fun/25f7d7adcc920307fa5302b8bf84a0706eee1bcb3544de0fc46c7822763716db.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "Joker-Cold-iptv"
+    },
+    {
       "name": "[BD]公视",
       "url": "https://stream1.freetv.fun/2f9fb003798195324f74f228e4c409c0f5f2fc6f685a9852b171f98d235ec49c.ctv",
       "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]中视新闻",
-      "url": "https://stream1.freetv.fun/5f3d68b2efc102fc2339fa5b60d4b2abde1aa0bb446fb9fabe6cf9a7ab38198f.m3u8",
+      "name": "[BD]凤凰中文",
+      "url": "https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8",
       "reason": "ts not MPEG-TS",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]三立inews[geo-blocked]",
+      "url": "https://stream1.freetv.fun/badd2c471b785d2032379719c9b0e85c841d1fbff319e8d6cd17683cd807314e.m3u8",
+      "reason": "master: no valid ts",
       "source": "Joker-Cold-iptv"
     },
     {
       "name": "[BD]公视台语",
       "url": "https://stream1.freetv.fun/529550b78324d2bdefb0fe08cfd31c5482661dbbac741711047d41c87c941435.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]凤凰中文",
-      "url": "https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
@@ -1047,9 +1068,9 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]凤凰资讯[geo-blocked]",
-      "url": "https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.ctv",
-      "reason": "HTTP 404",
+      "name": "[BD]中视",
+      "url": "https://stream1.freetv.fun/45ac2d27741f80af63fd8e1938e067ec7ea8c1c9ac34b46c6dc31917205cc1bd.m3u8",
+      "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1059,9 +1080,15 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]华视教育体育文化",
-      "url": "https://stream1.freetv.fun/f7d8e1fcfd7eb512251b6da18e67187760ac602c400781e48ce3976e1dbd62c1.m3u8",
-      "reason": "master: no valid ts",
+      "name": "[BD]凤凰资讯[geo-blocked]",
+      "url": "https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.ctv",
+      "reason": "HTTP 404",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]中视新闻",
+      "url": "https://stream1.freetv.fun/5f3d68b2efc102fc2339fa5b60d4b2abde1aa0bb446fb9fabe6cf9a7ab38198f.m3u8",
+      "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1077,9 +1104,9 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]中天新聞[geo-blocked]",
-      "url": "https://stream1.freetv.fun/ae5d52a5c49891c28f1a39ea6b9fc0d67e3e7f02e100b9bf1ff1dc7cc5fa4662.m3u8",
-      "reason": "master: no valid ts",
+      "name": "[BD]华视[geo-blocked]",
+      "url": "https://stream1.freetv.fun/d3a0d2a82022bf7d9e66bf91b18d75dd9343ae4fd7c6870f779806835c9189af.ctv",
+      "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1089,15 +1116,21 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]中视[geo-blocked]",
-      "url": "https://stream1.freetv.fun/8e1caf6e69b16f6ca3c4d18ba1840ede04fa2c6f7a33f49014cd0f77f347b763.ctv",
-      "reason": "HTTP 400",
+      "name": "[BD]华视教育体育文化",
+      "url": "https://stream1.freetv.fun/f7d8e1fcfd7eb512251b6da18e67187760ac602c400781e48ce3976e1dbd62c1.m3u8",
+      "reason": "master: no valid ts",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]华视[geo-blocked]",
-      "url": "https://stream1.freetv.fun/d3a0d2a82022bf7d9e66bf91b18d75dd9343ae4fd7c6870f779806835c9189af.ctv",
-      "reason": "HTTP 404",
+      "name": "[BD]中天新聞[geo-blocked]",
+      "url": "https://stream1.freetv.fun/ae5d52a5c49891c28f1a39ea6b9fc0d67e3e7f02e100b9bf1ff1dc7cc5fa4662.m3u8",
+      "reason": "master: no valid ts",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]中视[geo-blocked]",
+      "url": "https://stream1.freetv.fun/8e1caf6e69b16f6ca3c4d18ba1840ede04fa2c6f7a33f49014cd0f77f347b763.ctv",
+      "reason": "HTTP 400",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1113,9 +1146,9 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]台视",
-      "url": "https://stream1.freetv.fun/b56616ca791b5b2b499c15067c91ada89782e642978a957edec7038d5b5cd248.m3u8",
-      "reason": "ts not MPEG-TS",
+      "name": "[BD]中視新聞[geo-blocked]",
+      "url": "https://stream1.freetv.fun/4b9dde6433d688b10e1b8793e5d49bdf264059fcbf63514bb591f5faec6154a6.m3u8",
+      "reason": "master: no valid ts",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1125,45 +1158,21 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]中視新聞[geo-blocked]",
-      "url": "https://stream1.freetv.fun/4b9dde6433d688b10e1b8793e5d49bdf264059fcbf63514bb591f5faec6154a6.m3u8",
-      "reason": "master: no valid ts",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]台视[geo-blocked]",
-      "url": "https://stream1.freetv.fun/a456c310ec3df14cf15db12ac05536ad3efa78e1f7acd9f9a8254f08ba68519b.ctv",
-      "reason": "HTTP 403",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]台视新闻",
-      "url": "https://stream1.freetv.fun/41157664acf190bce85c72f310a742879b275e1912726bc43f323ff6ae321e09.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "Joker-Cold-iptv"
-    },
-    {
       "name": "[BD]台视新闻",
       "url": "https://stream1.freetv.fun/6d45c852234adf9247cfc6eb9b1682de0defb8f84183c6dcf6a39bb24c07af32.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]小公视",
-      "url": "https://stream1.freetv.fun/152f2ea489414f740b0d22561e4174565fcfeedc84bda5d3c382c3c57d749a2b.m3u8",
-      "reason": "master: no valid ts",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]台視新聞",
-      "url": "https://stream1.freetv.fun/ffa3a8fc52b4834c300b3587a667310b5eb8a46d000498709791be4bd1799514.m3u8",
+      "name": "[BD]台视",
+      "url": "https://stream1.freetv.fun/b56616ca791b5b2b499c15067c91ada89782e642978a957edec7038d5b5cd248.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]台视新闻[geo-blocked]",
-      "url": "https://stream1.freetv.fun/303a4e4b8b9c669547f4860a119882a0a5636bb5390c74bcb2ab1ac3f8985fc7.ctv",
-      "reason": "HTTP 403",
+      "name": "[BD]台视新闻",
+      "url": "https://stream1.freetv.fun/41157664acf190bce85c72f310a742879b275e1912726bc43f323ff6ae321e09.m3u8",
+      "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1179,27 +1188,45 @@
       "source": "Joker-Cold-iptv"
     },
     {
+      "name": "[BD]小公视",
+      "url": "https://stream1.freetv.fun/152f2ea489414f740b0d22561e4174565fcfeedc84bda5d3c382c3c57d749a2b.m3u8",
+      "reason": "master: no valid ts",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]台视新闻[geo-blocked]",
+      "url": "https://stream1.freetv.fun/303a4e4b8b9c669547f4860a119882a0a5636bb5390c74bcb2ab1ac3f8985fc7.ctv",
+      "reason": "HTTP 403",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]台視新聞",
+      "url": "https://stream1.freetv.fun/ffa3a8fc52b4834c300b3587a667310b5eb8a46d000498709791be4bd1799514.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "Joker-Cold-iptv"
+    },
+    {
       "name": "[BD]明珠",
       "url": "https://stream1.freetv.fun/9355776363cced50b636fb90bd1d63ba128a62b87206583d553b215847a74d2d.ctv",
       "reason": "conn refused",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]明珠",
-      "url": "https://stream1.freetv.fun/b49f11a7e68a76202daba76fb5c90eb8ef1c34d977c5e9eac0825112f74f87d3.ctv",
-      "reason": "HTTP 404",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]明珠",
-      "url": "https://stream1.freetv.fun/fc542dddf6d96335d494c255d5df19fc0f2c61c46779dd9fe85e54b1559c3460.ctv",
-      "reason": "HTTP 404",
+      "name": "[BD]台视[geo-blocked]",
+      "url": "https://stream1.freetv.fun/a456c310ec3df14cf15db12ac05536ad3efa78e1f7acd9f9a8254f08ba68519b.ctv",
+      "reason": "HTTP 403",
       "source": "Joker-Cold-iptv"
     },
     {
       "name": "[BD]明珠[geo-blocked]",
       "url": "https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv",
       "reason": "HTTP 404",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]寰宇新闻[geo-blocked]",
+      "url": "https://stream1.freetv.fun/5bc2192b68243b3b4682609d306db8f3d5b61cc875fe9c26702040e560911ed8.ctv",
+      "reason": "direct too small",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1210,7 +1237,25 @@
     },
     {
       "name": "[BD]明珠",
+      "url": "https://stream1.freetv.fun/fc542dddf6d96335d494c255d5df19fc0f2c61c46779dd9fe85e54b1559c3460.ctv",
+      "reason": "HTTP 404",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]明珠",
       "url": "https://stream1.freetv.fun/02a84e717bde4c74530fa751aff6d340c4a1757f966a59bdc9f37751a121ce37.ctv",
+      "reason": "HTTP 404",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]民视",
+      "url": "https://stream1.freetv.fun/3de1bef9bfa7e28ddac0d0c4982736636d3b61978f2f2525d9133f7afcff0884.ctv",
+      "reason": "HTTP 404",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]明珠",
+      "url": "https://stream1.freetv.fun/b49f11a7e68a76202daba76fb5c90eb8ef1c34d977c5e9eac0825112f74f87d3.ctv",
       "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
@@ -1218,18 +1263,6 @@
       "name": "[BD]民视台湾[geo-blocked]",
       "url": "https://stream1.freetv.fun/94334ab27ca53f90bf9666bc15796631d7b9a022dbf57f8ad3f762512a5137ab.ctv",
       "reason": "HTTP 403",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]寰宇新闻[geo-blocked]",
-      "url": "https://stream1.freetv.fun/5bc2192b68243b3b4682609d306db8f3d5b61cc875fe9c26702040e560911ed8.ctv",
-      "reason": "direct too small",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]民视",
-      "url": "https://stream1.freetv.fun/3de1bef9bfa7e28ddac0d0c4982736636d3b61978f2f2525d9133f7afcff0884.ctv",
-      "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1245,15 +1278,15 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]民视台湾",
-      "url": "https://stream1.freetv.fun/ad3f189311940e49cfbbf24d5e3a4eb4627ab45b12ee9e2959d8801b92c35098.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "Joker-Cold-iptv"
-    },
-    {
       "name": "[BD]民视[geo-blocked]",
       "url": "https://stream1.freetv.fun/46ec3af22850aeb2d1b32cae8fd0392dc22a1cdf1bb3f9cbdd79fee4957d3488.ctv",
       "reason": "HTTP 404",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]民视台湾",
+      "url": "https://stream1.freetv.fun/ad3f189311940e49cfbbf24d5e3a4eb4627ab45b12ee9e2959d8801b92c35098.m3u8",
+      "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1263,38 +1296,20 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]寰宇新聞[geo-blocked]",
-      "url": "https://stream1.freetv.fun/7fcd19485260298737eeb56138cc149f0be0cc175bf93721e4074bfb2b63fbe0.m3u8",
-      "reason": "master: no valid ts",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]寰宇新聞台灣[geo-blocked]",
-      "url": "https://stream1.freetv.fun/def5a6f37b1ac6bb85367130b5f3cf8e7cb0605a6af23489f6d60902f9e4f1d2.m3u8",
-      "reason": "master: no valid ts",
-      "source": "Joker-Cold-iptv"
-    },
-    {
       "name": "[BD]民视新闻",
       "url": "https://stream1.freetv.fun/6959fd8e6fea85a671683e657ea500e2e1043c9e3c552469d4a1bd3c528a0f5a.ctv",
       "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]寰宇財經[geo-blocked]",
-      "url": "https://stream1.freetv.fun/fe928ce8e5c0b90d54ad48f34e1fb5b856539a3e350c701ee50de80465b28cb6.m3u8",
-      "reason": "master: no valid ts",
+      "name": "[BD]澳门莲花",
+      "url": "https://stream1.freetv.fun/08764ad621127dbb1b20420ad2826045c7b636c066856b752355818be52560f0.m3u8",
+      "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
     {
       "name": "[BD]民视第一",
       "url": "https://stream1.freetv.fun/0f18627e89ae503346d5ef2a1c1be4add53806bc482d62386196a162de41bab0.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]澳门莲花",
-      "url": "https://stream1.freetv.fun/08764ad621127dbb1b20420ad2826045c7b636c066856b752355818be52560f0.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
@@ -1305,27 +1320,21 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]翡翠[geo-blocked]",
-      "url": "https://stream1.freetv.fun/d9a2e34945118d998ae46a4440adbd8b97ad86e379c36161dbea8d01c7ea74a6.ctv",
-      "reason": "conn refused",
+      "name": "[BD]寰宇財經[geo-blocked]",
+      "url": "https://stream1.freetv.fun/fe928ce8e5c0b90d54ad48f34e1fb5b856539a3e350c701ee50de80465b28cb6.m3u8",
+      "reason": "master: no valid ts",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]翡翠",
-      "url": "https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.ctv",
-      "reason": "direct not ts: not MPEG-TS",
+      "name": "[BD]寰宇新聞台灣[geo-blocked]",
+      "url": "https://stream1.freetv.fun/def5a6f37b1ac6bb85367130b5f3cf8e7cb0605a6af23489f6d60902f9e4f1d2.m3u8",
+      "reason": "master: no valid ts",
       "source": "Joker-Cold-iptv"
     },
     {
       "name": "[BD]靖天戏剧",
       "url": "https://stream1.freetv.fun/b4f15adf935f16285a2c2ef88df0d5a58dd7934a03a8ec7d9f4e57ca2206faf6.ctv",
       "reason": "HTTP 404",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]tvb翡翠",
-      "url": "https://stream1.freetv.fun/0f0395c924dc13b6e2461a9ea78f4557372bbf3c2f7493d4ffd9181d3202f74d.ctv",
-      "reason": "timeout",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1341,15 +1350,9 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]靖天映画",
-      "url": "https://stream1.freetv.fun/0864058ec04ec30d97650ab00f4f78c094c0c88f5c79f141c0292f525cf29ea1.ctv",
-      "reason": "HTTP 404",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[BD]tvb翡翠",
-      "url": "https://stream1.freetv.fun/99bb646a71d6fb69f3287af93bc08e97e334d626c7889509579bf47e76b641f8.ctv",
-      "reason": "timeout",
+      "name": "[BD]翡翠[geo-blocked]",
+      "url": "https://stream1.freetv.fun/d9a2e34945118d998ae46a4440adbd8b97ad86e379c36161dbea8d01c7ea74a6.ctv",
+      "reason": "conn refused",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1359,15 +1362,21 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[HD]tvb亞洲劇臺",
-      "url": "https://stream1.freetv.fun/fe2dbb4d5eaa4cbe031db7efd490f9a162b19052e943f9800e18b90e9ac5adaf.ctv",
-      "reason": "empty",
+      "name": "[BD]靖天映画",
+      "url": "https://stream1.freetv.fun/0864058ec04ec30d97650ab00f4f78c094c0c88f5c79f141c0292f525cf29ea1.ctv",
+      "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[HD]tvb plus",
-      "url": "https://stream1.freetv.fun/548881d03dd2efa5b441269288dfa4b5ae56940f897255e1b0e9310d3248ae81.ctv",
+      "name": "[BD]靖天电影",
+      "url": "https://stream1.freetv.fun/6dd2fa11256d9b01e56697fe96435249d3d817b521ae86e3ed484bba403963c6.ctv",
       "reason": "HTTP 404",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[HD]tvb亞洲劇臺",
+      "url": "https://stream1.freetv.fun/fe2dbb4d5eaa4cbe031db7efd490f9a162b19052e943f9800e18b90e9ac5adaf.ctv",
+      "reason": "empty",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1389,14 +1398,8 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[HD]中视",
-      "url": "https://stream1.freetv.fun/74ac5200a0bcb7524bf8cdc43831998dee06a72a98204694efab3057af503f25.ctv",
-      "reason": "conn refused",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[HD]tvb星河",
-      "url": "https://stream1.freetv.fun/9bbb5f6b3fe726c6ed82737f4babafc986bc35e8b9a57840b28f69b623855886.ctv",
+      "name": "[HD]tvb plus",
+      "url": "https://stream1.freetv.fun/548881d03dd2efa5b441269288dfa4b5ae56940f897255e1b0e9310d3248ae81.ctv",
       "reason": "HTTP 404",
       "source": "Joker-Cold-iptv"
     },
@@ -1407,9 +1410,27 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]華視[geo-blocked]",
-      "url": "https://stream1.freetv.fun/60c715f5b961e2226107f69b2bab88a391c92f9f2444b64574cf6c450eb88b9e.m3u8",
+      "name": "[HD]tvb星河",
+      "url": "https://stream1.freetv.fun/9bbb5f6b3fe726c6ed82737f4babafc986bc35e8b9a57840b28f69b623855886.ctv",
+      "reason": "HTTP 404",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[HD]中视",
+      "url": "https://stream1.freetv.fun/74ac5200a0bcb7524bf8cdc43831998dee06a72a98204694efab3057af503f25.ctv",
+      "reason": "conn refused",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]寰宇新聞[geo-blocked]",
+      "url": "https://stream1.freetv.fun/7fcd19485260298737eeb56138cc149f0be0cc175bf93721e4074bfb2b63fbe0.m3u8",
       "reason": "master: no valid ts",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[HD]明珠台高清",
+      "url": "https://stream1.freetv.fun/a4ef3a05fe986f663938806c799210b5063fd8a4be0058da04fd45fe000a7e24.ctv",
+      "reason": "empty",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1425,15 +1446,21 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[HD]靖天资讯",
-      "url": "https://stream1.freetv.fun/f399d5ca932e97fc64175572c8c5f5c14d36761d3bceda596b03403c568f204b.m3u8",
+      "name": "[HD]翡翠",
+      "url": "https://stream1.freetv.fun/96be57df137f3e952c37d15c81c54511223f65ab2929549598ef3c601f7f0add.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[HD]明珠台高清",
-      "url": "https://stream1.freetv.fun/a4ef3a05fe986f663938806c799210b5063fd8a4be0058da04fd45fe000a7e24.ctv",
-      "reason": "empty",
+      "name": "[HD]翡翠",
+      "url": "https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.ctv",
+      "reason": "HTTP 404",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]華視[geo-blocked]",
+      "url": "https://stream1.freetv.fun/60c715f5b961e2226107f69b2bab88a391c92f9f2444b64574cf6c450eb88b9e.m3u8",
+      "reason": "master: no valid ts",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1449,10 +1476,16 @@
       "source": "iptv-org-香港"
     },
     {
-      "name": "HOY TV Ⓖ",
-      "url": "https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8",
-      "reason": "HTTP 403",
-      "source": "Free-TV-香港"
+      "name": "[HD]中天新闻",
+      "url": "https://stream1.freetv.fun/26909b95e0b48a92beff981e4af1a947e0f4eaf4515fb45d81de571b7a5aaeb0.ctv",
+      "reason": "direct too small",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[HD]靖天资讯",
+      "url": "https://stream1.freetv.fun/f399d5ca932e97fc64175572c8c5f5c14d36761d3bceda596b03403c568f204b.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "Joker-Cold-iptv"
     },
     {
       "name": "HOY International Business Channel (1080p) [Geo-blocked]",
@@ -1461,34 +1494,10 @@
       "source": "iptv-org-香港"
     },
     {
-      "name": "[HD]翡翠",
-      "url": "https://stream1.freetv.fun/96be57df137f3e952c37d15c81c54511223f65ab2929549598ef3c601f7f0add.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[HD]寰宇新闻",
-      "url": "https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.ctv",
-      "reason": "direct too small",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[HD]中天新闻",
-      "url": "https://stream1.freetv.fun/26909b95e0b48a92beff981e4af1a947e0f4eaf4515fb45d81de571b7a5aaeb0.ctv",
-      "reason": "direct too small",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[HD]翡翠",
-      "url": "https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.ctv",
-      "reason": "HTTP 404",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "[VGA]经典香港电影",
-      "url": "https://stream1.freetv.fun/ff96b1e65b5eb81db7b27a7ba467f8dd81363f1560e54d999886a4802d0c51d8.ctv",
-      "reason": "conn refused",
-      "source": "Joker-Cold-iptv"
+      "name": "HOY TV Ⓖ",
+      "url": "https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8",
+      "reason": "HTTP 403",
+      "source": "Free-TV-香港"
     },
     {
       "name": "[VGA]凤凰中文",
@@ -1503,9 +1512,15 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[BD]靖天电影",
-      "url": "https://stream1.freetv.fun/6dd2fa11256d9b01e56697fe96435249d3d817b521ae86e3ed484bba403963c6.ctv",
-      "reason": "HTTP 404",
+      "name": "[VGA]经典香港电影",
+      "url": "https://stream1.freetv.fun/ff96b1e65b5eb81db7b27a7ba467f8dd81363f1560e54d999886a4802d0c51d8.ctv",
+      "reason": "conn refused",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[HD]中天新闻",
+      "url": "https://stream1.freetv.fun/966a882718752fcf477567b8ecca5a53feb6bbf6b7e60a8d1030f9be6892c25d.ctv",
+      "reason": "HTTP 400",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1581,9 +1596,39 @@
       "source": "Joker-Cold-iptv"
     },
     {
+      "name": "[HD]寰宇新闻",
+      "url": "https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.ctv",
+      "reason": "direct too small",
+      "source": "Joker-Cold-iptv"
+    },
+    {
       "name": "[VGA]经典香港电影",
       "url": "https://stream1.freetv.fun/f1a18e53fb3fc0d2b466278c222a0d31f2f33ec9c593628c3d2061e43f4d58b8.ctv",
-      "reason": "HTML page",
+      "reason": "empty",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "[BD]翡翠",
+      "url": "https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.ctv",
+      "reason": "direct not ts: not MPEG-TS",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "CTi News",
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "ChinaIPTV-自动更新"
+    },
+    {
+      "name": "EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]",
+      "url": "http://seb.sason.top/sc/dscjxw_fhd.m3u8",
+      "reason": "conn refused",
+      "source": "Joker-Cold-iptv"
+    },
+    {
+      "name": "CTS News (華視新聞資訊) [Geo-blocked]",
+      "url": "http://seb.sason.top/sc/hsxw_fhd.m3u8",
+      "reason": "conn refused",
       "source": "Joker-Cold-iptv"
     },
     {
@@ -1593,76 +1638,22 @@
       "source": "iptv-org-中文"
     },
     {
-      "name": "Asia Action[直播]",
-      "url": "https://live.hkdvb.com/hls/live/207.m3u8?token=685252555987540",
-      "reason": "HTML page",
-      "source": "Joker-Cold-全量"
-    },
-    {
-      "name": "CTi News",
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "ChinaIPTV-自动更新"
-    },
-    {
-      "name": "CTS News (華視新聞資訊) [Geo-blocked]",
-      "url": "http://seb.sason.top/sc/hsxw_fhd.m3u8",
-      "reason": "conn refused",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]",
-      "url": "http://seb.sason.top/sc/dscjxw_fhd.m3u8",
-      "reason": "conn refused",
-      "source": "Joker-Cold-iptv"
-    },
-    {
       "name": "EBC News (東森新聞台) (1080p) [Not 24/7]",
       "url": "http://seb.sason.top/sc/dsxw_fhd.m3u8",
       "reason": "conn refused",
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "[HD]中天新闻",
-      "url": "https://stream1.freetv.fun/966a882718752fcf477567b8ecca5a53feb6bbf6b7e60a8d1030f9be6892c25d.ctv",
-      "reason": "HTTP 400",
-      "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "ELTA 1[直播]",
-      "url": "https://live.hkdvb.com/hls/live/703.m3u8?token=685252555980754",
+      "name": "Asia Action[直播]",
+      "url": "https://live.hkdvb.com/hls/live/207.m3u8?token=685252555980754",
       "reason": "HTML page",
       "source": "Joker-Cold-已验证"
     },
     {
-      "name": "ELTA 1[直播]",
-      "url": "https://live.hkdvb.com/hls/live/703.m3u8?token=685252555987540",
-      "reason": "HTML page",
-      "source": "Joker-Cold-全量"
-    },
-    {
-      "name": "ELTA 3[直播]",
-      "url": "https://live.hkdvb.com/hls/live/705.m3u8?token=685252555980754",
-      "reason": "HTML page",
-      "source": "Joker-Cold-已验证"
-    },
-    {
-      "name": "ELTA 2[直播]",
-      "url": "https://live.hkdvb.com/hls/live/704.m3u8?token=685252555980754",
-      "reason": "HTML page",
-      "source": "Joker-Cold-已验证"
-    },
-    {
-      "name": "ELTA 2[直播]",
-      "url": "https://live.hkdvb.com/hls/live/704.m3u8?token=685252555987540",
-      "reason": "HTML page",
-      "source": "Joker-Cold-全量"
-    },
-    {
-      "name": "ELTA 3[直播]",
-      "url": "https://live.hkdvb.com/hls/live/705.m3u8?token=685252555987540",
-      "reason": "HTML page",
-      "source": "Joker-Cold-全量"
+      "name": "EBC YOYO",
+      "url": "https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8",
+      "reason": "HTTP 500",
+      "source": "ChinaIPTV-自动更新"
     },
     {
       "name": "FTV (民視) (720p) [Not 24/7]",
@@ -1683,14 +1674,62 @@
       "source": "iptv-org-中文"
     },
     {
+      "name": "ELTA 2[直播]",
+      "url": "https://live.hkdvb.com/hls/live/704.m3u8?token=685252555980754",
+      "reason": "HTML page",
+      "source": "Joker-Cold-已验证"
+    },
+    {
+      "name": "ELTA 1[直播]",
+      "url": "https://live.hkdvb.com/hls/live/703.m3u8?token=685252555987540",
+      "reason": "HTML page",
+      "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "ELTA 4[直播]",
+      "url": "https://live.hkdvb.com/hls/live/706.m3u8?token=685252555987540",
+      "reason": "HTML page",
+      "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "ELTA 2[直播]",
+      "url": "https://live.hkdvb.com/hls/live/704.m3u8?token=685252555987540",
+      "reason": "HTML page",
+      "source": "Joker-Cold-全量"
+    },
+    {
       "name": "ELTA 4[直播]",
       "url": "https://live.hkdvb.com/hls/live/706.m3u8?token=685252555980754",
       "reason": "HTML page",
       "source": "Joker-Cold-已验证"
     },
     {
-      "name": "ELTA 4[直播]",
-      "url": "https://live.hkdvb.com/hls/live/706.m3u8?token=685252555987540",
+      "name": "ELTA 3[直播]",
+      "url": "https://live.hkdvb.com/hls/live/705.m3u8?token=685252555980754",
+      "reason": "HTML page",
+      "source": "Joker-Cold-已验证"
+    },
+    {
+      "name": "ELTA 3[直播]",
+      "url": "https://live.hkdvb.com/hls/live/705.m3u8?token=685252555987540",
+      "reason": "HTML page",
+      "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "ELTA 1[直播]",
+      "url": "https://live.hkdvb.com/hls/live/703.m3u8?token=685252555980754",
+      "reason": "HTML page",
+      "source": "Joker-Cold-已验证"
+    },
+    {
+      "name": "FTV News",
+      "url": "https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8",
+      "reason": "HTTP 500",
+      "source": "ChinaIPTV-自动更新"
+    },
+    {
+      "name": "Asia Action[直播]",
+      "url": "https://live.hkdvb.com/hls/live/207.m3u8?token=685252555987540",
       "reason": "HTML page",
       "source": "Joker-Cold-全量"
     },
@@ -1707,22 +1746,10 @@
       "source": "sammy0101-HK"
     },
     {
-      "name": "Asia Action[直播]",
-      "url": "https://live.hkdvb.com/hls/live/207.m3u8?token=685252555980754",
-      "reason": "HTML page",
-      "source": "Joker-Cold-已验证"
-    },
-    {
-      "name": "EBC YOYO",
-      "url": "https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8",
-      "reason": "empty",
-      "source": "ChinaIPTV-自动更新"
-    },
-    {
-      "name": "FTV News",
-      "url": "https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8",
-      "reason": "empty",
-      "source": "ChinaIPTV-自动更新"
+      "name": "Anthony Bourdain: Parts Unknown",
+      "url": "https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8",
+      "reason": "master: no valid ts",
+      "source": "sammy0101-HK"
     },
     {
       "name": "MOMO亲子台",
@@ -1731,22 +1758,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "Anthony Bourdain: Parts Unknown",
-      "url": "https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8",
-      "reason": "master: no valid ts",
-      "source": "sammy0101-HK"
-    },
-    {
       "name": "MOMO購物1台",
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "MS NOW (720p)",
-      "url": "http://40.160.24.53/MSNBC/index.m3u8",
-      "reason": "direct not ts: not MPEG-TS",
-      "source": "sammy0101-HK"
     },
     {
       "name": "MOMO購物2台",
@@ -1755,16 +1770,22 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "[HD]博斯網球",
-      "url": "https://stream1.freetv.fun/3462833b3ec823fe4b029f49e771099624993a5a3bf5ecaee44533c81bf57064.ctv",
+      "name": "MS NOW (720p)",
+      "url": "http://40.160.24.53/MSNBC/index.m3u8",
       "reason": "direct too small",
-      "source": "Joker-Cold-iptv"
+      "source": "sammy0101-HK"
     },
     {
       "name": "Celestial Movies (576i)",
       "url": "http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8",
       "reason": "HTTP 401",
       "source": "iptv-org-香港"
+    },
+    {
+      "name": "[HD]博斯網球",
+      "url": "https://stream1.freetv.fun/3462833b3ec823fe4b029f49e771099624993a5a3bf5ecaee44533c81bf57064.ctv",
+      "reason": "timeout",
+      "source": "Joker-Cold-iptv"
     },
     {
       "name": "[SD]耀才财经频道",
@@ -1785,26 +1806,44 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "Hakkatv",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "ELTA娱乐",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "HOY TV[直播]",
-      "url": "https://live.hkdvb.com/hls/live/77.m3u8?token=685252555987540",
+      "name": "Hakkatv",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8",
       "reason": "timeout",
-      "source": "Joker-Cold-全量"
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "Jade 翡翠台(h265)[直播]",
+      "url": "https://live.hkdvb.com/hls/live/581.m3u8?token=685252555980754",
+      "reason": "timeout",
+      "source": "Joker-Cold-已验证"
     },
     {
       "name": "HOY TV 資訊台[直播]",
       "url": "https://live.hkdvb.com/hls/live/78.m3u8?token=685252555987540",
+      "reason": "timeout",
+      "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "HOY 國際財經台[直播]",
+      "url": "https://live.hkdvb.com/hls/live/76.m3u8?token=685252555980754",
+      "reason": "timeout",
+      "source": "Joker-Cold-已验证"
+    },
+    {
+      "name": "HOY 國際財經台[直播]",
+      "url": "https://live.hkdvb.com/hls/live/76.m3u8?token=685252555987540",
+      "reason": "timeout",
+      "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "HOY TV[直播]",
+      "url": "https://live.hkdvb.com/hls/live/77.m3u8?token=685252555987540",
       "reason": "timeout",
       "source": "Joker-Cold-全量"
     },
@@ -1821,34 +1860,16 @@
       "source": "Joker-Cold-已验证"
     },
     {
-      "name": "HOY 國際財經台[直播]",
-      "url": "https://live.hkdvb.com/hls/live/76.m3u8?token=685252555980754",
-      "reason": "timeout",
-      "source": "Joker-Cold-已验证"
-    },
-    {
-      "name": "HOY 國際財經台[直播]",
-      "url": "https://live.hkdvb.com/hls/live/76.m3u8?token=685252555987540",
+      "name": "Jade 翡翠台(h265)[直播]",
+      "url": "https://live.hkdvb.com/hls/live/581.m3u8?token=685252555987540",
       "reason": "timeout",
       "source": "Joker-Cold-全量"
-    },
-    {
-      "name": "Jade 翡翠台(h265)[直播]",
-      "url": "https://live.hkdvb.com/hls/live/581.m3u8?token=685252555980754",
-      "reason": "timeout",
-      "source": "Joker-Cold-已验证"
     },
     {
       "name": "Jade 翡翠台[直播]",
       "url": "https://live.hkdvb.com/hls/live/81.m3u8?token=685252555980754",
       "reason": "timeout",
       "source": "Joker-Cold-已验证"
-    },
-    {
-      "name": "Jade 翡翠台(h265)[直播]",
-      "url": "https://live.hkdvb.com/hls/live/581.m3u8?token=685252555987540",
-      "reason": "timeout",
-      "source": "Joker-Cold-全量"
     },
     {
       "name": "Jade 翡翠台[直播]",
@@ -1863,15 +1884,15 @@
       "source": "Joker-Cold-已验证"
     },
     {
+      "name": "Now Sports 4K[直播]",
+      "url": "https://live.hkdvb.com/hls/live/644.m3u8?token=685252555980754",
+      "reason": "HTML page",
+      "source": "Joker-Cold-已验证"
+    },
+    {
       "name": "Now BNC 財經台[直播]",
       "url": "https://live.hkdvb.com/hls/live/333.m3u8?token=685252555987540",
       "reason": "timeout",
-      "source": "Joker-Cold-全量"
-    },
-    {
-      "name": "Now Popcorn 爆谷台[直播]",
-      "url": "https://live.hkdvb.com/hls/live/133.m3u8?token=685252555987540",
-      "reason": "HTML page",
       "source": "Joker-Cold-全量"
     },
     {
@@ -1911,8 +1932,8 @@
       "source": "iptv-org-香港"
     },
     {
-      "name": "RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]",
-      "url": "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8",
+      "name": "RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]",
+      "url": "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8",
       "reason": "HTTP 403",
       "source": "iptv-org-香港"
     },
@@ -1923,16 +1944,10 @@
       "source": "Joker-Cold-iptv"
     },
     {
-      "name": "RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]",
-      "url": "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8",
+      "name": "RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]",
+      "url": "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8",
       "reason": "HTTP 403",
       "source": "iptv-org-香港"
-    },
-    {
-      "name": "STV City",
-      "url": "http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1",
-      "reason": "conn refused",
-      "source": "iptv-org-中文"
     },
     {
       "name": "STV News and General",
@@ -1941,28 +1956,16 @@
       "source": "iptv-org-中文"
     },
     {
-      "name": "Now Sports 4K[直播]",
-      "url": "https://live.hkdvb.com/hls/live/644.m3u8?token=685252555980754",
-      "reason": "timeout",
-      "source": "Joker-Cold-已验证"
-    },
-    {
-      "name": "Now Sports Prime[直播]",
-      "url": "https://live.hkdvb.com/hls/live/630.m3u8?token=685252555980754",
-      "reason": "timeout",
-      "source": "Joker-Cold-已验证"
-    },
-    {
-      "name": "Now Sports 641[直播]",
-      "url": "https://live.hkdvb.com/hls/live/641.m3u8?token=685252555987540",
+      "name": "Now Popcorn 爆谷台[直播]",
+      "url": "https://live.hkdvb.com/hls/live/133.m3u8?token=685252555987540",
       "reason": "timeout",
       "source": "Joker-Cold-全量"
     },
     {
-      "name": "Now Sports 632[直播]",
-      "url": "https://live.hkdvb.com/hls/live/632.m3u8?token=685252555987540",
-      "reason": "timeout",
-      "source": "Joker-Cold-全量"
+      "name": "STV City",
+      "url": "http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1",
+      "reason": "conn refused",
+      "source": "iptv-org-中文"
     },
     {
       "name": "Now Sports 4K[直播]",
@@ -1971,14 +1974,26 @@
       "source": "Joker-Cold-全量"
     },
     {
-      "name": "Now Sports 642[直播]",
-      "url": "https://live.hkdvb.com/hls/live/642.m3u8?token=685252555980754",
+      "name": "Now Sports 641[直播]",
+      "url": "https://live.hkdvb.com/hls/live/641.m3u8?token=685252555987540",
+      "reason": "timeout",
+      "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "Now Sports 英超1台[直播]",
+      "url": "https://live.hkdvb.com/hls/live/621.m3u8?token=685252555980754",
       "reason": "timeout",
       "source": "Joker-Cold-已验证"
     },
     {
       "name": "Now Sports 642[直播]",
       "url": "https://live.hkdvb.com/hls/live/642.m3u8?token=685252555987540",
+      "reason": "timeout",
+      "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "Now Sports Prime[直播]",
+      "url": "https://live.hkdvb.com/hls/live/630.m3u8?token=685252555987540",
       "reason": "timeout",
       "source": "Joker-Cold-全量"
     },
@@ -1995,10 +2010,22 @@
       "source": "Joker-Cold-已验证"
     },
     {
-      "name": "TVB 功夫",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
+      "name": "Now Sports Prime[直播]",
+      "url": "https://live.hkdvb.com/hls/live/630.m3u8?token=685252555980754",
+      "reason": "timeout",
+      "source": "Joker-Cold-已验证"
+    },
+    {
+      "name": "Now Sports 642[直播]",
+      "url": "https://live.hkdvb.com/hls/live/642.m3u8?token=685252555980754",
+      "reason": "timeout",
+      "source": "Joker-Cold-已验证"
+    },
+    {
+      "name": "Now Sports 632[直播]",
+      "url": "https://live.hkdvb.com/hls/live/632.m3u8?token=685252555987540",
+      "reason": "timeout",
+      "source": "Joker-Cold-全量"
     },
     {
       "name": "TVB News Channel",
@@ -2019,10 +2046,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "TVB News",
-      "url": "http://r.jdshipin.com/CkuBd",
-      "reason": "HTML page",
-      "source": "ChinaIPTV-自动更新"
+      "name": "TVB 功夫",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "TVBS",
@@ -2031,16 +2058,16 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "TVBJ1",
-      "url": "https://cdn3.163189.xyz/live/j1/stream.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台202506"
-    },
-    {
       "name": "TVBS news",
       "url": "https://ushls.ballbar.net/tvbs_n/playlist-12.m3u8a?t=1722404514&token=013b06def9d975fbd2c9c04b0e1835c6",
       "reason": "conn refused",
       "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "TVB News",
+      "url": "http://r.jdshipin.com/CkuBd",
+      "reason": "HTML page",
+      "source": "ChinaIPTV-自动更新"
     },
     {
       "name": "TVBS Asia (1080p)",
@@ -2049,22 +2076,16 @@
       "source": "Joker-Cold-iptv"
     },
     {
+      "name": "TVBS News (TVBS新聞台) [Geo-blocked]",
+      "url": "http://seb.sason.top/sc/tvbsxw_fhd.m3u8",
+      "reason": "conn refused",
+      "source": "Joker-Cold-iptv"
+    },
+    {
       "name": "Now Sports 英超1台[直播]",
       "url": "https://live.hkdvb.com/hls/live/621.m3u8?token=685252555987540",
       "reason": "timeout",
       "source": "Joker-Cold-全量"
-    },
-    {
-      "name": "Now Sports Prime[直播]",
-      "url": "https://live.hkdvb.com/hls/live/630.m3u8?token=685252555987540",
-      "reason": "timeout",
-      "source": "Joker-Cold-全量"
-    },
-    {
-      "name": "Now Sports 英超1台[直播]",
-      "url": "https://live.hkdvb.com/hls/live/621.m3u8?token=685252555980754",
-      "reason": "timeout",
-      "source": "Joker-Cold-已验证"
     },
     {
       "name": "Now Superstars 星影台[直播]",
@@ -2079,10 +2100,10 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "TVBS News (TVBS新聞台) [Geo-blocked]",
-      "url": "http://seb.sason.top/sc/tvbsxw_fhd.m3u8",
+      "name": "TVBJ1",
+      "url": "https://cdn3.163189.xyz/live/j1/stream.m3u8",
       "reason": "conn refused",
-      "source": "Joker-Cold-iptv"
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "TVBS新闻",
@@ -2098,21 +2119,15 @@
     },
     {
       "name": "TVBS新闻",
-      "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8",
-      "reason": "HTTP 404",
-      "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "TVBS新闻",
       "url": "http://38.64.72.148/hls/modn/list/4006/playlist.m3u8",
       "reason": "HTTP 404",
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "TVBS欢乐台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
+      "name": "TVBS新闻",
+      "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8",
+      "reason": "HTTP 404",
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "TVBS新闻",
@@ -2129,6 +2144,12 @@
     {
       "name": "TVBS精彩台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/15379cc75ee0fb41ab2fb3a11f3d909f.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "TVBS欢乐台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
@@ -2151,22 +2172,16 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "Now Superstars 星影台[直播]",
-      "url": "https://live.hkdvb.com/hls/live/138.m3u8?token=685252555987540",
-      "reason": "timeout",
-      "source": "Joker-Cold-全量"
-    },
-    {
       "name": "TVB明珠台",
       "url": "http://m.567it.com/Pearl.m3u8",
       "reason": "empty",
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "Pearl 明珠台[直播]",
-      "url": "https://live.hkdvb.com/hls/live/84.m3u8?token=685252555980754",
+      "name": "Now Superstars 星影台[直播]",
+      "url": "https://live.hkdvb.com/hls/live/138.m3u8?token=685252555987540",
       "reason": "timeout",
-      "source": "Joker-Cold-已验证"
+      "source": "Joker-Cold-全量"
     },
     {
       "name": "TVB無線新聞",
@@ -2175,9 +2190,9 @@
       "source": "sammy0101-HK"
     },
     {
-      "name": "TVB翡翠台 4K",
-      "url": "http://cdn.132.us.kg/live/fct4k/stream.m3u8",
-      "reason": "HTML page",
+      "name": "Pearl 明珠台[直播]",
+      "url": "https://live.hkdvb.com/hls/live/84.m3u8?token=685252555980754",
+      "reason": "timeout",
       "source": "Joker-Cold-已验证"
     },
     {
@@ -2185,6 +2200,12 @@
       "url": "https://live.hkdvb.com/hls/live/84.m3u8?token=685252555987540",
       "reason": "timeout",
       "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "TVB翡翠台 4K",
+      "url": "http://cdn.132.us.kg/live/fct4k/stream.m3u8",
+      "reason": "HTML page",
+      "source": "Joker-Cold-已验证"
     },
     {
       "name": "Viutv",
@@ -2205,16 +2226,16 @@
       "source": "iptv-org-澳门"
     },
     {
-      "name": "ViuTV Six[直播]",
-      "url": "https://live.hkdvb.com/hls/live/96.m3u8?token=685252555987540",
-      "reason": "HTML page",
-      "source": "Joker-Cold-全量"
-    },
-    {
       "name": "Canal Macau Ch. 92 (720p) [Not 24/7]",
       "url": "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
       "reason": "timeout",
       "source": "iptv-org-澳门"
+    },
+    {
+      "name": "ViuTV[直播]",
+      "url": "https://live.hkdvb.com/hls/live/99.m3u8?token=685252555980754",
+      "reason": "HTML page",
+      "source": "Joker-Cold-已验证"
     },
     {
       "name": "TVB PLUS[直播]",
@@ -2229,14 +2250,20 @@
       "source": "Joker-Cold-全量"
     },
     {
+      "name": "三立iNEWS",
+      "url": "https://ytm2.yuanhsing.cf/setmoney159.m3u8",
+      "reason": "conn refused",
+      "source": "MercuryZz-港澳台"
+    },
+    {
       "name": "TVBS",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "三立iNEWS",
-      "url": "https://ytm2.yuanhsing.cf/setmoney159.m3u8",
+      "name": "三立NEWS+",
+      "url": "https://ytm2.yuanhsing.cf/SETLIVE.m3u8",
       "reason": "conn refused",
       "source": "MercuryZz-港澳台"
     },
@@ -2247,18 +2274,6 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "三立NEWS+",
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "TVBS新闻",
-      "url": "http://iptv.4666888.xyz/iptv2A.php?id=43",
-      "reason": "timeout",
-      "source": "Supprise0901-live"
-    },
-    {
       "name": "三立台湾台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/e71635b53bb874a085b2a469802bbc81.m3u8",
       "reason": "conn refused",
@@ -2266,15 +2281,9 @@
     },
     {
       "name": "三立NEWS+",
-      "url": "https://ytm2.yuanhsing.cf/SETLIVE.m3u8",
-      "reason": "conn refused",
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8",
+      "reason": "ts not MPEG-TS",
       "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "TVB千禧经典",
-      "url": "http://iptv.4666888.xyz/iptv2A.php?id=22",
-      "reason": "timeout",
-      "source": "Supprise0901-live"
     },
     {
       "name": "三立台灣",
@@ -2283,20 +2292,20 @@
       "source": "imDazui-港澳台202506"
     },
     {
+      "name": "TVBS新闻",
+      "url": "http://iptv.4666888.xyz/iptv2A.php?id=43",
+      "reason": "timeout",
+      "source": "Supprise0901-live"
+    },
+    {
       "name": "TVBS欢乐台",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "TVB娱乐新闻",
-      "url": "http://iptv.4666888.xyz/iptv2A.php?id=36",
-      "reason": "timeout",
-      "source": "Supprise0901-live"
-    },
-    {
-      "name": "TVB明珠",
-      "url": "http://iptv.4666888.xyz/iptv2A.php?id=29",
+      "name": "TVB千禧经典",
+      "url": "http://iptv.4666888.xyz/iptv2A.php?id=22",
       "reason": "timeout",
       "source": "Supprise0901-live"
     },
@@ -2311,6 +2320,18 @@
       "url": "https://hls-gateway.vpstv.net/streams/492922.m3u8",
       "reason": "HTTP 403",
       "source": "Guovin-TV"
+    },
+    {
+      "name": "TVB娱乐新闻",
+      "url": "http://iptv.4666888.xyz/iptv2A.php?id=36",
+      "reason": "timeout",
+      "source": "Supprise0901-live"
+    },
+    {
+      "name": "TVB明珠",
+      "url": "http://iptv.4666888.xyz/iptv2A.php?id=29",
+      "reason": "timeout",
+      "source": "Supprise0901-live"
     },
     {
       "name": "三立综合台",
@@ -2349,12 +2370,6 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "TVB星河[直播]",
-      "url": "https://live.hkdvb.com/hls/live/203.m3u8?token=685252555980754",
-      "reason": "timeout",
-      "source": "Joker-Cold-已验证"
-    },
-    {
       "name": "东森戏剧台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/17cdea424a288175c834060c58b3bb4e.m3u8",
       "reason": "conn refused",
@@ -2374,9 +2389,9 @@
     },
     {
       "name": "TVB星河[直播]",
-      "url": "https://live.hkdvb.com/hls/live/203.m3u8?token=685252555987540",
+      "url": "https://live.hkdvb.com/hls/live/203.m3u8?token=685252555980754",
       "reason": "timeout",
-      "source": "Joker-Cold-全量"
+      "source": "Joker-Cold-已验证"
     },
     {
       "name": "东森洋片",
@@ -2385,16 +2400,16 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "东森洋片台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/24b15906d2250c062c0f0b5339e166b2.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
       "name": "东森洋片",
       "url": "https://live.catvod.com/live.php?id=ettvwestern",
       "reason": "HTTP 403",
       "source": "Guovin-TV"
+    },
+    {
+      "name": "东森洋片台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/24b15906d2250c062c0f0b5339e166b2.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "东森电影",
@@ -2409,10 +2424,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "TVB翡翠台",
-      "url": "http://cdn9.163189.xyz/smt1.1.php?id=jade_twn",
+      "name": "TVB星河[直播]",
+      "url": "https://live.hkdvb.com/hls/live/203.m3u8?token=685252555987540",
       "reason": "timeout",
-      "source": "sammy0101-HK"
+      "source": "Joker-Cold-全量"
     },
     {
       "name": "东森综合",
@@ -2433,16 +2448,16 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "ViuTV Six[直播]",
-      "url": "https://live.hkdvb.com/hls/live/96.m3u8?token=685252555980754",
-      "reason": "timeout",
-      "source": "Joker-Cold-已验证"
-    },
-    {
       "name": "东森財经 HD",
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "ViuTV Six[直播]",
+      "url": "https://live.hkdvb.com/hls/live/96.m3u8?token=685252555980754",
+      "reason": "timeout",
+      "source": "Joker-Cold-已验证"
     },
     {
       "name": "东森財经 HD",
@@ -2451,22 +2466,22 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "ViuTV[直播]",
-      "url": "https://live.hkdvb.com/hls/live/99.m3u8?token=685252555980754",
+      "name": "东森财经",
+      "url": "https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8",
+      "reason": "redirect to error",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "ViuTV Six[直播]",
+      "url": "https://live.hkdvb.com/hls/live/96.m3u8?token=685252555987540",
       "reason": "timeout",
-      "source": "Joker-Cold-已验证"
+      "source": "Joker-Cold-全量"
     },
     {
       "name": "东森财经新闻台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/10e21c98ff74745141a386d91da24c56.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "东森财经",
-      "url": "https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8",
-      "reason": "redirect to error",
-      "source": "imDazui-港澳台202506"
     },
     {
       "name": "东森购物2",
@@ -2481,12 +2496,6 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "ViuTV[直播]",
-      "url": "https://live.hkdvb.com/hls/live/99.m3u8?token=685252555987540",
-      "reason": "timeout",
-      "source": "Joker-Cold-全量"
-    },
-    {
       "name": "东森超视",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/47d46d26bba55dd674454ad46c569ffa.m3u8",
       "reason": "conn refused",
@@ -2497,6 +2506,12 @@
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=51",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "ViuTV[直播]",
+      "url": "https://live.hkdvb.com/hls/live/99.m3u8?token=685252555987540",
+      "reason": "timeout",
+      "source": "Joker-Cold-全量"
     },
     {
       "name": "中天亚洲台",
@@ -2511,16 +2526,16 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "三立戏剧台",
-      "url": "http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "中天娱乐台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/25ea449d554a16ec584e82d039065e5f.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "三立戏剧台",
+      "url": "http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "三立新闻台",
@@ -2535,10 +2550,10 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "TVB 星河台",
-      "url": "http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8",
+      "name": "东森洋片",
+      "url": "https://smt.858.qzz.io/Smart.php?id=ettvwestern",
       "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "source": "Guovin-TV"
     },
     {
       "name": "中天新闻台",
@@ -2547,10 +2562,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "东森洋片",
-      "url": "https://smt.858.qzz.io/Smart.php?id=ettvwestern",
+      "name": "TVB 星河台",
+      "url": "http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8",
       "reason": "timeout",
-      "source": "Guovin-TV"
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "东森电影",
@@ -2565,22 +2580,16 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "中天综合台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
       "name": "中視經典",
       "url": "http://litv.zapi.us.kg/?id=4gtv-4gtv080",
       "reason": "conn refused",
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "中視菁采",
-      "url": "http://litv.zapi.us.kg/?id=4gtv-4gtv064",
+      "name": "中天综合台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.m3u8",
       "reason": "conn refused",
-      "source": "imDazui-港澳台202506"
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "东森电影ETTVMovie",
@@ -2589,16 +2598,22 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "中视",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/318e4839a23f9ff15e327de9bcb31687.m3u8",
+      "name": "中視菁采",
+      "url": "http://litv.zapi.us.kg/?id=4gtv-4gtv064",
       "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "东森综合",
       "url": "http://iptv.4666888.xyz/iptv2A.php?id=58",
       "reason": "timeout",
       "source": "Supprise0901-live"
+    },
+    {
+      "name": "中视",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/318e4839a23f9ff15e327de9bcb31687.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "中视 HD",
@@ -2619,6 +2634,12 @@
       "source": "iptv-org-澳门"
     },
     {
+      "name": "东森综合ETTVMetro",
+      "url": "http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
       "name": "中视新闻 HD",
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8",
       "reason": "ts not MPEG-TS",
@@ -2631,32 +2652,8 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "东森综合ETTVMetro",
-      "url": "http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "中视经典",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "TDM Info. Macau (720p) [Not 24/7]",
-      "url": "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
-      "reason": "timeout",
-      "source": "iptv-org-澳门"
-    },
-    {
-      "name": "TDM Entertainment Ch. 95 (720p)",
-      "url": "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
-      "reason": "timeout",
-      "source": "iptv-org-澳门"
-    },
-    {
-      "name": "八大娱乐台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/31c5b2c0fa7ac37b2e1447befb076d08.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
@@ -2665,6 +2662,24 @@
       "url": "http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "东森超视",
+      "url": "http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "八大娱乐台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/31c5b2c0fa7ac37b2e1447befb076d08.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "八大戏剧台",
+      "url": "http://61.221.215.25:8800/hls/39/index.m3u8",
+      "reason": "direct not ts: not MPEG-TS",
+      "source": "Joker-Cold-已验证"
     },
     {
       "name": "八大戏剧台",
@@ -2679,10 +2694,10 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "八大戏剧台",
-      "url": "http://61.221.215.25:8800/hls/39/index.m3u8",
-      "reason": "direct not ts: not MPEG-TS",
-      "source": "Joker-Cold-已验证"
+      "name": "TDM Entertainment Ch. 95 (720p)",
+      "url": "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
+      "reason": "timeout",
+      "source": "iptv-org-澳门"
     },
     {
       "name": "八大第一",
@@ -2691,28 +2706,28 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "东森超视",
-      "url": "http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "八大第1台",
       "url": "http://61.221.215.25:8800/hls/55/index.m3u8",
       "reason": "direct too small",
       "source": "Joker-Cold-已验证"
     },
     {
-      "name": "八大第一台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/5e147a8d04ab43725d40e72fd7169952.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
       "name": "东森超视",
       "url": "https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper",
       "reason": "timeout",
       "source": "Guovin-TV"
+    },
+    {
+      "name": "TDM Info. Macau (720p) [Not 24/7]",
+      "url": "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+      "reason": "timeout",
+      "source": "iptv-org-澳门"
+    },
+    {
+      "name": "八大第一台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/5e147a8d04ab43725d40e72fd7169952.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "八大綜合",
@@ -2740,12 +2755,6 @@
     },
     {
       "name": "中天新闻",
-      "url": "http://123.51.230.124:8535/.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "中天新闻",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=3",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
@@ -2758,7 +2767,7 @@
     },
     {
       "name": "中天新闻",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8",
+      "url": "http://123.51.230.124:8535/.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -2769,14 +2778,14 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "公视",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/0be9e52678b937320897033d90bb268a.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
+      "name": "中天新闻",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
-      "name": "公视2台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/236c80ba515e5bf302f3db6f4d009914.m3u8",
+      "name": "公视",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/0be9e52678b937320897033d90bb268a.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
@@ -2787,16 +2796,16 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "公视三台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/514590fdb3ba8e3f2c3a15dd13037f31.m3u8",
+      "name": "公视2台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/236c80ba515e5bf302f3db6f4d009914.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "中天新闻",
-      "url": "http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv",
+      "name": "公视三台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/514590fdb3ba8e3f2c3a15dd13037f31.m3u8",
       "reason": "conn refused",
-      "source": "imDazui-港澳台2023"
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "中天综合",
@@ -2811,21 +2820,33 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "凤凰中文",
-      "url": "http://218.206.193.218:8888/hls/66/index.m3u8",
-      "reason": "direct not ts: not MPEG-TS",
-      "source": "Supprise0901-live"
-    },
-    {
       "name": "中视",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
+      "name": "中视HD",
+      "url": "http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
       "name": "凤凰中文",
-      "url": "http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8",
-      "reason": "HTTP 403",
+      "url": "http://218.206.193.218:8888/hls/66/index.m3u8",
+      "reason": "direct not ts: not MPEG-TS",
+      "source": "Supprise0901-live"
+    },
+    {
+      "name": "中视新闻",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "中天新闻",
+      "url": "http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv",
+      "reason": "conn refused",
       "source": "imDazui-港澳台2023"
     },
     {
@@ -2835,10 +2856,10 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "中视HD",
-      "url": "http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605",
+      "name": "中视新闻 HD",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=02",
       "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "凤凰中文",
@@ -2853,15 +2874,9 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "中视新闻 HD",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=02",
-      "reason": "timeout",
-      "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "中视新闻",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",
-      "reason": "timeout",
+      "name": "凤凰中文",
+      "url": "http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8",
+      "reason": "HTTP 403",
       "source": "imDazui-港澳台2023"
     },
     {
@@ -2873,6 +2888,12 @@
     {
       "name": "中视经典",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "中视菁采",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -2889,22 +2910,10 @@
       "source": "Supprise0901-live"
     },
     {
-      "name": "中视菁采",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "凤凰卫视",
       "url": "http://122.152.202.33/s/81a8a44f/index.m3u8?id=15",
       "reason": "direct not ts: not MPEG-TS",
       "source": "Supprise0901-live"
-    },
-    {
-      "name": "凤凰卫视",
-      "url": "http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8",
-      "reason": "HTTP 521",
-      "source": "Guovin-TV"
     },
     {
       "name": "俄罗斯MostVideo TV 1",
@@ -2925,22 +2934,22 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "八大精彩台",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "八大綜合",
       "url": "http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "八大综合",
-      "url": "http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a",
+      "name": "八大精彩台",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "凤凰卫视",
+      "url": "http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8",
+      "reason": "HTTP 521",
+      "source": "Guovin-TV"
     },
     {
       "name": "凤凰资讯",
@@ -2950,19 +2959,25 @@
     },
     {
       "name": "凤凰资讯",
-      "url": "https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8",
-      "reason": "direct too small",
-      "source": "MercuryZz-港澳台"
+      "url": "http://cdn3.132.us.kg/live/fhzx/stream.m3u8",
+      "reason": "conn refused",
+      "source": "Joker-Cold-已验证"
     },
     {
-      "name": "八大综合台",
-      "url": "http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "name": "凤凰资讯",
+      "url": "http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4$LR•83•IPV4『线路71』",
+      "reason": "HTTP 503",
+      "source": "Joker-Cold-已验证"
     },
     {
       "name": "凤凰资讯",
       "url": "http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8",
+      "reason": "direct too small",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8",
       "reason": "direct too small",
       "source": "MercuryZz-港澳台"
     },
@@ -2985,32 +3000,8 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "八大综合台",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "凤凰资讯",
-      "url": "http://cdn3.132.us.kg/live/fhzx/stream.m3u8",
-      "reason": "conn refused",
-      "source": "Joker-Cold-已验证"
-    },
-    {
-      "name": "凤凰资讯",
-      "url": "http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4$LR•83•IPV4『线路71』",
-      "reason": "HTTP 503",
-      "source": "Joker-Cold-已验证"
-    },
-    {
-      "name": "凤凰资讯",
-      "url": "http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8",
-      "reason": "HTTP 521",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "公视",
-      "url": "http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4",
+      "name": "八大综合",
+      "url": "http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -3021,14 +3012,32 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "公视CTV",
-      "url": "http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0",
+      "name": "凤凰资讯",
+      "url": "http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8",
+      "reason": "HTTP 521",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://101.35.240.114:88/phenix.php?id=fhzx",
+      "reason": "HTTP 404",
+      "source": "Kimentanm-aptv"
+    },
+    {
+      "name": "八大综合台",
+      "url": "http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "公视戏剧",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8",
+      "name": "八大综合台",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "公视",
+      "url": "http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -3045,6 +3054,12 @@
       "source": "Supprise0901-live"
     },
     {
+      "name": "公视CTV",
+      "url": "http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
       "name": "凤凰香港",
       "url": "https://cdn6.163189.xyz/live/fhhk/stream.m3u8",
       "reason": "HTML page",
@@ -3057,27 +3072,15 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "凤凰资讯",
-      "url": "http://101.35.240.114:88/phenix.php?id=fhzx",
-      "reason": "HTTP 404",
-      "source": "Kimentanm-aptv"
-    },
-    {
-      "name": "凤凰香港",
-      "url": "http://r.jdshipin.com/yDoTN",
-      "reason": "HTML page",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "凤凰中文",
-      "url": "http://111.59.189.40:8445/tsfile/live/1020_1.m3u8",
+      "name": "公视戏剧",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
       "name": "凤凰香港",
-      "url": "http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8",
-      "reason": "HTTP 521",
+      "url": "http://r.jdshipin.com/yDoTN",
+      "reason": "HTML page",
       "source": "Guovin-TV"
     },
     {
@@ -3094,9 +3097,21 @@
     },
     {
       "name": "凤凰香港",
+      "url": "http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8",
+      "reason": "HTTP 521",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "凤凰香港",
       "url": "http://101.35.240.114:88/phenix.php?id=fhhk",
       "reason": "HTTP 404",
       "source": "Kimentanm-aptv"
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://111.59.189.40:8445/tsfile/live/1020_1.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "华视",
@@ -3105,14 +3120,14 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "凤凰中文",
-      "url": "http://59.125.101.122:8080/live/phoenix7188.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台海外"
+      "name": "华视综合娱乐",
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "凤凰中文",
-      "url": "http://112.50.243.7/PLTV/88888888/224/3221225900/index.m3u8",
+      "url": "http://59.125.101.122:8080/live/phoenix7188.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台海外"
     },
@@ -3123,15 +3138,15 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "华视综合娱乐",
-      "url": "https://ytm2.yuanhsing.cf/ctsprog.m3u8",
-      "reason": "conn refused",
-      "source": "MercuryZz-港澳台"
+      "name": "凤凰中文",
+      "url": "http://112.50.243.7/PLTV/88888888/224/3221225900/index.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "华视综合娱乐",
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8",
-      "reason": "ts not MPEG-TS",
+      "url": "https://ytm2.yuanhsing.cf/ctsprog.m3u8",
+      "reason": "conn refused",
       "source": "MercuryZz-港澳台"
     },
     {
@@ -3147,12 +3162,6 @@
       "source": "iptv-org-香港"
     },
     {
-      "name": "凤凰卫视",
-      "url": "http://198.16.64.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "博斯运动一台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.m3u8",
       "reason": "conn refused",
@@ -3165,16 +3174,16 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "博斯高球1台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/4870a14ca0496e434825594643eea173.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
       "name": "凤凰中文",
       "url": "https://mgev.188766.xyz/?migutoken=d2cb1d3b27ceb7f566c0b20cbf3dbca7&id=fhzw&pp=1",
       "reason": "conn refused",
       "source": "Guovin-TV"
+    },
+    {
+      "name": "博斯高球1台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/4870a14ca0496e434825594643eea173.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "凤凰中文",
@@ -3187,6 +3196,12 @@
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "凤凰卫视",
+      "url": "http://198.16.64.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "凤凰电影",
@@ -3249,12 +3264,6 @@
       "source": "iptv-org-香港"
     },
     {
-      "name": "台视新闻 HD",
-      "url": "http://38.64.72.148/hls/modn/list/4013/playlist.m3u8",
-      "reason": "direct not ts: not MPEG-TS",
-      "source": "MercuryZz-港澳台"
-    },
-    {
       "name": "台视综合台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/a8905b7e88b656b83c0f5d8bf5771430.m3u8",
       "reason": "conn refused",
@@ -3265,6 +3274,12 @@
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/c5d061725e49943973c43a404b913f17.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "台视新闻 HD",
+      "url": "http://38.64.72.148/hls/modn/list/4013/playlist.m3u8",
+      "reason": "direct not ts: not MPEG-TS",
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "凤凰香港",
@@ -3297,70 +3312,10 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "华视",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "华视CTSHD",
-      "url": "http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "寰宇新闻",
       "url": "https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8",
       "reason": "conn refused",
       "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "寰宇新闻",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/4677cf6625ce01b236bbb58f99094d51.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "寰宇新闻2台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "寰宇新闻台",
-      "url": "https://ushls.ballbar.net/huanyuxinwen_twn/playlist-12.m3u8a?t=1722404935&token=bb92fa904d40ab573c349fb82e03ccbc",
-      "reason": "conn refused",
-      "source": "Joker-Cold-全量"
-    },
-    {
-      "name": "寰宇综合",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/82b78befe54a601876654e1db3e3741a.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "寰宇财经台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/77c9bab3af161386df16ad9d8a3f3541.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "无线新闻",
-      "url": "https://hls-gateway.vpstv.net/streams/476926.m3u8",
-      "reason": "HTTP 403",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "无线新闻台",
-      "url": "https://cdn.hklive.tv/xxxx/83/index.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "华视新闻资讯",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
     },
     {
       "name": "凤凰资讯",
@@ -3375,8 +3330,80 @@
       "source": "Guovin-TV"
     },
     {
+      "name": "寰宇新闻2台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "寰宇新闻",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/4677cf6625ce01b236bbb58f99094d51.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "寰宇综合",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/82b78befe54a601876654e1db3e3741a.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "寰宇财经台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/77c9bab3af161386df16ad9d8a3f3541.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "寰宇新闻台",
+      "url": "https://ushls.ballbar.net/huanyuxinwen_twn/playlist-12.m3u8a?t=1722404935&token=bb92fa904d40ab573c349fb82e03ccbc",
+      "reason": "conn refused",
+      "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "无线新闻",
+      "url": "https://hls-gateway.vpstv.net/streams/476926.m3u8",
+      "reason": "HTTP 403",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "无线新闻台",
+      "url": "https://cdn.hklive.tv/xxxx/83/index.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "华视",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "华视CTSHD",
+      "url": "http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "无线星河",
+      "url": "https://cdn6.101.qzz.io/163189/tvbxh",
+      "reason": "conn refused",
+      "source": "Guovin-TV"
+    },
+    {
       "name": "无线财经资讯台",
       "url": "https://cdn.hklive.tv/xxxx/85/index.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "华视新闻资讯",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "明珠台",
+      "url": "https://cdn.hklive.tv/xxxx/84/index.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台2023"
     },
@@ -3388,9 +3415,9 @@
     },
     {
       "name": "明珠台",
-      "url": "https://cdn.hklive.tv/xxxx/84/index.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台2023"
+      "url": "http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8",
+      "reason": "HTTP 521",
+      "source": "Guovin-TV"
     },
     {
       "name": "博斯無限頻道",
@@ -3399,28 +3426,10 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "无线星河",
-      "url": "https://cdn6.101.qzz.io/163189/tvbxh",
-      "reason": "conn refused",
-      "source": "Guovin-TV"
-    },
-    {
       "name": "博斯运动1",
       "url": "http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "明珠台",
-      "url": "http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8",
-      "reason": "HTTP 521",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "明珠台",
-      "url": "http://r.jdshipin.com/ZQ4kN",
-      "reason": "HTML page",
-      "source": "Guovin-TV"
     },
     {
       "name": "寰宇新闻",
@@ -3435,16 +3444,22 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "博斯高球2HD",
-      "url": "http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "name": "明珠台",
+      "url": "http://r.jdshipin.com/ZQ4kN",
+      "reason": "HTML page",
+      "source": "Guovin-TV"
     },
     {
       "name": "有線新聞",
       "url": "http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u",
       "reason": "direct too small",
       "source": "sammy0101-HK"
+    },
+    {
+      "name": "博斯運動頻壹",
+      "url": "http://37.27.111.214:8080/live/14/hls.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "東森超視",
@@ -3459,10 +3474,16 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "博斯運動頻壹",
-      "url": "http://37.27.111.214:8080/live/14/hls.m3u8",
+      "name": "有線新聞台",
+      "url": "http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8",
+      "reason": "direct too small",
+      "source": "sammy0101-HK"
+    },
+    {
+      "name": "博斯高球2HD",
+      "url": "http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc",
       "reason": "timeout",
-      "source": "imDazui-港澳台202506"
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "博斯高球j",
@@ -3477,10 +3498,16 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "有線新聞台",
-      "url": "http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8",
-      "reason": "direct too small",
-      "source": "sammy0101-HK"
+      "name": "明珠台",
+      "url": "http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn",
+      "reason": "empty",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "民视新闻 HD",
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "有線財經信息台",
@@ -3490,8 +3517,8 @@
     },
     {
       "name": "民视新闻 HD",
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8",
-      "reason": "ts not MPEG-TS",
+      "url": "http://38.64.72.148/hls/modn/list/4012/playlist.m3u8",
+      "reason": "direct not ts: not MPEG-TS",
       "source": "MercuryZz-港澳台"
     },
     {
@@ -3501,28 +3528,10 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "民视新闻 HD",
-      "url": "http://38.64.72.148/hls/modn/list/4012/playlist.m3u8",
-      "reason": "direct not ts: not MPEG-TS",
-      "source": "MercuryZz-港澳台"
-    },
-    {
       "name": "台视 (720p)",
       "url": "http://162.19.247.76:22222/live/taishi/index.m3u8",
       "reason": "timeout",
       "source": "Joker-Cold-iptv"
-    },
-    {
-      "name": "台视新闻 HD",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=11",
-      "reason": "timeout",
-      "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "天映经典",
-      "url": "http://210.210.155.37/qwr9ew/s/s31/index2.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台202506"
     },
     {
       "name": "港台電視 31[直播]",
@@ -3531,16 +3540,16 @@
       "source": "Joker-Cold-已验证"
     },
     {
-      "name": "天映经典",
-      "url": "http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "港台電視 31[直播]",
       "url": "https://live.hkdvb.com/hls/live/31.m3u8?token=685252555987540",
       "reason": "HTML page",
       "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "台视新闻 HD",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=11",
+      "reason": "timeout",
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "港台電視 32[直播]",
@@ -3555,20 +3564,20 @@
       "source": "sammy0101-HK"
     },
     {
+      "name": "天映经典",
+      "url": "http://210.210.155.37/qwr9ew/s/s31/index2.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台202506"
+    },
+    {
       "name": "港台電視32 (官方)",
       "url": "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8",
       "reason": "HTTP 403",
       "source": "sammy0101-HK"
     },
     {
-      "name": "无线新闻",
-      "url": "http://cdn9.163189.xyz/smt1.1.php?id=inews_twn",
-      "reason": "timeout",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "明珠台",
-      "url": "http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8",
+      "name": "天映经典",
+      "url": "http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -3580,19 +3589,31 @@
     },
     {
       "name": "明珠台",
+      "url": "http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "時尚台FTV",
+      "url": "http://80.94.54.42/fashiontv/stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "明珠台",
       "url": "http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8$LR•IPV4『线路10』",
       "reason": "timeout",
       "source": "Joker-Cold-全量"
     },
     {
-      "name": "明珠台",
-      "url": "http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn",
+      "name": "時尚台FTV",
+      "url": "http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8",
       "reason": "timeout",
-      "source": "Guovin-TV"
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "時尚台FTV",
-      "url": "http://80.94.54.42/fashiontv/stream/playlist.m3u8",
+      "url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
     },
@@ -3603,26 +3624,8 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "時尚台FTV",
-      "url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
-      "reason": "timeout",
-      "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "時尚台FTV",
-      "url": "http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8",
-      "reason": "timeout",
-      "source": "MercuryZz-港澳台"
-    },
-    {
       "name": "民视",
       "url": "http://23.237.10.66:16334",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "民视HD",
-      "url": "http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -3633,8 +3636,8 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "民视台湾台",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8",
+      "name": "民视HD",
+      "url": "http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -3645,26 +3648,20 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "港台電視 32[直播]",
-      "url": "https://live.hkdvb.com/hls/live/32.m3u8?token=685252555987540",
-      "reason": "HTML page",
-      "source": "Joker-Cold-全量"
-    },
-    {
-      "name": "澳门卫视",
-      "url": "http://stream.mastvnet.com/MSTV/SD/live.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
+      "name": "民视台湾台",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "民视新闻 HD",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=01",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=1",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
     },
     {
       "name": "民视新闻 HD",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=1",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=01",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
     },
@@ -3675,8 +3672,8 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "澳门澳亚卫视台",
-      "url": "http://stream.mastvnet.com/MASTV/sd/live.m3u8",
+      "name": "澳门卫视",
+      "url": "http://stream.mastvnet.com/MSTV/SD/live.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
@@ -3684,6 +3681,18 @@
       "name": "波斯尼亚 777 TehnikaTV",
       "url": "http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8",
       "reason": "timeout",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "港台電視 32[直播]",
+      "url": "https://live.hkdvb.com/hls/live/32.m3u8?token=685252555987540",
+      "reason": "HTML page",
+      "source": "Joker-Cold-全量"
+    },
+    {
+      "name": "澳门澳亚卫视台",
+      "url": "http://stream.mastvnet.com/MASTV/sd/live.m3u8",
+      "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
@@ -3699,6 +3708,18 @@
       "source": "MercuryZz-港澳台"
     },
     {
+      "name": "澳门莲花",
+      "url": "http://anren.live/HK/BiIOU11uLA.m3u8",
+      "reason": "HTML page",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "澳门莲花",
+      "url": "http://anren.live/HK/BiIOU11uLA.m3u8?zgangd",
+      "reason": "HTML page",
+      "source": "imDazui-港澳台2023"
+    },
+    {
       "name": "澳视澳门",
       "url": "http://183.237.246.14:9931/tsfile/live/1039_1.m3u8",
       "reason": "timeout",
@@ -3711,22 +3732,10 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "澳门莲花",
-      "url": "http://anren.live/HK/BiIOU11uLA.m3u8",
-      "reason": "HTML page",
-      "source": "MercuryZz-港澳台"
-    },
-    {
       "name": "澳视澳门[直播]",
       "url": "https://live.hkdvb.com/hls/live/403.m3u8?token=685252555980754",
       "reason": "timeout",
       "source": "Joker-Cold-已验证"
-    },
-    {
-      "name": "澳门莲花",
-      "url": "http://anren.live/HK/BiIOU11uLA.m3u8?zgangd",
-      "reason": "HTML page",
-      "source": "imDazui-港澳台2023"
     },
     {
       "name": "澳视澳门[直播]",
@@ -3747,24 +3756,6 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "经典香港电影",
-      "url": "http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260714120216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20260714120216&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c0f36aa0d8afd6a2e22ca4e66cebdf6a&sv=10004&ct=android",
-      "reason": "HTTP 403",
-      "source": "Supprise0901-live"
-    },
-    {
-      "name": "澳门莲花",
-      "url": "http://epg.112114.xyz/lotus",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "翡翠",
-      "url": "https://cdn3.163189.xyz/live/fct/stream.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台202506"
-    },
-    {
       "name": "澳门Macau",
       "url": "http://61.244.22.4/ch2/ch2.live/playelist.m3u8",
       "reason": "timeout",
@@ -3777,10 +3768,28 @@
       "source": "MercuryZz-港澳台"
     },
     {
+      "name": "翡翠",
+      "url": "https://cdn3.163189.xyz/live/fct/stream.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "经典香港电影",
+      "url": "http://mgsp-hs2.live.miguvideo.com:8088/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260714160216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20260714160216&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f268693d86d4abe24dc37249d3a3bc04&sv=10004&ct=android",
+      "reason": "HTTP 604",
+      "source": "Supprise0901-live"
+    },
+    {
       "name": "澳门资讯",
       "url": "https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
       "reason": "direct too small",
       "source": "Joker-Cold-已验证"
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://122.152.202.33/s/81a8a44f/index.m3u8?id=53",
+      "reason": "direct not ts: not MPEG-TS",
+      "source": "sammy0101-HK"
     },
     {
       "name": "澳门体育",
@@ -3801,12 +3810,6 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "翡翠台",
-      "url": "http://r.jdshipin.com/62WM7",
-      "reason": "HTML page",
-      "source": "Supprise0901-live"
-    },
-    {
       "name": "澳门信息",
       "url": "http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8",
       "reason": "timeout",
@@ -3814,15 +3817,15 @@
     },
     {
       "name": "翡翠台",
-      "url": "http://119.32.12.32:2901/udp/224.1.100.121:11111",
-      "reason": "conn refused",
-      "source": "Joker-Cold-全量"
+      "url": "http://r.jdshipin.com/62WM7",
+      "reason": "HTTP 429",
+      "source": "Supprise0901-live"
     },
     {
       "name": "翡翠台",
-      "url": "http://122.152.202.33/s/81a8a44f/index.m3u8?id=53",
-      "reason": "direct not ts: not MPEG-TS",
-      "source": "sammy0101-HK"
+      "url": "http://119.32.12.32:2901/udp/224.1.100.121:11111",
+      "reason": "conn refused",
+      "source": "Joker-Cold-全量"
     },
     {
       "name": "翡翠台",
@@ -3837,46 +3840,10 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "翡翠台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
       "name": "澳门卫视",
       "url": "http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "翡翠台",
-      "url": "http://r.jdshipin.com/qClQf",
-      "reason": "HTML page",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "翡翠台",
-      "url": "http://r.jdshipin.com/qrfbg",
-      "reason": "HTML page",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "翡翠台",
-      "url": "http://r.jdshipin.com/GeWKr",
-      "reason": "HTML page",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "翡翠台",
-      "url": "http://101.35.240.114:88/live.php?id=翡翠台",
-      "reason": "HTTP 404",
-      "source": "Kimentanm-aptv"
-    },
-    {
-      "name": "翡翠台",
-      "url": "http://m.567it.com/jade.m3u8",
-      "reason": "empty",
-      "source": "imDazui-港澳台海外"
     },
     {
       "name": "澳门有线 CH1",
@@ -3891,10 +3858,28 @@
       "source": "imDazui-港澳台202506"
     },
     {
+      "name": "翡翠台",
+      "url": "http://r.jdshipin.com/qClQf",
+      "reason": "HTML page",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://r.jdshipin.com/GeWKr",
+      "reason": "HTML page",
+      "source": "Guovin-TV"
+    },
+    {
       "name": "澳门有线互动新闻",
       "url": "http://202.175.127.77/live/show/ch2/index.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://r.jdshipin.com/qrfbg",
+      "reason": "HTML page",
+      "source": "Guovin-TV"
     },
     {
       "name": "澳门综艺",
@@ -3903,14 +3888,38 @@
       "source": "MercuryZz-港澳台"
     },
     {
+      "name": "澳门莲花",
+      "url": "http://epg.112114.xyz/lotus",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://101.35.240.114:88/live.php?id=翡翠台",
+      "reason": "HTTP 404",
+      "source": "Kimentanm-aptv"
+    },
+    {
+      "name": "澳门综艺",
+      "url": "http://61.244.22.4/ch6/hd_ch6.live/master.m3u8",
+      "reason": "timeout",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "澳门莲花",
+      "url": "http://nettvpro.live/hls/lotustv.php",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
       "name": "華視",
       "url": "rtmp://f13h.mine.nu:1935/sat/tv111",
       "reason": "No connection adapters were found for 'r",
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "澳门综艺",
-      "url": "http://61.244.22.4/ch6/hd_ch6.live/master.m3u8",
+      "name": "澳门葡语",
+      "url": "http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
     },
@@ -3921,16 +3930,22 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "靖天卡通台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.m3u8",
+      "name": "澳门葡语",
+      "url": "http://61.244.22.4/ch2/ch2.live/index.m3u8",
+      "reason": "timeout",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "澳门葡语",
-      "url": "http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8",
-      "reason": "timeout",
-      "source": "MercuryZz-港澳台"
+      "name": "靖天卡通台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "靖天国际台",
@@ -3939,27 +3954,27 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "澳门莲花",
-      "url": "http://nettvpro.live/hls/lotustv.php",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "澳门葡语",
-      "url": "http://61.244.22.4/ch2/ch2.live/index.m3u8",
-      "reason": "timeout",
-      "source": "MercuryZz-港澳台"
-    },
-    {
       "name": "澳门资讯",
       "url": "http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
     },
     {
+      "name": "靖天戏剧",
+      "url": "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058",
+      "reason": "direct not ts: not MPEG-TS",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "靖天戏剧",
+      "url": "https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89",
+      "reason": "HTTP 530",
+      "source": "Guovin-TV"
+    },
+    {
       "name": "翡翠4K[直播]",
       "url": "https://live.hkdvb.com/hls/live/800.m3u8?token=685252555980754",
-      "reason": "HTML page",
+      "reason": "timeout",
       "source": "Joker-Cold-已验证"
     },
     {
@@ -3969,10 +3984,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "靖天戏剧",
-      "url": "https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89",
-      "reason": "HTTP 530",
-      "source": "Guovin-TV"
+      "name": "罗马尼亚STV",
+      "url": "http://s2.streamnet.ro:8035/stream.flv",
+      "reason": "timeout",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "靖天日本台",
@@ -3981,10 +3996,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "靖天戏剧",
-      "url": "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058",
-      "reason": "direct not ts: not MPEG-TS",
-      "source": "Guovin-TV"
+      "name": "翡翠台",
+      "url": "http://m.567it.com/jade.m3u8",
+      "reason": "empty",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "靖天映画",
@@ -4005,16 +4020,16 @@
       "source": "Joker-Cold-全量"
     },
     {
-      "name": "翡翠华丽",
-      "url": "http://23.237.10.66:16410",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "靖天映画",
       "url": "https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89",
       "reason": "HTTP 530",
       "source": "Guovin-TV"
+    },
+    {
+      "name": "翡翠华丽",
+      "url": "http://23.237.10.66:16410",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "靖天欢乐台",
@@ -4023,16 +4038,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "罗马尼亚STV",
-      "url": "http://s2.streamnet.ro:8035/stream.flv",
-      "reason": "timeout",
-      "source": "imDazui-港澳台海外"
-    },
-    {
       "name": "翡翠台",
-      "url": "http://iptv.4666888.xyz/iptv2A.php?id=34",
+      "url": "http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8",
       "reason": "timeout",
-      "source": "Supprise0901-live"
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "靖天电影台",
@@ -4048,7 +4057,13 @@
     },
     {
       "name": "翡翠台",
-      "url": "http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8",
+      "url": "http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -4057,12 +4072,6 @@
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/b4b4eb536ffc346864d2dcc03adedd85.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "翡翠台",
-      "url": "http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
     },
     {
       "name": "靖天资讯",
@@ -4089,28 +4098,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "翡翠台",
-      "url": "http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "香港佛陀",
-      "url": "https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8",
-      "reason": "direct too small",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "耀才財經台 (576p)",
       "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
       "reason": "timeout",
       "source": "iptv-org-香港"
-    },
-    {
-      "name": "香港卫视",
-      "url": "http://anren.live/HK/BSJDUFpB.m3u8",
-      "reason": "HTML page",
-      "source": "imDazui-港澳台202506"
     },
     {
       "name": "耀才财经",
@@ -4119,10 +4110,22 @@
       "source": "Joker-Cold-已验证"
     },
     {
-      "name": "耀才财经",
-      "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?$1024x576",
-      "reason": "timeout",
-      "source": "Joker-Cold-已验证"
+      "name": "香港卫视",
+      "url": "http://anren.live/HK/BSJDUFpB.m3u8",
+      "reason": "HTML page",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "香港佛陀",
+      "url": "https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8",
+      "reason": "direct too small",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "香港卫视",
+      "url": "http://zhibo.hkstv.tv/livestream/mutfysrq.flv",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "香港卫视",
@@ -4132,9 +4135,15 @@
     },
     {
       "name": "香港卫视",
-      "url": "http://zhibo.hkstv.tv/livestream/mutfysrq.flv",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台202506"
+      "url": "http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+      "reason": "direct too small",
+      "source": "Supprise0901-live"
+    },
+    {
+      "name": "耀才财经",
+      "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?$1024x576",
+      "reason": "timeout",
+      "source": "Joker-Cold-已验证"
     },
     {
       "name": "耀才财经",
@@ -4155,22 +4164,16 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "華視閩南頻道",
-      "url": "http://37.27.111.214:8080/live/8/hls.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台202506"
+      "name": "香港卫视",
+      "url": "https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8",
+      "reason": "direct too small",
+      "source": "Supprise0901-live"
     },
     {
       "name": "香港有线电视603",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "香港卫视",
-      "url": "https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8",
-      "reason": "direct too small",
-      "source": "Supprise0901-live"
     },
     {
       "name": "香港电台",
@@ -4185,21 +4188,15 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "香港卫视",
-      "url": "http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
-      "reason": "direct too small",
-      "source": "Supprise0901-live"
+      "name": "鳳凰香港台[直播]",
+      "url": "https://live.hkdvb.com/hls/live/85.m3u8?token=685252555980754",
+      "reason": "HTML page",
+      "source": "Joker-Cold-已验证"
     },
     {
-      "name": "香港卫视文旅",
-      "url": "https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8",
-      "reason": "HTTP 403",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "香港電台普通話台",
-      "url": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8",
-      "reason": "master: no valid ts",
+      "name": "華視閩南頻道",
+      "url": "http://37.27.111.214:8080/live/8/hls.m3u8",
+      "reason": "timeout",
       "source": "imDazui-港澳台202506"
     },
     {
@@ -4207,6 +4204,12 @@
       "url": "https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv",
       "reason": "direct too small",
       "source": "sammy0101-HK"
+    },
+    {
+      "name": "香港電台普通話台",
+      "url": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8",
+      "reason": "master: no valid ts",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "龙华偶像",
@@ -4221,10 +4224,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "靖天国际台",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "name": "龙华卡通",
+      "url": "https://cdn8.163189.xyz/live/lhkt/stream.m3u8",
+      "reason": "HTTP 429",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "龙华影剧",
@@ -4239,32 +4242,8 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "龙华卡通",
-      "url": "https://cdn8.163189.xyz/live/lhkt/stream.m3u8",
-      "reason": "HTML page",
-      "source": "imDazui-港澳台202506"
-    },
-    {
       "name": "龙华戏剧",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/b40ec839440a97d24d0aee0c69d186a1.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "龙华洋片台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "靖天戏剧台",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "龙华电影台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
@@ -4275,16 +4254,34 @@
       "source": "imDazui-港澳台202506"
     },
     {
+      "name": "龙华洋片台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
       "name": "龙华电影",
       "url": "https://cdn8.163189.xyz/live/lhdy/stream.m3u8",
       "reason": "HTML page",
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "靖天日本台",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8",
+      "name": "龙华电影台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://iptv.4666888.xyz/iptv2A.php?id=34",
       "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "source": "Supprise0901-live"
+    },
+    {
+      "name": "龙华经典",
+      "url": "https://cdn8.163189.xyz/live/lhjd/stream.m3u8",
+      "reason": "HTML page",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "龙华经典台",
@@ -4293,16 +4290,34 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "靖天映书",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8",
+      "name": "香港卫视文旅",
+      "url": "https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8",
+      "reason": "HTTP 403",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "靖天国际台",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "龙华经典",
-      "url": "https://cdn8.163189.xyz/live/lhjd/stream.m3u8",
-      "reason": "HTML page",
-      "source": "imDazui-港澳台202506"
+      "name": "靖天戏剧台",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "靖天日本台",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "靖天映书",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "靖天欢乐台",
@@ -4312,13 +4327,13 @@
     },
     {
       "name": "靖天映画",
-      "url": "https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8",
+      "url": "https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8",
       "reason": "timeout",
       "source": "Guovin-TV"
     },
     {
       "name": "靖天映画",
-      "url": "https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8",
+      "url": "https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8",
       "reason": "timeout",
       "source": "Guovin-TV"
     },
@@ -4347,14 +4362,8 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "香港开电视",
-      "url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "鳳凰香港台[直播]",
-      "url": "https://live.hkdvb.com/hls/live/85.m3u8?token=685252555980754",
+      "name": "黃金翡翠台[直播]",
+      "url": "https://live.hkdvb.com/hls/live/100.m3u8?token=685252555980754",
       "reason": "HTML page",
       "source": "Joker-Cold-已验证"
     },
@@ -4363,12 +4372,6 @@
       "url": "https://live.hkdvb.com/hls/live/85.m3u8?token=685252555987540",
       "reason": "timeout",
       "source": "Joker-Cold-全量"
-    },
-    {
-      "name": "黃金翡翠台[直播]",
-      "url": "https://live.hkdvb.com/hls/live/100.m3u8?token=685252555980754",
-      "reason": "timeout",
-      "source": "Joker-Cold-已验证"
     },
     {
       "name": "黃金翡翠台[直播]",

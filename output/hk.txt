@@ -1,5 +1,5 @@
-# 港澳台IPTV | 2026-07-23 06:37
-# 频道: 43 | 全部端到端验证通过
+# 港澳台IPTV | 2026-07-24 11:49
+# 频道: 39 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
 
 港台RTHK,#genre#
@@ -8,22 +8,26 @@ RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 TVB翡翠台,#genre#
 TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
+
+HOY TV,#genre#
+HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 凤凰中文台,#genre#
 [BD]凤凰中文,https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
 
 凤凰资讯台,#genre#
-凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
 
 凤凰卫视,#genre#
-[BD]凤凰卫视中文[geo-blocked],https://stream1.freetv.fun/e6fd2d09a19cbeb78145f445436d44d9ec43c79a9ce2ffcdd4116a5c8bafdc6f.m3u8
-凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰古城南华山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+凤凰古城南华山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
 
 TVBS（台湾）,#genre#
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 
@@ -32,8 +36,7 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 
 东森（台湾）,#genre#
 [BD]东森美洲新闻台,https://stream1.freetv.fun/d08ea3c0e788d241119fdfe7dadd2d9505a329c9313957a73adcd13de810c593.m3u8
-[BD]东森超视 34.5,https://stream1.freetv.fun/bf9c66cad412c6594276f125793ff1bf60d1b059f0795f5972b415fa031d4f79.m3u8
-[BD]東森美洲,https://stream1.freetv.fun/58095733803c46eb57bb7d5401c87aa9ee2a605c57b9d8ced2c65d9b385610ed.m3u8
+[BD]东森美洲2,https://stream1.freetv.fun/eb4ded3c365bf7d42bebf4dbe94e8f4a601ccf18f345bdeb7968b0fb5541c803.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
@@ -41,41 +44,38 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 
 民视（台湾）,#genre#
-[BD]民视新闻,https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.m3u8
+[BD]民視新聞,https://stream1.freetv.fun/33ae9aa2523492a0deb1bebba74b646b746cf674d50b753e7c4c06305d3fe40b.m3u8
 民視閩南頻道,http://37.27.111.214:8080/live/6/hls.m3u8
 民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
 台视（台湾）,#genre#
-[BD]台視新聞,https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
-[BD]台视财经,https://stream1.freetv.fun/e2331640734e3da0f0ea18e4021f6d8ce8247924af42ed34d282c4aa1c0e1dbd.m3u8
 台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
 中视（台湾）,#genre#
-[SD]中视 *28,https://stream1.freetv.fun/382948ff42660a1aaec5278e6157ffeff954e762ed237824718eb7ab4ca7beb7.m3u8
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
-
-公视（台湾）,#genre#
-[BD]公视,https://stream1.freetv.fun/cbd5b3ed1c9bb24dc392181ade6213dcdbb374e660bd68a5f105a80bfd93e4b7.m3u8
-[BD]公视 *28,https://stream1.freetv.fun/6146a774a487b288a4bd36c4cd3bd41b9f29b62ad47545d2e24a3a83a602474c.m3u8
 
 八大（台湾）,#genre#
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 
+香港卫视,#genre#
+香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
+
 澳门频道,#genre#
-[BD]ช่อง 澳视澳门,https://stream1.freetv.fun/14ab57c2f60a541dd8f75219ee88553faf0194f96019a9dd38b46f41e3ada1fc.m3u8
 Lotus Macau HD 720p (720p),https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+
+电影频道,#genre#
+靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 
 有线/Now,#genre#
 Now 14 (1080p),https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 有線新聞,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
 港澳其他频道,#genre#
-[BD]tvbs亚洲,https://stream1.freetv.fun/490340d742eb83c96123103e77460d8be396d5b87ee81e045aecaed070e152b6.m3u8
-[BD]tvb plus[geo-blocked],https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.m3u8
 [BD]momo親子,https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8
 NOW News Global (720p),https://nowhls.wns.live/hls/stream.m3u8
 NOW TV (720p),https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
-经典香港电影,http://hlszymgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260723120409&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20260723120409&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4411f7048be1fb0165fd24b3e5a07d95&sv=10004&ct=android
+靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
+靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 

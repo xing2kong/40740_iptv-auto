@@ -1,21 +1,21 @@
-# 港澳台IPTV | 2026-08-02 11:22
-# 频道: 50 | 全部端到端验证通过
+# 港澳台IPTV | 2026-08-04 00:15
+# 频道: 48 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
 
 港台RTHK,#genre#
-RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+RTHK TV 31 (港台電視31) (1080p) [Geo-blocked],https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 TVB翡翠台,#genre#
-[BD]翡翠台[geo-blocked],https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
+[BD]翡翠[geo-blocked],https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8
+TVB无线新闻,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
 
 TVB明珠台,#genre#
-TVB明珠,http://r.jdshipin.com/jUx8K
 明珠台,http://r.jdshipin.com/ZQ4kN
 
 ViuTV,#genre#
-ViuTV,http://r.jdshipin.com/vSJvl
+[BD]viutv[geo-blocked],https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c750355a5ff31cced30ca13.m3u8
 
 凤凰中文台,#genre#
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv
@@ -27,6 +27,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 
 TVBS（台湾）,#genre#
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 
@@ -45,12 +46,12 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 
 民视（台湾）,#genre#
 [BD]民視新聞,https://stream1.freetv.fun/33ae9aa2523492a0deb1bebba74b646b746cf674d50b753e7c4c06305d3fe40b.m3u8
-[BD]民视新闻,https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.m3u8
 民視閩南頻道,http://37.27.111.214:8080/live/6/hls.m3u8
 民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
 台视（台湾）,#genre#
-[BD]台視新聞,https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8
+[BD]台視新聞,https://stream1.freetv.fun/ffa3a8fc52b4834c300b3587a667310b5eb8a46d000498709791be4bd1799514.m3u8
+[BD]台视新闻,https://stream1.freetv.fun/41157664acf190bce85c72f310a742879b275e1912726bc43f323ff6ae321e09.m3u8
 台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
 中视（台湾）,#genre#
@@ -65,10 +66,9 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 
 香港卫视,#genre#
-香港卫视,https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
+香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
 
 澳门频道,#genre#
-[BD]ช่อง 澳视澳门,https://stream1.freetv.fun/d2e26396288b9f363e26cc630f13e4f1fde8fae958a0bde4ff2dac09f9a6ec9c.m3u8
 Lotus Macau HD 720p (720p),https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 
 电影频道,#genre#
@@ -79,18 +79,16 @@ Now 14 (1080p),https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx
 有線新聞,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
 港澳其他频道,#genre#
-[BD]tvbs亚洲,https://stream1.freetv.fun/0e9dc5f67eeae3d90d5afce9b70b9a06d6b3db352230f64d93221b83afb9e9ff.m3u8
 [BD]tvb plus[geo-blocked],https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.m3u8
-[BD]tvbs亞洲,https://stream1.freetv.fun/0854ce5d4e8860e055549f5881ef05ab76b1bd0bc5bea78057553ed66f44d800.m3u8
 [BD]elta生活旅遊,https://stream1.freetv.fun/a11e0b3b8652399e1305bf0770da905a04d2f1083ec894986b6d392ff8eb71ec.m3u8
 [BD]momo親子,https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8
 [BD]华视 *28,https://stream1.freetv.fun/ac3f5d43532b24846965e5c7f0f59da05191d48ee055cb026c14c0490b841478.m3u8
 [BD]澳門MACAU,https://stream1.freetv.fun/cddca3be72e1752fa1a211f70007dbf09875073ea2b9ddeb83b2b804a36209d4.m3u8
-[HD]delta tv,https://stream1.freetv.fun/5f56fd510fa5a452dee263ca849faea760869a16bb26588a171ff364f1854384.m3u8
 NOW News Global (720p),https://nowhls.wns.live/hls/stream.m3u8
 NOW TV (720p),https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 

@@ -1,40 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png" group-title="港澳其他频道",[BD]tvbs亚洲
-https://stream1.freetv.fun/0e9dc5f67eeae3d90d5afce9b70b9a06d6b3db352230f64d93221b83afb9e9ff.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718003717714909_27.png" group-title="港澳其他频道",[BD]elta生活旅遊
-https://stream1.freetv.fun/a11e0b3b8652399e1305bf0770da905a04d2f1083ec894986b6d392ff8eb71ec.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="ViuTV",[BD]viutv
-https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/3_6.jpg" group-title="港澳其他频道",[BD]ttv
-https://stream1.freetv.fun/f3f1e4c6caa6dfdca0cc37270c3d7316980e5bbf45333618e5a50f12722905b4.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/11/27/large/20221127005733419108_21.jpg" group-title="三立（台湾）",[BD]三立inews
-https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="澳门频道",[BD]ช่อง 澳视澳门
-https://stream1.freetv.fun/d2e26396288b9f363e26cc630f13e4f1fde8fae958a0bde4ff2dac09f9a6ec9c.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="东森（台湾）",[BD]东森超视 34.5
-https://stream1.freetv.fun/bf9c66cad412c6594276f125793ff1bf60d1b059f0795f5972b415fa031d4f79.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164553238162_16.png" group-title="中视（台湾）",[BD]中視新聞[geo-blocked]
-https://stream1.freetv.fun/9d5ffec09ed08670ea7b11a469c8af857b3d6c49e3a22a74b0ebcae1731a3e55.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724132219452361_49.png" group-title="公视（台湾）",[BD]公视
-https://stream1.freetv.fun/cbd5b3ed1c9bb24dc392181ade6213dcdbb374e660bd68a5f105a80bfd93e4b7.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/22/20161122123940121042_91.png" group-title="台视（台湾）",[BD]台視新聞
-https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506171601310367_14.png" group-title="民视（台湾）",[BD]民視新聞
-https://stream1.freetv.fun/33ae9aa2523492a0deb1bebba74b646b746cf674d50b753e7c4c06305d3fe40b.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="港澳其他频道",[HD]delta tv
-https://stream1.freetv.fun/5f56fd510fa5a452dee263ca849faea760869a16bb26588a171ff364f1854384.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221833273953_43.jpg" group-title="中视（台湾）",[HD]中视新闻
-https://stream1.freetv.fun/de6c5f05f080350a1fb18fd32559c871ba906ba353d8927fe8869d16740ac521.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211439196918_86.png" group-title="港澳其他频道",[HD]靖天资讯
-https://stream1.freetv.fun/f399d5ca932e97fc64175572c8c5f5c14d36761d3bceda596b03403c568f204b.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055838912553_80.png" group-title="中视（台湾）",[SD]中视 *28
-https://stream1.freetv.fun/382948ff42660a1aaec5278e6157ffeff954e762ed237824718eb7ab4ca7beb7.m3u8
-#EXTINF:-1 group-title="港台RTHK",RTHK 32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 group-title="港台RTHK",RTHK 31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="香港卫视",香港卫视
-https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
+#EXTINF:-1 group-title="港台RTHK",RTHK 32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEUmRST.png" group-title="民视（台湾）",FTV News
+https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="澳门频道",Lotus Macau HD 720p (720p)
 https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 group-title="港澳其他频道",NOW News Global (720p)
@@ -45,49 +15,91 @@ https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="港澳其他频道",Pet Club TV (1080p)
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="港台RTHK",RTHK31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="TVBS（台湾）",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="TVBS（台湾）",TVBS亞洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="TVBS（台湾）",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="ViuTV",ViuTV
+http://r.jdshipin.com/vSJvl
 #EXTINF:-1 group-title="三立（台湾）",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="三立（台湾）",三立新闻
+https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
+#EXTINF:-1 group-title="三立（台湾）",三立台湾台
+https://epg.pw/stream/79a263b6160e568f6d3cd91417334e5b08f1638bf5990da99c65d94589d35fb7.m3u8
+#EXTINF:-1 group-title="东森（台湾）",东森幼幼台
+https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+#EXTINF:-1 group-title="东森（台湾）",东森戏剧
+https://epg.pw/stream/5dc124caeeb73ea07e5542cca877600b90f87a42e72b579e267528c3411b073f.m3u8
+#EXTINF:-1 group-title="东森（台湾）",东森新闻
+https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8
 #EXTINF:-1 group-title="东森（台湾）",东森美洲卫视
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="东森（台湾）",东森综合
+https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
 #EXTINF:-1 group-title="东森（台湾）",东森超视34.5
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="东森（台湾）",东森美洲
+https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 #EXTINF:-1 group-title="中天（台湾）",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="东森（台湾）",东森洋片
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
+#EXTINF:-1 group-title="东森（台湾）",东森超视
+https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
 #EXTINF:-1 group-title="中视（台湾）",中视
-http://37.27.111.214:8080/live/7/hls.m3u8
+https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
 #EXTINF:-1 group-title="八大（台湾）",八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="八大（台湾）",八大综合
+https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="凤凰中文台",凤凰中文
+https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
 #EXTINF:-1 group-title="凤凰卫视",凤凰卫视
 http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="凤凰资讯台",凤凰资讯
 http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="凤凰其他频道",凤凰香港
+https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
+#EXTINF:-1 group-title="港澳其他频道",华视
+https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+#EXTINF:-1 group-title="其他台湾频道",博斯运动2
+https://epg.pw/stream/f8e9fc9a8c76935a58f6c9295462febadcc2e06471bc7634a6cd4d7fe5a12b14.m3u8
+#EXTINF:-1 group-title="其他台湾频道",博斯魅力
+https://epg.pw/stream/440e2c0585ce62fd999454df8770aef94a3631ed4dbb1036be6a191ce879d581.m3u8
 #EXTINF:-1 group-title="台视（台湾）",台视新闻 HD
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="电影频道",天映经典
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
-#EXTINF:-1 group-title="TVB明珠台",明珠台
-http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 group-title="电影频道",天映经典
+https://epg.pw/stream/257310e766410da552d36d6edd54d575489b6f2f6fc282f89d697d68b46b47fc.ctv
+#EXTINF:-1 group-title="电影频道",天映频道(MAS)
+https://epg.pw/stream/be57bcf7129184f546bebfec81d980207851b2d523b83ff64deddda8d6e5e5e6.ctv
+#EXTINF:-1 group-title="港澳其他频道",寰宇新闻
+https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="TVB翡翠台",无线新闻
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-#EXTINF:-1 group-title="有线/Now",有線新聞
-http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="TVB翡翠台",无线星河
+http://r.jdshipin.com/Voac4
+#EXTINF:-1 group-title="TVB明珠台",明珠台
+http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 group-title="民视（台湾）",民視閩南頻道
 http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="有线/Now",有線新聞
+http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 group-title="民视（台湾）",民视新闻 HD
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="民视（台湾）",民视
+https://epg.pw/stream/446ff2630964ca5ddcb9f9cb6d4e1a5f2ca1dca875b2a4e1c462b9e5cf83b77d.m3u8
 #EXTINF:-1 group-title="TVB翡翠台",翡翠台
-http://r.jdshipin.com/qrfbg
-#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天戏剧.png" group-title="港澳其他频道",靖天戏剧
-http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="电影频道",靖天映画
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 group-title="港澳其他频道",靖天国际台
+https://epg.pw/stream/d3d02fa9532f7534b585d54c1d5c9d2efd49a5e08858e1f16750eec4448f083a.m3u8
 #EXTINF:-1 group-title="港澳其他频道",香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="香港卫视",香港卫视文旅
+https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8
+#EXTINF:-1 group-title="港澳其他频道",香港国际财经台
+https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8
+#EXTINF:-1 group-title="香港卫视",香港卫视
+https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015495aaa.m3u8
+#EXTINF:-1 group-title="龙华（台湾）",龙华戏剧
+https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8

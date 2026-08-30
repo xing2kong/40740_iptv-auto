@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 group-title="港台RTHK",RTHK 32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 group-title="港台RTHK",RTHK 31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 group-title="港台RTHK",RTHK 32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 tvg-logo="https://m.momoshop.com.tw/img/message.png" group-title="其他台湾频道",MOMO TV (1080p)
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="澳门频道",Lotus Macau HD 720p (720p)
-https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 group-title="港澳其他频道",NOW News Global (720p)
 https://nowhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="澳门频道",Lotus Macau HD 720p (720p)
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 group-title="有线/Now",Now 14 (1080p)
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="港澳其他频道",Pet Club TV (1080p)
-https://petclub-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="港澳其他频道",NOW TV (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="台视（台湾）",TTV News
-https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="港澳其他频道",Pet Club TV (1080p)
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="港台RTHK",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="TVBS（台湾）",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="TVBS（台湾）",TVBS亞洲
@@ -37,24 +37,24 @@ https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c
 https://epg.pw/stream/5dc124caeeb73ea07e5542cca877600b90f87a42e72b579e267528c3411b073f.m3u8
 #EXTINF:-1 group-title="东森（台湾）",东森新闻
 https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8
-#EXTINF:-1 group-title="东森（台湾）",东森综合
-https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
 #EXTINF:-1 group-title="东森（台湾）",东森美洲卫视
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="东森（台湾）",东森美洲
-https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
+#EXTINF:-1 group-title="东森（台湾）",东森综合
+https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
 #EXTINF:-1 group-title="东森（台湾）",东森超视34.5
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="东森（台湾）",东森超视
-https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
+#EXTINF:-1 group-title="东森（台湾）",东森美洲
+https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 #EXTINF:-1 group-title="中天（台湾）",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="东森（台湾）",东森超视
+https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
 #EXTINF:-1 group-title="中视（台湾）",中视
 https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
-#EXTINF:-1 group-title="八大（台湾）",八大综合
-https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8
 #EXTINF:-1 group-title="八大（台湾）",八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="八大（台湾）",八大综合
+https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="凤凰中文台",凤凰中文
 https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
 #EXTINF:-1 group-title="凤凰卫视",凤凰卫视
@@ -78,7 +78,7 @@ https://epg.pw/stream/be57bcf7129184f546bebfec81d980207851b2d523b83ff64deddda8d6
 #EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="TVB翡翠台",无线新闻
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="TVB翡翠台",无线星河
-http://r.jdshipin.com/sXuuD
+http://r.jdshipin.com/Voac4
 #EXTINF:-1 group-title="港澳其他频道",寰宇新闻
 https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8
 #EXTINF:-1 group-title="TVB明珠台",明珠台

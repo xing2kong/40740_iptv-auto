@@ -1,5 +1,5 @@
-# 港澳台IPTV | 2026-08-31 10:45
-# 频道: 33 | 全部端到端验证通过
+# 港澳台IPTV | 2026-09-01 01:47
+# 频道: 54 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
 
 港台RTHK,#genre#
@@ -8,9 +8,9 @@ RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 RTHK TV 31 (港台電視31) (1080p) [Geo-blocked],https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 TVB翡翠台,#genre#
-无线星河,http://r.jdshipin.com/sXuuD
 无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
+无线星河,http://r.jdshipin.com/Voac4
+翡翠台,http://r.jdshipin.com/qrfbg
 
 TVB明珠台,#genre#
 明珠台,http://r.jdshipin.com/jUx8K
@@ -18,20 +18,20 @@ TVB明珠台,#genre#
 ViuTV,#genre#
 ViuTV,http://r.jdshipin.com/vSJvl
 
-HOY TV,#genre#
-HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
 凤凰中文台,#genre#
 凤凰中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
 
 凤凰资讯台,#genre#
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 
+凤凰其他频道,#genre#
+凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
+
 凤凰卫视,#genre#
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 
 TVBS（台湾）,#genre#
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 
@@ -39,31 +39,54 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 
 东森（台湾）,#genre#
-东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
+东森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+东森戏剧,https://epg.pw/stream/5dc124caeeb73ea07e5542cca877600b90f87a42e72b579e267528c3411b073f.m3u8
+东森新闻,https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8
+东森综合,https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森美洲,https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森超视,https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
 
 三立（台湾）,#genre#
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+三立台湾台,https://epg.pw/stream/79a263b6160e568f6d3cd91417334e5b08f1638bf5990da99c65d94589d35fb7.m3u8
+三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 
 民视（台湾）,#genre#
 民視閩南頻道,http://37.27.111.214:8080/live/6/hls.m3u8
 民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视,https://epg.pw/stream/446ff2630964ca5ddcb9f9cb6d4e1a5f2ca1dca875b2a4e1c462b9e5cf83b77d.m3u8
 
 台视（台湾）,#genre#
 台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
 中视（台湾）,#genre#
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
+中视,https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
+
+龙华（台湾）,#genre#
+龙华戏剧,https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8
 
 八大（台湾）,#genre#
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+八大综合,https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8
 
 其他台湾频道,#genre#
 MOMO TV (1080p),http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+博斯运动2,https://epg.pw/stream/f8e9fc9a8c76935a58f6c9295462febadcc2e06471bc7634a6cd4d7fe5a12b14.m3u8
+博斯魅力,https://epg.pw/stream/440e2c0585ce62fd999454df8770aef94a3631ed4dbb1036be6a191ce879d581.m3u8
+
+香港卫视,#genre#
+香港卫视文旅,https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8
+香港卫视,https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015495aaa.m3u8
 
 澳门频道,#genre#
 Lotus Macau HD 720p (720p),https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+
+电影频道,#genre#
+天映经典,https://epg.pw/stream/257310e766410da552d36d6edd54d575489b6f2f6fc282f89d697d68b46b47fc.ctv
+天映频道(MAS),https://epg.pw/stream/be57bcf7129184f546bebfec81d980207851b2d523b83ff64deddda8d6e5e5e6.ctv
+靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 
 有线/Now,#genre#
 Now 14 (1080p),https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
@@ -73,5 +96,9 @@ Now 14 (1080p),https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx
 NOW News Global (720p),https://nowhls.wns.live/hls/stream.m3u8
 NOW TV (720p),https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
+华视,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+寰宇新闻,https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8
+靖天国际台,https://epg.pw/stream/d3d02fa9532f7534b585d54c1d5c9d2efd49a5e08858e1f16750eec4448f083a.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港国际财经台,https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8
 

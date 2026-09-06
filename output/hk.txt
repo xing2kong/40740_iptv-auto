@@ -1,12 +1,12 @@
-# 港澳台IPTV | 2026-09-06 08:36
-# 频道: 53 | 全部端到端验证通过
+# 港澳台IPTV | 2026-09-06 13:32
+# 频道: 54 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
 
 TVB翡翠台,#genre#
 无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-无线星河,http://r.jdshipin.com/sXuuD
+无线星河,http://r.jdshipin.com/Voac4
 福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
-翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/n90gt
 翡翠台4K(字幕),https://cdn.qd.je/163189/fct4k
 
 TVB明珠台,#genre#
@@ -14,8 +14,8 @@ TVB明珠台,#genre#
 
 ViuTV,#genre#
 Viutv,http://r.jdshipin.com/vSJvl
-VIUTV6,https://cdn.qd.je/163189.php?id=viu6
 ViuTVsix,https://cdn.qd.je/163189/viu6
+VIUTV6,https://cdn.qd.je/163189.php?id=viu6
 
 HOY TV,#genre#
 HOY國際財經台,https://cdn.qd.je/163189/hoy76
@@ -47,8 +47,8 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 东森新闻,https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森综合,https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
-东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森美洲,https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
+东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
 
 三立（台湾）,#genre#
@@ -97,5 +97,6 @@ TVB Plus,https://cdn.qd.je/163189.php?id=tvbp
 寰宇新闻,https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8
 靖天国际台,https://epg.pw/stream/d3d02fa9532f7534b585d54c1d5c9d2efd49a5e08858e1f16750eec4448f083a.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港国际财经台,https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8
 

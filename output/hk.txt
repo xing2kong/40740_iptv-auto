@@ -1,22 +1,22 @@
-# 港澳台IPTV | 2026-09-10 14:14
-# 频道: 33 | 全部端到端验证通过
+# 港澳台IPTV | 2026-09-11 00:56
+# 频道: 36 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
 
 港台RTHK,#genre#
-RTHK TV 31 (港台電視31) (1080p) [Geo-blocked],https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 TVB翡翠台,#genre#
 Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/qrfbg
+「HK」翡翠台,http://r.jdshipin.com/n90gt
 无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-无线星河,http://r.jdshipin.com/Voac4
-福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+无线星河,http://r.jdshipin.com/sXuuD
 
 TVB明珠台,#genre#
 明珠台,http://r.jdshipin.com/ZQ4kN
 
 ViuTV,#genre#
-ViuTV,http://r.jdshipin.com/TcKr2
+ViuTV,http://r.jdshipin.com/vSJvl
 VIUTV6,https://cdn.qd.je/163189.php?id=viu6
 
 HOY TV,#genre#
@@ -64,12 +64,15 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 Lotus Macau HD 720p (720p),https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 
 电影频道,#genre#
+天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 
 港澳其他频道,#genre#
 Asian Drama (1080p),http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
-TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB Plus,https://cdn.qd.je/163189.php?id=tvbp
+「HK」J2,http://r.jdshipin.com/Nr5jq
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 

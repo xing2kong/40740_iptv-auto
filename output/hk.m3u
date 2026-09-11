@@ -4,19 +4,19 @@ http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPYxsUr.png" group-title="TVB翡翠台",Golden Jade (1080p)
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 group-title="TVB翡翠台",翡翠台
-http://r.jdshipin.com/n90gt
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 group-title="HOY TV",HOY76
+https://cdn.qd.je/163189.php?id=hoy76
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="港澳其他频道",Mei Ah Movie Channel (1080p)
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="澳门频道",Lotus Macau HD 720p (720p)
 https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
-#EXTINF:-1 group-title="HOY TV",HOY76
-https://cdn.qd.je/163189.php?id=hoy76
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="港澳其他频道",Pet Club TV (1080p)
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="港台RTHK",RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="港台RTHK",RTHK TV 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="港澳其他频道",TVB Plus
-http://r.jdshipin.com/Nr5jq
+https://cdn.qd.je/163189.php?id=tvbp
 #EXTINF:-1 group-title="TVBS（台湾）",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="TVBS（台湾）",TVBS亞洲
@@ -24,7 +24,11 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="TVBS（台湾）",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="ViuTV",ViuTV
-http://r.jdshipin.com/TcKr2
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1 group-title="港澳其他频道",「HK」J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 group-title="TVB翡翠台",「HK」翡翠台
+http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="ViuTV",VIUTV6
 https://cdn.qd.je/163189.php?id=viu6
 #EXTINF:-1 group-title="三立（台湾）",三立戏剧台
@@ -52,16 +56,18 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="TVB翡翠台",无线新闻
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="TVB翡翠台",无线星河
-http://r.jdshipin.com/Voac4
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="电影频道",天映经典
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 #EXTINF:-1 group-title="TVB明珠台",明珠台
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 group-title="民视（台湾）",民視閩南頻道
 http://37.27.111.214:8080/live/6/hls.m3u8
 #EXTINF:-1 group-title="民视（台湾）",民视新闻 HD
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-logo="https://tb.zbds.top/logo/福建漳州醉美沙滩翡翠湾.png" group-title="TVB翡翠台",福建漳州醉美沙滩翡翠湾
-https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="电影频道",靖天映画
 http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 #EXTINF:-1 group-title="港澳其他频道",香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="港澳其他频道",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8

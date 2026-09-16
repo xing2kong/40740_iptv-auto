@@ -1,16 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wqtN7mH.png" group-title="港澳其他频道",Asian Drama (1080p)
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.momoshop.com.tw/img/message.png" group-title="其他台湾频道",MOMO TV (1080p)
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPYxsUr.png" group-title="TVB翡翠台",Golden Jade (1080p)
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 group-title="TVB翡翠台",翡翠台
-http://r.jdshipin.com/qrfbg
+http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="港澳其他频道",Mei Ah Movie Channel (1080p)
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="澳门频道",Lotus Macau HD 720p (720p)
 https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="港澳其他频道",Pet Club TV (1080p)
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="港台RTHK",RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="TVBS（台湾）",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="TVBS（台湾）",TVBS亞洲
@@ -18,7 +22,7 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="TVBS（台湾）",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="ViuTV",Viutv
-http://r.jdshipin.com/vSJvl
+http://r.jdshipin.com/TcKr2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" group-title="港澳其他频道",tvN Asia HD (720p)
 http://58.8.186.128:10005/bysid/2518
 #EXTINF:-1 group-title="港澳其他频道",「HK」J2
@@ -41,10 +45,10 @@ http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="东森（台湾）",东森综合
 https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
-#EXTINF:-1 group-title="东森（台湾）",东森美洲
-https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 #EXTINF:-1 group-title="东森（台湾）",东森超视34.5
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="东森（台湾）",东森美洲
+https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 #EXTINF:-1 group-title="中天（台湾）",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="东森（台湾）",东森超视
@@ -67,20 +71,20 @@ https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574
 https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
 #EXTINF:-1 group-title="其他台湾频道",博斯运动2
 https://epg.pw/stream/f8e9fc9a8c76935a58f6c9295462febadcc2e06471bc7634a6cd4d7fe5a12b14.m3u8
-#EXTINF:-1 group-title="台视（台湾）",台视新闻 HD
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="其他台湾频道",博斯魅力
 https://epg.pw/stream/440e2c0585ce62fd999454df8770aef94a3631ed4dbb1036be6a191ce879d581.m3u8
+#EXTINF:-1 group-title="台视（台湾）",台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="电影频道",天映经典
 https://epg.pw/stream/257310e766410da552d36d6edd54d575489b6f2f6fc282f89d697d68b46b47fc.ctv
 #EXTINF:-1 group-title="电影频道",天映频道(MAS)
 https://epg.pw/stream/be57bcf7129184f546bebfec81d980207851b2d523b83ff64deddda8d6e5e5e6.ctv
 #EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="TVB翡翠台",无线新闻
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="TVB翡翠台",无线星河
+http://r.jdshipin.com/Voac4
 #EXTINF:-1 group-title="港澳其他频道",寰宇新闻
 https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="TVB翡翠台",无线星河
-http://r.jdshipin.com/sXuuD
 #EXTINF:-1 group-title="TVB明珠台",明珠台
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 group-title="民视（台湾）",民視閩南頻道

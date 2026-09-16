@@ -1,19 +1,22 @@
-# 港澳台IPTV | 2026-09-16 09:14
-# 频道: 53 | 全部端到端验证通过
+# 港澳台IPTV | 2026-09-16 14:47
+# 频道: 55 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
+
+港台RTHK,#genre#
+RTHK TV 31 (港台電視31) (1080p) [Geo-blocked],https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 TVB翡翠台,#genre#
 Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/n90gt
 无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-无线星河,http://r.jdshipin.com/sXuuD
+无线星河,http://r.jdshipin.com/Voac4
 福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 
 TVB明珠台,#genre#
 明珠台,http://r.jdshipin.com/ZQ4kN
 
 ViuTV,#genre#
-Viutv,http://r.jdshipin.com/vSJvl
+Viutv,http://r.jdshipin.com/TcKr2
 
 凤凰中文台,#genre#
 凤凰中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
@@ -42,8 +45,8 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森综合,https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
-东森美洲,https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森美洲,https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 东森超视,https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
 
 三立（台湾）,#genre#
@@ -87,6 +90,7 @@ Lotus Macau HD 720p (720p),https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotu
 靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 
 港澳其他频道,#genre#
+Asian Drama (1080p),http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
 tvN Asia HD (720p),http://58.8.186.128:10005/bysid/2518

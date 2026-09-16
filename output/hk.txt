@@ -1,25 +1,19 @@
-# 港澳台IPTV | 2026-09-16 01:14
-# 频道: 56 | 全部端到端验证通过
+# 港澳台IPTV | 2026-09-16 09:14
+# 频道: 53 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
-
-港台RTHK,#genre#
-RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 TVB翡翠台,#genre#
 Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 翡翠台,http://r.jdshipin.com/qrfbg
 无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 无线星河,http://r.jdshipin.com/sXuuD
+福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 
 TVB明珠台,#genre#
 明珠台,http://r.jdshipin.com/ZQ4kN
 
 ViuTV,#genre#
-ViuTV,http://r.jdshipin.com/vSJvl
-VIUTV6,https://cdn.qd.je/163189.php?id=viu6
-
-HOY TV,#genre#
-HOY76,https://cdn.qd.je/163189.php?id=hoy76
+Viutv,http://r.jdshipin.com/vSJvl
 
 凤凰中文台,#genre#
 凤凰中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
@@ -72,8 +66,8 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 龙华戏剧,https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8
 
 八大（台湾）,#genre#
-八大综合,https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+八大综合,https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8
 
 其他台湾频道,#genre#
 MOMO TV (1080p),http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
@@ -93,11 +87,10 @@ Lotus Macau HD 720p (720p),https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotu
 靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 
 港澳其他频道,#genre#
-Asian Drama (1080p),http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
-TVB Plus,http://r.jdshipin.com/Nr5jq
 tvN Asia HD (720p),http://58.8.186.128:10005/bysid/2518
+「HK」J2,http://r.jdshipin.com/Nr5jq
 华视,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
 寰宇新闻,https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8
 靖天国际台,https://epg.pw/stream/d3d02fa9532f7534b585d54c1d5c9d2efd49a5e08858e1f16750eec4448f083a.m3u8

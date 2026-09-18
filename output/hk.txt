@@ -1,10 +1,14 @@
-# 港澳台IPTV | 2026-09-18 08:58
-# 频道: 56 | 全部端到端验证通过
+# 港澳台IPTV | 2026-09-18 14:18
+# 频道: 55 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
 
+港台RTHK,#genre#
+RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
 TVB翡翠台,#genre#
-翡翠台,http://r.jdshipin.com/qrfbg
 Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+翡翠台,http://r.jdshipin.com/qrfbg
+TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 无线星河,http://r.jdshipin.com/sXuuD
 福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
@@ -40,7 +44,6 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 
 东森（台湾）,#genre#
-EBC YOYO,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 东森戏剧,https://epg.pw/stream/5dc124caeeb73ea07e5542cca877600b90f87a42e72b579e267528c3411b073f.m3u8
 东森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
 东森新闻,https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8
@@ -61,7 +64,6 @@ EBC YOYO,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 民视,https://epg.pw/stream/446ff2630964ca5ddcb9f9cb6d4e1a5f2ca1dca875b2a4e1c462b9e5cf83b77d.m3u8
 
 台视（台湾）,#genre#
-TTV News,https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
 中视（台湾）,#genre#
@@ -71,8 +73,8 @@ TTV News,https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 龙华戏剧,https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8
 
 八大（台湾）,#genre#
-八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 八大综合,https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 
 其他台湾频道,#genre#
 博斯运动2,https://epg.pw/stream/f8e9fc9a8c76935a58f6c9295462febadcc2e06471bc7634a6cd4d7fe5a12b14.m3u8
@@ -99,6 +101,5 @@ tvN Asia HD (720p),http://58.8.186.128:10005/bysid/2518
 寰宇新闻,https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8
 靖天国际台,https://epg.pw/stream/d3d02fa9532f7534b585d54c1d5c9d2efd49a5e08858e1f16750eec4448f083a.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港国际财经台,https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8
 

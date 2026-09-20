@@ -1,15 +1,12 @@
-# 港澳台IPTV | 2026-09-20 09:13
+# 港澳台IPTV | 2026-09-20 14:05
 # 频道: 53 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
-
-港台RTHK,#genre#
-RTHK TV 31 (1080p) [Geo-blocked],https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 TVB翡翠台,#genre#
 Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 翡翠台,http://r.jdshipin.com/qrfbg
+无线星河,http://r.jdshipin.com/sXuuD
 无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-无线星河,http://r.jdshipin.com/Voac4
 福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 
 TVB明珠台,#genre#
@@ -22,7 +19,7 @@ ViuTV,http://r.jdshipin.com/TcKr2
 凤凰中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
 
 凤凰其他频道,#genre#
-凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 
 TVBS（台湾）,#genre#
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
@@ -33,9 +30,9 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 
 东森（台湾）,#genre#
-东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 东森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
 东森戏剧,https://epg.pw/stream/5dc124caeeb73ea07e5542cca877600b90f87a42e72b579e267528c3411b073f.m3u8
+东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 东森新闻,https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
@@ -49,6 +46,7 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 
 民视（台湾）,#genre#
+FTV News,https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 民視閩南頻道,http://37.27.111.214:8080/live/6/hls.m3u8
 民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视,https://epg.pw/stream/446ff2630964ca5ddcb9f9cb6d4e1a5f2ca1dca875b2a4e1c462b9e5cf83b77d.m3u8
@@ -81,8 +79,8 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 
 港澳其他频道,#genre#
 Asian Drama (1080p),http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
-Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 Lotus TV (720p),https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
 TVB Plus,http://r.jdshipin.com/Nr5jq
 tvN Asia HD (720p),http://58.8.186.128:10005/bysid/2518

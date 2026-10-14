@@ -1,12 +1,12 @@
-# 港澳台IPTV | 2026-10-14 09:24
-# 频道: 49 | 全部端到端验证通过
+# 港澳台IPTV | 2026-10-14 14:59
+# 频道: 50 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
 
 TVB翡翠台,#genre#
 Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
-无线星河,http://r.jdshipin.com/sXuuD
+翡翠台,http://r.jdshipin.com/qrfbg
 无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+无线星河,http://r.jdshipin.com/Voac4
 福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 
 TVB明珠台,#genre#
@@ -22,8 +22,8 @@ ViuTV,http://r.jdshipin.com/TcKr2
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 
 TVBS（台湾）,#genre#
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 
 中天（台湾）,#genre#
@@ -50,7 +50,7 @@ SET三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 民视,https://epg.pw/stream/446ff2630964ca5ddcb9f9cb6d4e1a5f2ca1dca875b2a4e1c462b9e5cf83b77d.m3u8
 
 台视（台湾）,#genre#
-台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
 中视（台湾）,#genre#
 中视,https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
@@ -73,6 +73,7 @@ GTV八大綜合台HD,http://61.221.215.25:8800/hls/56/index.m3u8
 电影频道,#genre#
 天映经典,https://epg.pw/stream/257310e766410da552d36d6edd54d575489b6f2f6fc282f89d697d68b46b47fc.ctv
 天映频道(MAS),https://epg.pw/stream/be57bcf7129184f546bebfec81d980207851b2d523b83ff64deddda8d6e5e5e6.ctv
+靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 
 有线/Now,#genre#
 有線新聞台,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8

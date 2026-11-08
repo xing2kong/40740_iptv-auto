@@ -1,14 +1,15 @@
-# 港澳台IPTV | 2026-11-08 02:13
-# 频道: 47 | 全部端到端验证通过
+# 港澳台IPTV | 2026-11-08 11:10
+# 频道: 48 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
 
 港台RTHK,#genre#
 港台電視32,http://45.192.97.170:8880/play/1203.m3u8
 
 TVB翡翠台,#genre#
+Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+翡翠台,http://r.jdshipin.com/qrfbg
 无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 无线星河,http://r.jdshipin.com/sXuuD
-翡翠台,http://r.jdshipin.com/qrfbg
 
 TVB明珠台,#genre#
 明珠台,http://r.jdshipin.com/ZQ4kN
@@ -77,10 +78,10 @@ Now新聞台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 有線新聞台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
 港澳其他频道,#genre#
-Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
-Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
-TVB Plus,http://r.jdshipin.com/Nr5jq
 Lotus TV (720p),https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
+TVB Plus,http://r.jdshipin.com/Nr5jq
+Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 华视,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
 寰宇新闻,https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8
 靖天国际台,https://epg.pw/stream/d3d02fa9532f7534b585d54c1d5c9d2efd49a5e08858e1f16750eec4448f083a.m3u8

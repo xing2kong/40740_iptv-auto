@@ -1,15 +1,15 @@
 {
   "meta": {
     "title": "港澳台IPTV (端到端验证)",
-    "update": "2026-11-25 05:19:29",
+    "update": "2026-11-25 19:51:54",
     "v": 4
   },
   "stats": {
     "total_raw": 710,
     "total_unique": 457,
-    "alive": 27,
-    "dead": 414,
-    "pass_rate": "5%"
+    "alive": 47,
+    "dead": 394,
+    "pass_rate": "10%"
   },
   "alive": [
     {
@@ -83,10 +83,45 @@
       "source": "sammy0101-HK"
     },
     {
+      "name": "东森戏剧",
+      "url": "https://epg.pw/stream/5dc124caeeb73ea07e5542cca877600b90f87a42e72b579e267528c3411b073f.m3u8",
+      "category": "东森（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "东森新闻",
+      "url": "https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8",
+      "category": "东森（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "三立台湾台",
+      "url": "https://epg.pw/stream/79a263b6160e568f6d3cd91417334e5b08f1638bf5990da99c65d94589d35fb7.m3u8",
+      "category": "三立（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "东森幼幼台",
+      "url": "https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8",
+      "category": "东森（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
       "name": "东森美洲卫视",
       "url": "http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8",
       "category": "东森（台湾）",
       "reason": "direct MPEG-TS (found)",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "东森综合",
+      "url": "https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8",
+      "category": "东森（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
       "source": "imDazui-港澳台202506"
     },
     {
@@ -97,6 +132,13 @@
       "source": "MercuryZz-港澳台"
     },
     {
+      "name": "东森美洲",
+      "url": "https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8",
+      "category": "东森（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
       "name": "中天娱乐",
       "url": "http://61.221.215.25:8800/hls/47/index.m3u8",
       "category": "中天（台湾）",
@@ -104,10 +146,24 @@
       "source": "imDazui-港澳台202506"
     },
     {
+      "name": "东森超视",
+      "url": "https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8",
+      "category": "东森（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
       "name": "中视",
-      "url": "http://37.27.111.214:8080/live/7/hls.m3u8",
+      "url": "https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8",
       "category": "中视（台湾）",
-      "reason": "direct MPEG-TS (found)",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "八大综合",
+      "url": "https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8",
+      "category": "八大（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
       "source": "imDazui-港澳台202506"
     },
     {
@@ -119,10 +175,24 @@
     },
     {
       "name": "凤凰香港",
-      "url": "http://jy.bhzz.today:2026/YY1/WMHS.php?id=3e1c841a88936f25&t=1067366677706926791&line=2&token=xxx",
+      "url": "https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8",
       "category": "凤凰其他频道",
-      "reason": "direct MPEG-TS (found)",
-      "source": "Supprise0901-live"
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "华视",
+      "url": "https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8",
+      "category": "港澳其他频道",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "博斯运动2",
+      "url": "https://epg.pw/stream/f8e9fc9a8c76935a58f6c9295462febadcc2e06471bc7634a6cd4d7fe5a12b14.m3u8",
+      "category": "其他台湾频道",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "台视新闻 HD",
@@ -130,6 +200,20 @@
       "category": "台视（台湾）",
       "reason": "direct MPEG-TS (found)",
       "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "博斯魅力",
+      "url": "https://epg.pw/stream/440e2c0585ce62fd999454df8770aef94a3631ed4dbb1036be6a191ce879d581.m3u8",
+      "category": "其他台湾频道",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "天映经典",
+      "url": "https://epg.pw/stream/257310e766410da552d36d6edd54d575489b6f2f6fc282f89d697d68b46b47fc.ctv",
+      "category": "电影频道",
+      "reason": "direct MPEG-TS (found)",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "无线新闻",
@@ -144,6 +228,20 @@
       "category": "TVB翡翠台",
       "reason": "direct MPEG-TS (found)",
       "source": "Guovin-TV"
+    },
+    {
+      "name": "天映频道(MAS)",
+      "url": "https://epg.pw/stream/be57bcf7129184f546bebfec81d980207851b2d523b83ff64deddda8d6e5e5e6.ctv",
+      "category": "电影频道",
+      "reason": "direct MPEG-TS (found)",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "寰宇新闻",
+      "url": "https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8",
+      "category": "港澳其他频道",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "明珠台",
@@ -164,6 +262,13 @@
       "url": "http://37.27.111.214:8080/live/6/hls.m3u8",
       "category": "民视（台湾）",
       "reason": "direct MPEG-TS (found)",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "民视",
+      "url": "https://epg.pw/stream/446ff2630964ca5ddcb9f9cb6d4e1a5f2ca1dca875b2a4e1c462b9e5cf83b77d.m3u8",
+      "category": "民视（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
       "source": "imDazui-港澳台202506"
     },
     {
@@ -188,10 +293,24 @@
       "source": "sammy0101-HK"
     },
     {
+      "name": "靖天国际台",
+      "url": "https://epg.pw/stream/d3d02fa9532f7534b585d54c1d5c9d2efd49a5e08858e1f16750eec4448f083a.m3u8",
+      "category": "港澳其他频道",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
       "name": "香港佛陀",
       "url": "http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8",
       "category": "港澳其他频道",
       "reason": "direct MPEG-TS (found)",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "香港卫视文旅",
+      "url": "https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8",
+      "category": "香港卫视",
+      "reason": "sub→MPEG-TS ✓✓",
       "source": "imDazui-港澳台202506"
     },
     {
@@ -200,9 +319,42 @@
       "category": "港澳其他频道",
       "reason": "direct MPEG-TS (found)",
       "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "香港国际财经台",
+      "url": "https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8",
+      "category": "港澳其他频道",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "香港卫视",
+      "url": "https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015495aaa.m3u8",
+      "category": "香港卫视",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "龙华戏剧",
+      "url": "https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8",
+      "category": "龙华（台湾）",
+      "reason": "sub→MPEG-TS ✓✓",
+      "source": "imDazui-港澳台202506"
     }
   ],
   "dead": [
+    {
+      "name": "HOY Infotainment (1080p) [Geo-blocked]",
+      "url": "https://hoytv-live-stream.hoy.tv/ch78/index.m3u8",
+      "reason": "HTTP 403",
+      "source": "iptv-org-香港"
+    },
+    {
+      "name": "Hong Kong International Business Channel (1080p) [Geo-blocked]",
+      "url": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
+      "reason": "HTTP 403",
+      "source": "iptv-org-香港"
+    },
     {
       "name": "HOY TV (1080p) [Geo-blocked]",
       "url": "https://hoytv-live-stream.hoy.tv/ch77/index.m3u8",
@@ -214,18 +366,6 @@
       "url": "https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8",
       "reason": "HTTP 403",
       "source": "Free-TV-香港"
-    },
-    {
-      "name": "Hong Kong International Business Channel (1080p) [Geo-blocked]",
-      "url": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
-      "reason": "HTTP 403",
-      "source": "iptv-org-香港"
-    },
-    {
-      "name": "HOY Infotainment (1080p) [Geo-blocked]",
-      "url": "https://hoytv-live-stream.hoy.tv/ch78/index.m3u8",
-      "reason": "HTTP 403",
-      "source": "iptv-org-香港"
     },
     {
       "name": "Celestial Movies (576i)",
@@ -258,56 +398,8 @@
       "source": "iptv-org-香港"
     },
     {
-      "name": "香港卫视",
-      "url": "https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv",
-      "reason": "timeout",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "杭州明珠",
-      "url": "https://stream1.freetv.fun/hang-zhou-ming-zhu-2.ctv",
-      "reason": "timeout",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "东森超视",
-      "url": "https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8",
-      "reason": "timeout",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "东森电影",
-      "url": "https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv",
-      "reason": "timeout",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "三立新闻",
-      "url": "https://stream1.freetv.fun/san-li-xin-wen-4.m3u8",
-      "reason": "timeout",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "三立新闻",
-      "url": "https://stream1.freetv.fun/san-li-xin-wen-5.ctv",
-      "reason": "timeout",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "东森超视",
-      "url": "https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8",
-      "reason": "timeout",
-      "source": "Guovin-TV"
-    },
-    {
       "name": "杭州明珠",
       "url": "https://stream1.freetv.fun/hang-zhou-ming-zhu-1.ctv",
-      "reason": "timeout",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "香港卫视",
-      "url": "https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8",
       "reason": "timeout",
       "source": "Guovin-TV"
     },
@@ -324,8 +416,32 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "香港卫视",
-      "url": "https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8",
+      "name": "东森电影",
+      "url": "https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv",
+      "reason": "timeout",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "EBC YOYO",
+      "url": "https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8",
+      "reason": "conn refused",
+      "source": "ChinaIPTV-自动更新"
+    },
+    {
+      "name": "杭州明珠",
+      "url": "https://stream1.freetv.fun/hang-zhou-ming-zhu-2.ctv",
+      "reason": "timeout",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "FTV News",
+      "url": "https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8",
+      "reason": "conn refused",
+      "source": "ChinaIPTV-自动更新"
+    },
+    {
+      "name": "三立新闻",
+      "url": "https://stream1.freetv.fun/san-li-xin-wen-4.m3u8",
       "reason": "timeout",
       "source": "Guovin-TV"
     },
@@ -336,16 +452,58 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "东森超视",
-      "url": "https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv",
+      "name": "Celestial Movies",
+      "url": "http://210.210.155.37/dr9445/h/h14/index.m3u8",
+      "reason": "timeout",
+      "source": "ChinaIPTV-自动更新"
+    },
+    {
+      "name": "三立新闻",
+      "url": "https://stream1.freetv.fun/san-li-xin-wen-5.ctv",
       "reason": "timeout",
       "source": "Guovin-TV"
     },
     {
-      "name": "FTV Taiwan (720p) [Not 24/7]",
-      "url": "http://seb.sason.top/ptv/ftv.php?id=tw",
-      "reason": "conn refused",
+      "name": "CHC Action (1080p)",
+      "url": "http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8",
+      "reason": "timeout",
       "source": "iptv-org-中文"
+    },
+    {
+      "name": "东森超视",
+      "url": "https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8",
+      "reason": "timeout",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "香港卫视",
+      "url": "https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8",
+      "reason": "timeout",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "香港卫视",
+      "url": "https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8",
+      "reason": "timeout",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "香港卫视",
+      "url": "https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv",
+      "reason": "timeout",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "东森超视",
+      "url": "https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8",
+      "reason": "timeout",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "东森超视",
+      "url": "https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv",
+      "reason": "timeout",
+      "source": "Guovin-TV"
     },
     {
       "name": "EBC Financial News (1080p) [Not 24/7]",
@@ -354,32 +512,14 @@
       "source": "iptv-org-中文"
     },
     {
-      "name": "FTV News",
-      "url": "https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8",
-      "reason": "conn refused",
-      "source": "ChinaIPTV-自动更新"
-    },
-    {
       "name": "FTV One (720p) [Not 24/7]",
       "url": "http://seb.sason.top/ptv/ftv.php?id=dy",
       "reason": "conn refused",
       "source": "iptv-org-中文"
     },
     {
-      "name": "EBC YOYO",
-      "url": "https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8",
-      "reason": "conn refused",
-      "source": "ChinaIPTV-自动更新"
-    },
-    {
-      "name": "EBC News (1080p) [Not 24/7]",
-      "url": "http://seb.sason.top/sc/dsxw_fhd.m3u8",
-      "reason": "conn refused",
-      "source": "iptv-org-中文"
-    },
-    {
-      "name": "FTV (Taiwan) (720p) [Not 24/7]",
-      "url": "http://seb.sason.top/ptv/ftv.php?id=ms",
+      "name": "FTV Taiwan (720p) [Not 24/7]",
+      "url": "http://seb.sason.top/ptv/ftv.php?id=tw",
       "reason": "conn refused",
       "source": "iptv-org-中文"
     },
@@ -390,15 +530,15 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "Celestial Movies",
-      "url": "http://210.210.155.37/dr9445/h/h14/index.m3u8",
-      "reason": "timeout",
-      "source": "ChinaIPTV-自动更新"
+      "name": "FTV (Taiwan) (720p) [Not 24/7]",
+      "url": "http://seb.sason.top/ptv/ftv.php?id=ms",
+      "reason": "conn refused",
+      "source": "iptv-org-中文"
     },
     {
-      "name": "CHC Action (1080p)",
-      "url": "http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8",
-      "reason": "timeout",
+      "name": "EBC News (1080p) [Not 24/7]",
+      "url": "http://seb.sason.top/sc/dsxw_fhd.m3u8",
+      "reason": "conn refused",
       "source": "iptv-org-中文"
     },
     {
@@ -408,10 +548,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "MOMO TV (1080p)",
-      "url": "http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8",
-      "reason": "conn refused",
-      "source": "iptv-org-中文"
+      "name": "MOMO購物2台",
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "MOMO購物1台",
@@ -420,10 +560,10 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "MOMO購物2台",
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "MercuryZz-港澳台"
+      "name": "MOMO TV (1080p)",
+      "url": "http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8",
+      "reason": "conn refused",
+      "source": "iptv-org-中文"
     },
     {
       "name": "GTV八大第1台HD",
@@ -432,28 +572,10 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "Now新聞台",
-      "url": "http://cdn.163189.xyz/163189/now",
-      "reason": "HTML page",
-      "source": "sammy0101-HK"
-    },
-    {
-      "name": "HOY 資訊台",
-      "url": "http://cdn.163189.xyz/live/hoy/stream.m3u8",
-      "reason": "HTML page",
-      "source": "sammy0101-HK"
-    },
-    {
       "name": "GTV八大戲劇HD",
       "url": "http://61.221.215.25:8800/hls/39/index.m3u8",
       "reason": "direct not ts: not MPEG-TS",
       "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "HOY TV",
-      "url": "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8",
-      "reason": "direct too small",
-      "source": "sammy0101-HK"
     },
     {
       "name": "RTHK TV 33 (1080p) [Geo-blocked]",
@@ -462,14 +584,20 @@
       "source": "iptv-org-香港"
     },
     {
-      "name": "RTHK TV 35 (1080p) [Geo-blocked]",
-      "url": "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8",
-      "reason": "HTTP 403",
-      "source": "iptv-org-香港"
+      "name": "HOY 資訊台",
+      "url": "http://cdn.163189.xyz/live/hoy/stream.m3u8",
+      "reason": "HTML page",
+      "source": "sammy0101-HK"
     },
     {
       "name": "HOY TV",
-      "url": "http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8",
+      "url": "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8",
+      "reason": "direct too small",
+      "source": "sammy0101-HK"
+    },
+    {
+      "name": "HOY TV",
+      "url": "http://r.jdshipin.com/sFw4S",
       "reason": "direct too small",
       "source": "sammy0101-HK"
     },
@@ -480,8 +608,20 @@
       "source": "iptv-org-香港"
     },
     {
+      "name": "Now新聞台",
+      "url": "http://cdn.163189.xyz/163189/now",
+      "reason": "HTML page",
+      "source": "sammy0101-HK"
+    },
+    {
+      "name": "RTHK TV 35 (1080p) [Geo-blocked]",
+      "url": "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8",
+      "reason": "HTTP 403",
+      "source": "iptv-org-香港"
+    },
+    {
       "name": "HOY TV",
-      "url": "http://r.jdshipin.com/sFw4S",
+      "url": "http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8",
       "reason": "direct too small",
       "source": "sammy0101-HK"
     },
@@ -498,16 +638,16 @@
       "source": "Free-TV-香港"
     },
     {
-      "name": "TTV News",
-      "url": "https://live.wcetv.com/hls/master-ttvnews.m3u8",
-      "reason": "direct too small",
-      "source": "iptv-org-中文"
-    },
-    {
       "name": "TVB News Channel",
       "url": "https://tvp22.sky4k.top/index1.php",
       "reason": "conn refused",
       "source": "Free-TV-香港"
+    },
+    {
+      "name": "TTV News",
+      "url": "https://live.wcetv.com/hls/master-ttvnews.m3u8",
+      "reason": "direct too small",
+      "source": "iptv-org-中文"
     },
     {
       "name": "TVB 功夫",
@@ -516,16 +656,16 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "TVB 星河",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/e70f35708baededbbd1d0963f76981a1.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
       "name": "TVB News",
       "url": "http://r.jdshipin.com/CkuBd",
       "reason": "direct too small",
       "source": "ChinaIPTV-自动更新"
+    },
+    {
+      "name": "TVB 星河",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/e70f35708baededbbd1d0963f76981a1.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "TVBJ1",
@@ -654,28 +794,28 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "三立NEWS+",
-      "url": "https://ytm2.yuanhsing.cf/SETLIVE.m3u8",
-      "reason": "conn refused",
-      "source": "MercuryZz-港澳台"
-    },
-    {
       "name": "三立iNEWS",
       "url": "https://ytm2.yuanhsing.cf/setmoney159.m3u8",
       "reason": "conn refused",
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "ELTA娱乐",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "name": "三立NEWS+",
+      "url": "https://ytm2.yuanhsing.cf/SETLIVE.m3u8",
+      "reason": "conn refused",
+      "source": "MercuryZz-港澳台"
     },
     {
-      "name": "Hakkatv",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "name": "三立台湾",
+      "url": "https://hls-gateway.vpstv.net/streams/477050.m3u8",
+      "reason": "HTTP 403",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "三立NEWS+",
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "三立台湾台",
@@ -690,8 +830,20 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "三立台湾",
-      "url": "https://hls-gateway.vpstv.net/streams/477050.m3u8",
+      "name": "ELTA娱乐",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "Hakkatv",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "三立新闻",
+      "url": "https://hls-gateway.vpstv.net/streams/492922.m3u8",
       "reason": "HTTP 403",
       "source": "Guovin-TV"
     },
@@ -702,34 +854,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "三立新闻",
-      "url": "https://hls-gateway.vpstv.net/streams/492922.m3u8",
-      "reason": "HTTP 403",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "三立NEWS+",
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "MercuryZz-港澳台"
-    },
-    {
       "name": "Phoenix Chinese Channel (720p)",
       "url": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
       "reason": "timeout",
       "source": "iptv-org-香港"
-    },
-    {
-      "name": "Phoenix InfoNews Channel (720p)",
-      "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
-      "reason": "timeout",
-      "source": "iptv-org-香港"
-    },
-    {
-      "name": "三立都会台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/4abe46a5faf4865e251ac981287a6e20.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
     },
     {
       "name": "三立综合台",
@@ -738,26 +866,20 @@
       "source": "imDazui-港澳台海外"
     },
     {
+      "name": "Phoenix InfoNews Channel (720p)",
+      "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
+      "reason": "timeout",
+      "source": "iptv-org-香港"
+    },
+    {
       "name": "三立都會",
       "url": "http://www.zzrs888.top/tw5.php?id=三立都會HD",
       "reason": "conn refused",
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "三立财经新闻台",
-      "url": "http://seb.sason.top/sc/slinews_fhd.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "PTS 3",
-      "url": "http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv",
-      "reason": "timeout",
-      "source": "iptv-org-中文"
-    },
-    {
-      "name": "东森戏剧台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/17cdea424a288175c834060c58b3bb4e.m3u8",
+      "name": "三立都会台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/4abe46a5faf4865e251ac981287a6e20.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
@@ -766,6 +888,24 @@
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/0c0a03db510687f73c455afcc220386b.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "三立财经新闻台",
+      "url": "http://seb.sason.top/sc/slinews_fhd.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "东森戏剧台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/17cdea424a288175c834060c58b3bb4e.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "PTS 3",
+      "url": "http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv",
+      "reason": "timeout",
+      "source": "iptv-org-中文"
     },
     {
       "name": "东森新闻台",
@@ -786,22 +926,16 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "东森洋片台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/24b15906d2250c062c0f0b5339e166b2.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
       "name": "东森洋片",
       "url": "https://hls-gateway.vpstv.net/streams/476997.m3u8",
       "reason": "HTTP 403",
       "source": "Guovin-TV"
     },
     {
-      "name": "东森电影",
-      "url": "https://hls-gateway.vpstv.net/streams/476995.m3u8",
-      "reason": "HTTP 403",
-      "source": "Guovin-TV"
+      "name": "东森洋片台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/24b15906d2250c062c0f0b5339e166b2.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "TTV (720p)",
@@ -810,34 +944,10 @@
       "source": "iptv-org-中文"
     },
     {
-      "name": "三立台湾台",
-      "url": "https://epg.pw/stream/79a263b6160e568f6d3cd91417334e5b08f1638bf5990da99c65d94589d35fb7.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "东森戏剧",
-      "url": "https://epg.pw/stream/5dc124caeeb73ea07e5542cca877600b90f87a42e72b579e267528c3411b073f.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "东森新闻",
-      "url": "https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "东森幼幼台",
-      "url": "https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "东森综合台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/7485194388c0ca1d43a664701afb2ff2.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
+      "name": "东森电影",
+      "url": "https://hls-gateway.vpstv.net/streams/476995.m3u8",
+      "reason": "HTTP 403",
+      "source": "Guovin-TV"
     },
     {
       "name": "东森电影台",
@@ -852,6 +962,12 @@
       "source": "Guovin-TV"
     },
     {
+      "name": "东森综合台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/7485194388c0ca1d43a664701afb2ff2.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
       "name": "东森財经 HD",
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8",
       "reason": "ts not MPEG-TS",
@@ -864,34 +980,28 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "东森美洲",
-      "url": "https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "东森综合",
-      "url": "https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "东森财经",
-      "url": "https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8",
-      "reason": "redirect to error",
-      "source": "imDazui-港澳台202506"
-    },
-    {
       "name": "东森财经新闻台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/10e21c98ff74745141a386d91da24c56.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
+      "name": "TVBS",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
       "name": "东森购物2",
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "东森财经",
+      "url": "https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8",
+      "reason": "redirect to error",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "东森购物3",
@@ -912,22 +1022,16 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "东森超视",
-      "url": "https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "TVBS",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "中天娱乐台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/25ea449d554a16ec584e82d039065e5f.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "TVB 星河台",
+      "url": "http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "TVBS欢乐台",
@@ -954,22 +1058,16 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "三立新闻台",
-      "url": "http://59.125.101.122:8080/live/soooli0715.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台海外"
-    },
-    {
       "name": "中天新闻台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/e1a397539e76f45bbbf39d1467024aa3.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "三立综合",
-      "url": "http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220",
+      "name": "三立新闻台",
+      "url": "http://59.125.101.122:8080/live/soooli0715.m3u8",
       "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "中天综合台",
@@ -990,6 +1088,18 @@
       "source": "imDazui-港澳台202506"
     },
     {
+      "name": "三立综合",
+      "url": "http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "中視菁采",
+      "url": "http://litv.zapi.us.kg/?id=4gtv-4gtv064",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台202506"
+    },
+    {
       "name": "中視經典",
       "url": "http://litv.zapi.us.kg/?id=4gtv-4gtv080",
       "reason": "conn refused",
@@ -1002,10 +1112,10 @@
       "source": "iptv-org-澳门"
     },
     {
-      "name": "中視菁采",
-      "url": "http://litv.zapi.us.kg/?id=4gtv-4gtv064",
+      "name": "中视",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/318e4839a23f9ff15e327de9bcb31687.m3u8",
       "reason": "conn refused",
-      "source": "imDazui-港澳台202506"
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "东森电影",
@@ -1016,18 +1126,6 @@
     {
       "name": "东森电影ETTVMovie",
       "url": "http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "中视",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/318e4839a23f9ff15e327de9bcb31687.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "东森综合ETTVMetro",
-      "url": "http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -1044,22 +1142,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "中视",
-      "url": "https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
       "name": "中视新闻 HD",
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "东森财经新闻",
-      "url": "http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
     },
     {
       "name": "中视新闻 HD",
@@ -1068,20 +1154,26 @@
       "source": "MercuryZz-港澳台"
     },
     {
+      "name": "东森综合ETTVMetro",
+      "url": "http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
       "name": "中视经典",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "东森超视",
-      "url": "http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391",
+      "name": "东森财经新闻",
+      "url": "http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "中天娱乐",
-      "url": "http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac",
+      "name": "东森超视",
+      "url": "http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -1111,15 +1203,15 @@
     },
     {
       "name": "中天娱乐",
-      "url": "http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a",
+      "url": "http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "中天新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=3",
+      "name": "中天娱乐",
+      "url": "http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a",
       "reason": "timeout",
-      "source": "MercuryZz-港澳台"
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "八大第一台",
@@ -1128,10 +1220,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "TVB 星河台",
-      "url": "http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8",
+      "name": "中天新闻",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=3",
       "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "八大綜合",
@@ -1146,10 +1238,16 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "八大综合",
-      "url": "https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
+      "name": "中天新闻",
+      "url": "http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "中天新闻",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "中天综合",
@@ -1160,12 +1258,6 @@
     {
       "name": "中天综合CTIMetro",
       "url": "http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "中天新闻",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -1182,28 +1274,10 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "中视HD",
-      "url": "http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "中视",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "公视",
       "url": "https://epg.pw/stream/5c0663273403c40461cd1ae04cc5cfa4bb9d5d626270d5ec1754aeb554c3020b.m3u8",
       "reason": "redirect to error",
       "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "中视新闻",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
     },
     {
       "name": "公视",
@@ -1218,20 +1292,38 @@
       "source": "imDazui-港澳台海外"
     },
     {
+      "name": "中视",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
       "name": "公视三台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/514590fdb3ba8e3f2c3a15dd13037f31.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "TDM Information (720p) [Not 24/7]",
-      "url": "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+      "name": "中视HD",
+      "url": "http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605",
       "reason": "timeout",
-      "source": "iptv-org-澳门"
+      "source": "imDazui-港澳台2023"
     },
     {
-      "name": "TDM-Macau Satellite (720p)",
-      "url": "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
+      "name": "中视新闻 HD",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=02",
+      "reason": "timeout",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "中视新闻",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "TDM Entertainment (720p)",
+      "url": "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
       "reason": "timeout",
       "source": "iptv-org-澳门"
     },
@@ -1242,27 +1334,21 @@
       "source": "iptv-org-澳门"
     },
     {
-      "name": "TDM Entertainment (720p)",
-      "url": "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
+      "name": "TDM-Macau Satellite (720p)",
+      "url": "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
       "reason": "timeout",
       "source": "iptv-org-澳门"
     },
     {
-      "name": "中视新闻 HD",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=02",
+      "name": "TDM Information (720p) [Not 24/7]",
+      "url": "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
       "reason": "timeout",
-      "source": "MercuryZz-港澳台"
+      "source": "iptv-org-澳门"
     },
     {
-      "name": "中视经典",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "中天新闻",
-      "url": "http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv",
-      "reason": "conn refused",
+      "name": "凤凰中文",
+      "url": "http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8",
+      "reason": "HTTP 403",
       "source": "imDazui-港澳台2023"
     },
     {
@@ -1272,16 +1358,34 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "凤凰中文",
-      "url": "http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8",
-      "reason": "HTTP 403",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "中视菁采",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "中视经典",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8",
+      "reason": "direct too small",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "凤凰中文台",
+      "url": "https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8",
+      "reason": "direct too small",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://101.35.240.114:88/phenix.php?id=fhzw",
+      "reason": "HTTP 404",
+      "source": "Kimentanm-aptv"
     },
     {
       "name": "俄罗斯MostVideo TV 1",
@@ -1296,26 +1400,20 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "凤凰中文",
-      "url": "http://101.35.240.114:88/phenix.php?id=fhzw",
-      "reason": "HTTP 404",
-      "source": "Kimentanm-aptv"
-    },
-    {
-      "name": "凤凰中文",
-      "url": "http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8",
-      "reason": "direct too small",
-      "source": "MercuryZz-港澳台"
-    },
-    {
       "name": "八大第一GTVFirst",
       "url": "http://198.16.64.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "凤凰中文台",
-      "url": "https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8",
+      "name": "凤凰资讯",
+      "url": "https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8",
+      "reason": "direct too small",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?",
       "reason": "direct too small",
       "source": "MercuryZz-港澳台"
     },
@@ -1327,33 +1425,9 @@
     },
     {
       "name": "凤凰资讯",
-      "url": "http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?",
-      "reason": "direct too small",
-      "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "凤凰资讯",
-      "url": "https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8",
-      "reason": "direct too small",
-      "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "凤凰资讯",
-      "url": "http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8",
-      "reason": "direct too small",
-      "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "凤凰资讯",
       "url": "https://cdn3.163189.xyz/live/fhzx/stream.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "凤凰中文",
-      "url": "http://app.kds666.top:5566/api.php?id=1&s=2",
-      "reason": "direct not ts: not MPEG-TS",
-      "source": "Supprise0901-live"
     },
     {
       "name": "凤凰资讯",
@@ -1375,6 +1449,18 @@
     },
     {
       "name": "凤凰资讯",
+      "url": "http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8",
+      "reason": "direct too small",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://app.kds666.top:5566/api.php?id=1&s=2",
+      "reason": "direct not ts: not MPEG-TS",
+      "source": "Supprise0901-live"
+    },
+    {
+      "name": "凤凰资讯",
       "url": "https://cdn6.163189.xyz/163189/fhzx",
       "reason": "conn refused",
       "source": "Guovin-TV"
@@ -1392,16 +1478,16 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "凤凰资讯",
-      "url": "http://101.35.240.114:88/phenix.php?id=fhzx",
-      "reason": "HTTP 404",
-      "source": "Kimentanm-aptv"
-    },
-    {
       "name": "凤凰中文",
       "url": "http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=fhzw",
       "reason": "direct not ts: not MPEG-TS",
       "source": "Supprise0901-live"
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://101.35.240.114:88/phenix.php?id=fhzx",
+      "reason": "HTTP 404",
+      "source": "Kimentanm-aptv"
     },
     {
       "name": "凤凰资讯",
@@ -1410,15 +1496,21 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "凤凰资讯",
-      "url": "http://app.kds666.top:5566/api.php?id=2&s=2",
-      "reason": "direct not ts: not MPEG-TS",
+      "name": "八大综合",
+      "url": "http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "凤凰香港",
+      "url": "http://jy.bhzz.today:2026/YY1/WMHS.php?id=3e1c841a88936f25&t=530664631720909616&line=0&token=xxx",
+      "reason": "HTTP 404",
       "source": "Supprise0901-live"
     },
     {
-      "name": "凤凰资讯",
-      "url": "http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=fhzx",
-      "reason": "direct not ts: not MPEG-TS",
+      "name": "凤凰香港",
+      "url": "http://jy.bhzz.today:2026/YY1/WMHS.php?id=3e1c841a88936f25&t=743958446150567809&line=1&token=xxx",
+      "reason": "HTTP 404",
       "source": "Supprise0901-live"
     },
     {
@@ -1429,27 +1521,21 @@
     },
     {
       "name": "凤凰香港",
-      "url": "http://app.kds666.top:5566/api.php?id=129&s=11",
-      "reason": "direct not ts: not MPEG-TS",
-      "source": "Supprise0901-live"
-    },
-    {
-      "name": "凤凰香港",
-      "url": "http://app.kds666.top:5566/api.php?id=3&s=2",
-      "reason": "direct not ts: not MPEG-TS",
-      "source": "Supprise0901-live"
-    },
-    {
-      "name": "八大综合",
-      "url": "http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "凤凰香港",
       "url": "https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8",
       "reason": "HTTP 403",
       "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=fhzx",
+      "reason": "direct not ts: not MPEG-TS",
+      "source": "Supprise0901-live"
+    },
+    {
+      "name": "凤凰香港",
+      "url": "http://jy.bhzz.today:2026/YY1/WMHS.php?id=3e1c841a88936f25&t=1067366677706926791&line=2&token=xxx",
+      "reason": "HTTP 404",
+      "source": "Supprise0901-live"
     },
     {
       "name": "凤凰香港",
@@ -1458,10 +1544,10 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "凤凰香港",
-      "url": "https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8",
-      "reason": "master: no valid ts",
-      "source": "Guovin-TV"
+      "name": "凤凰资讯",
+      "url": "http://app.kds666.top:5566/api.php?id=2&s=2",
+      "reason": "direct not ts: not MPEG-TS",
+      "source": "Supprise0901-live"
     },
     {
       "name": "凤凰香港",
@@ -1476,22 +1562,28 @@
       "source": "Guovin-TV"
     },
     {
+      "name": "凤凰香港",
+      "url": "http://app.kds666.top:5566/api.php?id=129&s=11",
+      "reason": "direct not ts: not MPEG-TS",
+      "source": "Supprise0901-live"
+    },
+    {
+      "name": "凤凰香港",
+      "url": "http://101.35.240.114:88/phenix.php?id=fhhk",
+      "reason": "HTTP 404",
+      "source": "Kimentanm-aptv"
+    },
+    {
       "name": "华视",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "华视",
-      "url": "https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "凤凰香港台",
-      "url": "https://epg.pw/stream/27b49ba568efc8dcc9af6a79ec06ffd4a2e354e3e2060143be83fca695edf46e.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
+      "name": "凤凰香港",
+      "url": "http://app.kds666.top:5566/api.php?id=3&s=2",
+      "reason": "direct not ts: not MPEG-TS",
+      "source": "Supprise0901-live"
     },
     {
       "name": "华视综合娱乐",
@@ -1510,12 +1602,6 @@
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "凤凰香港",
-      "url": "http://101.35.240.114:88/phenix.php?id=fhhk",
-      "reason": "HTTP 404",
-      "source": "Kimentanm-aptv"
     },
     {
       "name": "八大综合台",
@@ -1554,28 +1640,28 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "公视CTV",
-      "url": "http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "公视戏剧",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "博斯高球1台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/4870a14ca0496e434825594643eea173.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
+      "name": "公视CTV",
+      "url": "http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
       "name": "博斯高球2台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "公视戏剧",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "凤凰中文",
@@ -1585,20 +1671,14 @@
     },
     {
       "name": "凤凰中文",
-      "url": "http://59.125.101.122:8080/live/phoenix7188.m3u8",
+      "url": "http://112.50.243.7/PLTV/88888888/224/3221225900/index.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "博斯运动2",
-      "url": "https://epg.pw/stream/f8e9fc9a8c76935a58f6c9295462febadcc2e06471bc7634a6cd4d7fe5a12b14.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "博斯魅力网",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/906ff5c1e590fdc0f41744077f56672a.m3u8",
-      "reason": "conn refused",
+      "name": "凤凰中文",
+      "url": "http://59.125.101.122:8080/live/phoenix7188.m3u8",
+      "reason": "timeout",
       "source": "imDazui-港澳台海外"
     },
     {
@@ -1614,9 +1694,9 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "凤凰中文",
-      "url": "http://112.50.243.7/PLTV/88888888/224/3221225900/index.m3u8",
-      "reason": "timeout",
+      "name": "博斯魅力网",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/906ff5c1e590fdc0f41744077f56672a.m3u8",
+      "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
@@ -1638,12 +1718,6 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "博斯魅力",
-      "url": "https://epg.pw/stream/440e2c0585ce62fd999454df8770aef94a3631ed4dbb1036be6a191ce879d581.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
       "name": "凤凰卫视",
       "url": "http://198.16.64.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83",
       "reason": "timeout",
@@ -1654,6 +1728,18 @@
       "url": "http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA",
       "reason": "timeout",
       "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "台视新闻 HD",
+      "url": "https://ytm2.yuanhsing.cf/ttvnewsview.m3u8",
+      "reason": "conn refused",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "凤凰电影",
+      "url": "http://111.59.189.40:8445/tsfile/live/1022_1.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "台视综合台",
@@ -1669,9 +1755,9 @@
     },
     {
       "name": "凤凰电影",
-      "url": "http://111.59.189.40:8445/tsfile/live/1022_1.m3u8",
+      "url": "https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv",
       "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "台视新闻 HD",
@@ -1680,45 +1766,27 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "凤凰电影",
-      "url": "https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv",
-      "reason": "timeout",
-      "source": "imDazui-港澳台202506"
+      "name": "天映经典",
+      "url": "http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463",
+      "reason": "empty",
+      "source": "Guovin-TV"
     },
     {
-      "name": "台视新闻 HD",
-      "url": "https://ytm2.yuanhsing.cf/ttvnewsview.m3u8",
-      "reason": "conn refused",
-      "source": "MercuryZz-港澳台"
+      "name": "凤凰资讯",
+      "url": "http://112.50.243.7/PLTV/88888888/224/3221225901/index.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "天映经典",
       "url": "http://o11.163189.xyz/stream/live/ccm/",
-      "reason": "HTTP 429",
+      "reason": "HTML page",
       "source": "Guovin-TV"
-    },
-    {
-      "name": "天映经典",
-      "url": "https://epg.pw/stream/257310e766410da552d36d6edd54d575489b6f2f6fc282f89d697d68b46b47fc.ctv",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台202506"
     },
     {
       "name": "天映经典",
       "url": "http://smt.1678520.xyz/smt3.2.3.php?id=Celestial2",
       "reason": "HTTP 404",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "寰宇新闻",
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8",
-      "reason": "ts not MPEG-TS",
-      "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "天映经典",
-      "url": "http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463",
-      "reason": "HTTP 458",
       "source": "Guovin-TV"
     },
     {
@@ -1740,16 +1808,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "天映频道(MAS)",
-      "url": "https://epg.pw/stream/be57bcf7129184f546bebfec81d980207851b2d523b83ff64deddda8d6e5e5e6.ctv",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "寰宇财经台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/77c9bab3af161386df16ad9d8a3f3541.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
+      "name": "寰宇新闻",
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8",
+      "reason": "ts not MPEG-TS",
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "寰宇综合",
@@ -1758,28 +1820,16 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "凤凰资讯",
-      "url": "http://112.50.243.7/PLTV/88888888/224/3221225901/index.m3u8",
-      "reason": "timeout",
+      "name": "寰宇财经台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/77c9bab3af161386df16ad9d8a3f3541.m3u8",
+      "reason": "conn refused",
       "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "寰宇新闻",
-      "url": "https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
     },
     {
       "name": "无线新闻台",
       "url": "https://cdn.hklive.tv/xxxx/83/index.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "无线星河",
-      "url": "https://iptv.707626.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8",
-      "reason": "conn refused",
-      "source": "Guovin-TV"
     },
     {
       "name": "无线财经资讯台",
@@ -1794,6 +1844,12 @@
       "source": "imDazui-港澳台2023"
     },
     {
+      "name": "无线星河",
+      "url": "https://iptv.707626.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8",
+      "reason": "conn refused",
+      "source": "Guovin-TV"
+    },
+    {
       "name": "明珠台",
       "url": "https://cdn.hklive.tv/xxxx/84/index.m3u8",
       "reason": "conn refused",
@@ -1806,26 +1862,20 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "无线新闻",
-      "url": "http://cdn9.163189.xyz/smt1.1.php?id=inews_twn",
-      "reason": "HTTP 523",
-      "source": "Guovin-TV"
-    },
-    {
       "name": "华视",
       "url": "http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "华视",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8",
+      "name": "华视CTSHD",
+      "url": "http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "华视CTSHD",
-      "url": "http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6",
+      "name": "华视",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -1846,6 +1896,12 @@
       "url": "http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8",
       "reason": "direct too small",
       "source": "sammy0101-HK"
+    },
+    {
+      "name": "博斯网球HD",
+      "url": "http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "東森超視",
@@ -1878,32 +1934,20 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "有線新聞台",
-      "url": "http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8",
-      "reason": "direct too small",
-      "source": "sammy0101-HK"
-    },
-    {
-      "name": "博斯网球HD",
-      "url": "http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "博斯运动1",
       "url": "http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "博斯高球2HD",
-      "url": "http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "name": "有線新聞台",
+      "url": "http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8",
+      "reason": "direct too small",
+      "source": "sammy0101-HK"
     },
     {
-      "name": "博斯高球j",
-      "url": "http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0",
+      "name": "博斯高球2HD",
+      "url": "http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -1918,6 +1962,18 @@
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8",
       "reason": "ts not MPEG-TS",
       "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "博斯高球j",
+      "url": "http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "无线新闻",
+      "url": "http://cdn9.163189.xyz/smt1.1.php?id=inews_twn",
+      "reason": "HTTP 523",
+      "source": "Guovin-TV"
     },
     {
       "name": "博斯高球頻壹",
@@ -1938,16 +1994,10 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "台视新闻 HD",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=11",
-      "reason": "timeout",
-      "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "天映经典",
-      "url": "http://210.210.155.37/qwr9ew/s/s31/index2.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台202506"
+      "name": "港台電視31",
+      "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
+      "reason": "HTTP 403",
+      "source": "sammy0101-HK"
     },
     {
       "name": "港台電視32",
@@ -1962,16 +2012,22 @@
       "source": "sammy0101-HK"
     },
     {
+      "name": "台视新闻 HD",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=11",
+      "reason": "timeout",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "天映经典",
+      "url": "http://210.210.155.37/qwr9ew/s/s31/index2.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台202506"
+    },
+    {
       "name": "天映经典",
       "url": "http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "民视",
-      "url": "https://epg.pw/stream/446ff2630964ca5ddcb9f9cb6d4e1a5f2ca1dca875b2a4e1c462b9e5cf83b77d.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
     },
     {
       "name": "无线财经咨询台",
@@ -1996,12 +2052,6 @@
       "url": "http://80.94.54.42/fashiontv/stream/playlist.m3u8",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "港台電視31",
-      "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
-      "reason": "master: no valid ts",
-      "source": "sammy0101-HK"
     },
     {
       "name": "時尚台FTV",
@@ -2040,26 +2090,32 @@
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "民视新闻",
-      "url": "http://210.61.56.23/hls/ftvtv/index.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台海外"
-    },
-    {
       "name": "澳门卫视",
       "url": "http://stream.mastvnet.com/MSTV/SD/live.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "民视新闻 HD",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=1",
+      "name": "民视新闻",
+      "url": "http://210.61.56.23/hls/ftvtv/index.m3u8",
       "reason": "timeout",
-      "source": "MercuryZz-港澳台"
+      "source": "imDazui-港澳台海外"
     },
     {
       "name": "民视新闻 HD",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=01",
+      "reason": "timeout",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "民视第一台",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "民视新闻 HD",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=1",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
     },
@@ -2070,22 +2126,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "民视第一台",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "澳门澳亚卫视台",
       "url": "http://stream.mastvnet.com/MASTV/sd/live.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "澳门莲花",
-      "url": "http://anren.live/HK/BiIOU11uLA.m3u8",
-      "reason": "HTML page",
-      "source": "MercuryZz-港澳台"
     },
     {
       "name": "澳门莲花",
@@ -2097,6 +2141,12 @@
       "name": "澳视澳门",
       "url": "http://61.244.22.5/ch1/ch1.live/playelist.m3u8",
       "reason": "timeout",
+      "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "澳门莲花",
+      "url": "http://anren.live/HK/BiIOU11uLA.m3u8",
+      "reason": "HTML page",
       "source": "MercuryZz-港澳台"
     },
     {
@@ -2112,22 +2162,22 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "澳门莲花",
-      "url": "http://epg.112114.xyz/lotus",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "经典香港电影",
-      "url": "http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=2026112512013319050b63e5914cdc9fc4b6a5cd9f3ead&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261125120133&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20261125120133&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=993ca59c643e9641157419921821348b",
-      "reason": "HTTP 403",
-      "source": "Supprise0901-live"
-    },
-    {
       "name": "澳视澳门 (720p) [Not 24/7]",
       "url": "http://61.244.22.4/ch1/ch1.live/playelist.m3u8",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "经典香港电影",
+      "url": "http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=20261126000133c6326a29e20242a8abb07c01aa1d4dec&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261126000133&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20261126000133&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7ab7e75559cebf8abe90c9d2d0aef392",
+      "reason": "HTTP 403",
+      "source": "Supprise0901-live"
+    },
+    {
+      "name": "澳门莲花",
+      "url": "http://epg.112114.xyz/lotus",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "翡翠",
@@ -2154,16 +2204,16 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "翡翠台",
-      "url": "http://r.jdshipin.com/GeWKr",
-      "reason": "direct too small",
-      "source": "sammy0101-HK"
-    },
-    {
       "name": "澳门Macau",
       "url": "http://61.244.22.4/ch3/ch3.live/playelist.m3u8",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://r.jdshipin.com/GeWKr",
+      "reason": "direct too small",
+      "source": "sammy0101-HK"
     },
     {
       "name": "翡翠台",
@@ -2190,16 +2240,16 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "翡翠台",
-      "url": "http://r.jdshipin.com/qClQf",
-      "reason": "direct too small",
-      "source": "Guovin-TV"
-    },
-    {
       "name": "澳门体育 (720p)",
       "url": "http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8",
       "reason": "timeout",
       "source": "MercuryZz-港澳台"
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://r.jdshipin.com/qClQf",
+      "reason": "direct too small",
+      "source": "Guovin-TV"
     },
     {
       "name": "澳门信息",
@@ -2214,12 +2264,6 @@
       "source": "Kimentanm-aptv"
     },
     {
-      "name": "澳门信息",
-      "url": "http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8",
-      "reason": "timeout",
-      "source": "MercuryZz-港澳台"
-    },
-    {
       "name": "華視",
       "url": "rtmp://f13h.mine.nu/sat/tv111",
       "reason": "No connection adapters were found for 'r",
@@ -2230,6 +2274,12 @@
       "url": "rtmp://f13h.mine.nu:1935/sat/tv111",
       "reason": "No connection adapters were found for 'r",
       "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "澳门信息",
+      "url": "http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8",
+      "reason": "timeout",
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "澳门卫视",
@@ -2250,9 +2300,9 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "靖天国际台",
-      "url": "https://epg.pw/stream/d3d02fa9532f7534b585d54c1d5c9d2efd49a5e08858e1f16750eec4448f083a.m3u8",
-      "reason": "master: no valid ts",
+      "name": "耀才财经",
+      "url": "https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8",
+      "reason": "direct too small",
       "source": "imDazui-港澳台202506"
     },
     {
@@ -2268,20 +2318,26 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "耀才财经",
-      "url": "https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8",
-      "reason": "direct too small",
-      "source": "imDazui-港澳台202506"
-    },
-    {
       "name": "澳门有线互动新闻",
       "url": "http://202.175.127.77/live/show/ch2/index.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台202506"
     },
     {
+      "name": "靖天戏剧",
+      "url": "https://cdn12.178.indevs.in/163189/177d541552f78003",
+      "reason": "HTTP 404",
+      "source": "Guovin-TV"
+    },
+    {
       "name": "靖天戏剧台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/4c3b3fa6235fce99e794a16e096c2e1b.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "靖天日本台",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/031b3e399e9530310abc135a0b19a8ac.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
@@ -2292,8 +2348,8 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "靖天日本台",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/031b3e399e9530310abc135a0b19a8ac.m3u8",
+      "name": "靖天映画",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/4364abb0a9f358049a535f4692cd49b5.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
@@ -2305,9 +2361,9 @@
     },
     {
       "name": "靖天映画",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/4364abb0a9f358049a535f4692cd49b5.m3u8",
-      "reason": "conn refused",
-      "source": "imDazui-港澳台海外"
+      "url": "https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf",
+      "reason": "HTTP 404",
+      "source": "Guovin-TV"
     },
     {
       "name": "靖天映画",
@@ -2316,10 +2372,16 @@
       "source": "Guovin-TV"
     },
     {
-      "name": "澳门莲花",
-      "url": "http://nettvpro.live/hls/lotustv.php",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "name": "靖天映画",
+      "url": "https://hls-gateway.vpstv.net/streams/476302.m3u8",
+      "reason": "HTTP 403",
+      "source": "Guovin-TV"
+    },
+    {
+      "name": "靖天映画",
+      "url": "https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858",
+      "reason": "HTTP 404",
+      "source": "Guovin-TV"
     },
     {
       "name": "澳门葡语",
@@ -2328,28 +2390,10 @@
       "source": "MercuryZz-港澳台"
     },
     {
-      "name": "澳门葡语",
-      "url": "http://61.244.22.4/ch2/ch2.live/index.m3u8",
-      "reason": "timeout",
-      "source": "MercuryZz-港澳台"
-    },
-    {
-      "name": "靖天映画",
-      "url": "https://hls-gateway.vpstv.net/streams/476302.m3u8",
-      "reason": "HTTP 403",
-      "source": "Guovin-TV"
-    },
-    {
       "name": "靖天欢乐台",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/4da43dff7cd731ffb9bbe9a85b029536.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
-    },
-    {
-      "name": "澳门资讯",
-      "url": "http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8",
-      "reason": "timeout",
-      "source": "MercuryZz-港澳台"
     },
     {
       "name": "靖天电影台",
@@ -2364,10 +2408,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "靖天戏剧",
-      "url": "https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858",
-      "reason": "Exceeded 30 redirects.",
-      "source": "Guovin-TV"
+      "name": "澳门莲花",
+      "url": "http://nettvpro.live/hls/lotustv.php",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "靖天育乐台",
@@ -2376,16 +2420,16 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "罗马尼亚STV",
-      "url": "http://s2.streamnet.ro:8035/stream.flv",
-      "reason": "timeout",
-      "source": "imDazui-港澳台海外"
+      "name": "靖天资讯",
+      "url": "https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858",
+      "reason": "HTTP 404",
+      "source": "Guovin-TV"
     },
     {
-      "name": "翡翠华丽",
-      "url": "http://23.237.10.66:16410",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
+      "name": "靖天资讯",
+      "url": "https://hls-gateway.vpstv.net/streams/476258.m3u8",
+      "reason": "HTTP 403",
+      "source": "Guovin-TV"
     },
     {
       "name": "靖天资讯台",
@@ -2400,20 +2444,14 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "靖天资讯",
-      "url": "https://hls-gateway.vpstv.net/streams/476258.m3u8",
-      "reason": "HTTP 403",
-      "source": "Guovin-TV"
-    },
-    {
-      "name": "靖天映画",
-      "url": "https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf",
-      "reason": "HTTP 404",
-      "source": "Guovin-TV"
+      "name": "澳门葡语",
+      "url": "http://61.244.22.4/ch2/ch2.live/index.m3u8",
+      "reason": "timeout",
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "靖天戏剧",
-      "url": "https://cdn12.178.indevs.in/163189/177d541552f78003",
+      "url": "https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858",
       "reason": "HTTP 404",
       "source": "Guovin-TV"
     },
@@ -2424,10 +2462,10 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "靖天映画",
-      "url": "https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858",
-      "reason": "Exceeded 30 redirects.",
-      "source": "Guovin-TV"
+      "name": "澳门资讯",
+      "url": "http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8",
+      "reason": "timeout",
+      "source": "MercuryZz-港澳台"
     },
     {
       "name": "香港卫视",
@@ -2442,44 +2480,20 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "翡翠台",
-      "url": "http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "香港佛陀",
       "url": "https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8",
       "reason": "direct too small",
       "source": "imDazui-港澳台2023"
     },
     {
-      "name": "翡翠台",
-      "url": "http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8",
+      "name": "罗马尼亚STV",
+      "url": "http://s2.streamnet.ro:8035/stream.flv",
       "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "香港卫视文旅",
-      "url": "https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "香港国际财经台",
-      "url": "https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "香港有线电视603",
-      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.m3u8",
-      "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "翡翠台",
-      "url": "http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac",
+      "name": "翡翠华丽",
+      "url": "http://23.237.10.66:16410",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -2490,10 +2504,34 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "靖天资讯",
-      "url": "https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858",
-      "reason": "Exceeded 30 redirects.",
-      "source": "Guovin-TV"
+      "name": "香港有线电视603",
+      "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.m3u8",
+      "reason": "conn refused",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "香港电台",
+      "url": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on",
+      "reason": "HTTP 403",
+      "source": "imDazui-港澳台海外"
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "香港有线新闻",
+      "url": "https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv",
+      "reason": "direct too small",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "龙华偶像",
@@ -2508,22 +2546,16 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "香港有线新闻",
-      "url": "https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv",
-      "reason": "direct too small",
-      "source": "imDazui-港澳台202506"
-    },
-    {
       "name": "龙华影剧",
       "url": "http://pili-live-hdl.qhmywl.com:80/dsdtv/d2e1d697b31906f91d7e19a5f06f64ed.m3u8",
       "reason": "conn refused",
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "龙华卡通",
-      "url": "https://cdn8.163189.xyz/live/lhkt/stream.m3u8",
-      "reason": "HTTP 429",
-      "source": "imDazui-港澳台202506"
+      "name": "翡翠台",
+      "url": "http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "龙华戏剧",
@@ -2532,10 +2564,10 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "香港电台",
-      "url": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台海外"
+      "name": "龙华卡通",
+      "url": "https://cdn8.163189.xyz/live/lhkt/stream.m3u8",
+      "reason": "HTTP 429",
+      "source": "imDazui-港澳台202506"
     },
     {
       "name": "龙华洋片台",
@@ -2556,14 +2588,14 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "龙华电影",
-      "url": "https://cdn8.163189.xyz/live/lhdy/stream.m3u8",
-      "reason": "HTTP 429",
+      "name": "龙华日韩",
+      "url": "https://cdn8.163189.xyz/live/lhrh/stream.m3u8",
+      "reason": "HTML page",
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "龙华日韩",
-      "url": "https://cdn8.163189.xyz/live/lhrh/stream.m3u8",
+      "name": "龙华电影",
+      "url": "https://cdn8.163189.xyz/live/lhdy/stream.m3u8",
       "reason": "HTML page",
       "source": "imDazui-港澳台202506"
     },
@@ -2574,20 +2606,20 @@
       "source": "imDazui-港澳台海外"
     },
     {
-      "name": "香港電台普通話台",
-      "url": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8",
-      "reason": "master: no valid ts",
-      "source": "imDazui-港澳台202506"
-    },
-    {
       "name": "龙华经典",
       "url": "https://cdn8.163189.xyz/live/lhjd/stream.m3u8",
       "reason": "HTML page",
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "龙华戏剧",
-      "url": "https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8",
+      "name": "香港卫视文旅",
+      "url": "https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8",
+      "reason": "HTTP 403",
+      "source": "imDazui-港澳台2023"
+    },
+    {
+      "name": "香港電台普通話台",
+      "url": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8",
       "reason": "master: no valid ts",
       "source": "imDazui-港澳台202506"
     },
@@ -2598,20 +2630,8 @@
       "source": "imDazui-港澳台202506"
     },
     {
-      "name": "香港卫视文旅",
-      "url": "https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8",
-      "reason": "HTTP 403",
-      "source": "imDazui-港澳台2023"
-    },
-    {
       "name": "耀才财经",
       "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000",
-      "reason": "timeout",
-      "source": "imDazui-港澳台2023"
-    },
-    {
-      "name": "靖天卡通台",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台2023"
     },
@@ -2620,6 +2640,12 @@
       "url": "http://37.27.111.214:8080/live/8/hls.m3u8",
       "reason": "timeout",
       "source": "imDazui-港澳台202506"
+    },
+    {
+      "name": "靖天卡通台",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8",
+      "reason": "timeout",
+      "source": "imDazui-港澳台2023"
     },
     {
       "name": "靖天国际台",
@@ -2673,12 +2699,6 @@
       "name": "龍華電影頻道",
       "url": "http://37.27.111.214:8080/live/19/hls.m3u8",
       "reason": "timeout",
-      "source": "imDazui-港澳台202506"
-    },
-    {
-      "name": "香港卫视",
-      "url": "https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015495aaa.m3u8",
-      "reason": "master: no valid ts",
       "source": "imDazui-港澳台202506"
     },
     {

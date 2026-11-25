@@ -1,5 +1,5 @@
-# 港澳台IPTV | 2026-11-24 20:34
-# 频道: 28 | 全部端到端验证通过
+# 港澳台IPTV | 2026-11-25 05:19
+# 频道: 27 | 全部端到端验证通过
 # 验证方法: m3u8→ts分片→MPEG-TS 0x47同步字节校验
 
 港台RTHK,#genre#
@@ -7,7 +7,7 @@
 
 TVB翡翠台,#genre#
 无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-无线星河,http://r.jdshipin.com/Voac4
+无线星河,http://r.jdshipin.com/sXuuD
 翡翠台,http://r.jdshipin.com/qrfbg
 
 TVB明珠台,#genre#
@@ -15,9 +15,6 @@ TVB明珠台,#genre#
 
 ViuTV,#genre#
 ViuTV,http://r.jdshipin.com/TcKr2
-
-凤凰资讯台,#genre#
-凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 
 凤凰其他频道,#genre#
 凤凰香港,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3e1c841a88936f25&t=1067366677706926791&line=2&token=xxx
